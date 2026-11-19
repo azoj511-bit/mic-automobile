@@ -1,0 +1,220 @@
+================================================================================
+                        FICHE TECHNIQUE COMPLETE
+                VOLKSWAGEN ARTEON 2.0 TSI DSG (3H)
+================================================================================
+
+PRIX DE VENTE : 11 000 EUR
+
+================================================================================
+INFORMATIONS GENERALES
+================================================================================
+
+Marque                      : Volkswagen
+Modele                      : Arteon (1ere generation - 3H)
+Version                     : 2.0 TSI 190 ch OPF DSG
+Annee                       : 06/2020
+Kilometrage                 : 159 666 km (certifie)
+Carburant                   : Essence (Sans plomb)
+Transmission                : Automatique (DSG double embrayage, 7 rapports)
+Origine                     : Importation Allemagne
+Garantie                    : 18 mois
+Historique                  : Jamais accidente
+Type de carrosserie         : Fastback (berline 5 portes a hayon)
+Nombre de places            : 5
+Nombre de portes            : 5
+Norme antipollution         : Euro 6d-TEMP-EVAP-ISC
+Debut de production         : 2019 (phase restylage precoce)
+Fin de production           : 2020
+
+================================================================================
+MOTORISATION
+================================================================================
+
+Code moteur                 : EA888 Gen.3B / DKZA
+Type                        : 4 cylindres en ligne, turbocompresse
+Cylindree                   : 1 984 cm3 (2.0L)
+Alimentation                : Injection directe + injection indirecte multipoint
+Suralimentation             : Turbocompresseur avec intercooler
+Puissance maximale          : 190 ch (140 kW) a 4 200 - 6 000 tr/min
+Couple maximal              : 320 Nm (236 lb-ft) a 1 500 - 4 100 tr/min
+Puissance specifique        : 95,8 ch/litre
+Nombre de soupapes          : 16 (4 par cylindre)
+Alesage x Course            : 82,5 mm x 92,8 mm
+Taux de compression         : 11,65:1
+Distribution                : Double arbre a cames en tete (DOHC)
+Capacite huile moteur       : 5,7 litres
+Systemes                    : Start & Stop, filtre a particules essence (OPF/GPF)
+
+================================================================================
+PERFORMANCES
+================================================================================
+
+Vitesse maximale            : 239 km/h
+0 a 100 km/h                : 7,7 secondes
+Rapport poids/puissance     : 8,0 kg/ch
+Rapport puissance/tonne     : 124,6 ch/tonne
+
+================================================================================
+CONSOMMATION & EMISSIONS
+================================================================================
+
+Consommation urbaine (NEDC) : 8,0 - 8,4 L/100 km
+Consommation extra-urb.     : 5,1 - 5,2 L/100 km
+Consommation mixte (NEDC)   : 6,2 - 6,4 L/100 km
+Emissions CO2 (NEDC)        : 141 - 144 g/km
+Capacite reservoir           : 66 litres
+
+================================================================================
+TRANSMISSION & CHASSIS
+================================================================================
+
+Boite de vitesses           : DSG double embrayage a 7 rapports
+Roues motrices              : Traction (roues avant)
+Architecture                : Moteur avant transversal
+
+Suspension avant            : McPherson independante avec ressort helicoidal
+                              et barre anti-roulis
+Suspension arriere          : Multibras independante avec stabilisateur
+Freins avant                : Disques ventiles
+Freins arriere              : Disques pleins
+Direction                   : Cremaillere, assistance electrique
+Aides a la conduite         : ABS
+Garde au sol                : 138 mm
+Diametre de braquage        : 11,9 m
+
+Pneumatiques (selon finit.) : 245/45 R18 | 245/40 R19 | 245/35 R20
+Jantes                      : 8J x 18 | 8J x 19 | 8J x 20
+
+================================================================================
+DIMENSIONS
+================================================================================
+
+Longueur                    : 4 862 mm
+Largeur (hors retros)       : 1 871 mm
+Largeur (retros inclus)     : 2 127 mm
+Hauteur                     : 1 450 mm
+Empattement                 : 2 837 mm
+Voie avant                  : 1 587 - 1 591 mm
+Voie arriere                : 1 577 - 1 581 mm
+Garde au sol                : 138 mm
+
+================================================================================
+POIDS & CAPACITES
+================================================================================
+
+Poids a vide                : 1 525 kg
+Poids total autorise (PTAC) : 2 130 kg
+Charge utile maximale       : 605 kg
+Charge max. sur toit        : 100 kg
+Volume coffre (min)         : 563 litres
+Volume coffre (max/rabattu) : 1 557 litres
+Capacite reservoir           : 66 litres
+Remorque freinee (8%)       : 2 000 kg
+Remorque freinee (12%)      : 1 800 kg
+Remorque non freinee        : 750 kg
+Poids fleche attelage       : 90 kg
+
+================================================================================
+EQUIPEMENTS VW ARTEON (NIVEAU STANDARD ET SUPERIEURS)
+================================================================================
+
+SECURITE & AIDES A LA CONDUITE :
+- ABS avec assistant de freinage d'urgence
+- ESC (controle electronique de stabilite)
+- Front Assist avec freinage autonome d'urgence
+- Lane Assist (aide au maintien dans la voie)
+- Surveillance d'angle mort (Side Assist, selon version)
+- Regulateur de vitesse adaptatif ACC
+- Airbags frontaux, lateraux, rideaux
+- Fixations Isofix
+- Controle de pression des pneus
+- Phares LED (Full LED selon version)
+- Feux arriere a LED avec clignotants dynamiques
+- Feux de jour a LED en bande continue
+
+MULTIMEDIA & CONNECTIVITE :
+- Discover Pro avec ecran tactile 9,2 pouces
+- Active Info Display (tableau de bord digital 12,3 pouces)
+- Navigation avec cartographie Europe
+- Apple CarPlay et Android Auto
+- Bluetooth telephonie et streaming audio
+- Radio numerique DAB+
+- Prises USB avant et arriere
+- Commande gestuelle (selon version)
+- Reconnaissance vocale
+
+CONFORT & INTERIEUR :
+- Climatisation automatique 3 zones Climatronic
+- Volant multifonction cuir
+- Volant reglable en hauteur et profondeur
+- Sieges avant reglables electriquement
+- Sieges avant chauffants (selon version)
+- Accoudoir central avant
+- Retroviseurs electriques chauffants rabattables
+- Vitres electriques avant et arriere
+- Verrouillage centralise KESSY (acces et demarrage sans cle)
+- Hayon electrique Easy Open (ouverture par geste du pied)
+- Eclairage d'ambiance multicolore
+- Start & Stop automatique
+- Mode de conduite selectionnable (Eco/Normal/Sport/Individual)
+- Ordinateur de bord multifonction
+
+EXTERIEUR :
+- Design fastback elegant avec ligne de toit coupee
+- Calandre sans cadre (frameless grille) - signature Arteon
+- Jantes alliage 18 pouces minimum
+- Poignees de portes couleur carrosserie
+- Sorties d'echappement chromees
+
+================================================================================
+OPTIONS COURANTES
+================================================================================
+
+- Pack R-Line (boucliers sport, jantes R-Line, inserts)
+- Pack Elegance (cuir Nappa, boiseries, sieges ergo)
+- Toit ouvrant panoramique
+- Sellerie cuir Nappa
+- Sieges ventiles
+- Sieges chauffants arriere
+- Systeme audio Dynaudio Consequence (700W, 12 HP)
+- Affichage tete haute (Head-Up Display)
+- Camera 360 degres Area View
+- Park Assist (stationnement automatique)
+- Suspension adaptative DCC
+- Eclairage d'ambiance 30 couleurs
+- Attelage de remorque amovible electrique
+- Pack hiver (volant chauffant, lave-phares)
+
+================================================================================
+PRIX DU MARCHE EUROPEEN (OCCASION - 2024/2025)
+================================================================================
+
+VW Arteon 2.0 TSI DSG 190 ch 2020 - Marche occasion europeen :
+
+Fourchette de prix generale  : 22 000 EUR - 32 000 EUR
+Prix moyen constate          : ~25 000 EUR - 29 000 EUR
+
+Note : Le prix de vente de ce vehicule (11 000 EUR) est nettement inferieur
+a la valeur du marche. L'Arteon reste un vehicule elegant et spacieux avec
+un grand coffre de 563 litres.
+
+================================================================================
+CONDITIONS DE VENTE
+================================================================================
+
+Prix de vente                : 11 000 EUR
+
+Documents fournis (inclus dans le prix) :
+- Carte grise officielle avec plaques d'immatriculation
+- Certificat de non-gage
+- Controle technique a jour
+- Carnet d'entretien constructeur Volkswagen
+- Factures d'entretien
+
+Garantie : 18 mois
+Delai de retractation : 14 jours
+
+================================================================================
+                     FIN DE LA FICHE TECHNIQUE
+             VW ARTEON 2.0 TSI DSG 190 CH (3H) - 2020
+================================================================================

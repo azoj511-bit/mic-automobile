@@ -1,0 +1,481 @@
+================================================================================
+        FICHE VEHICULE — AUDI A8 4.0 V8 TDI QUATTRO TIPTRONIC (D3 / 4E)
+        Grande Berline de Prestige · 275 ch · Automatique Tiptronic · Diesel · 2005
+================================================================================
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [1] INFORMATIONS COMMERCIALES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Prix de vente             : 2 000 EUR (marche europeen — occasion)
+  Acompte obligatoire       : 20% a la commande = 400 EUR
+  Reste a payer             : 1 600 EUR
+  Origine                   : Importation Allemagne
+  Annee                     : Mai 2005 (05/2005)
+  Kilometrage               : 104 600 km (certifie)
+  Carburant                 : Diesel
+  Boite de vitesses         : Automatique Tiptronic 6 rapports (ZF 6HP)
+  Transmission               : Quattro — 4 roues motrices permanentes
+  Garantie                  : 18 mois chez le concessionnaire
+  Etat accident             : Jamais accidente
+  Puissance fiscale         : 19 CV (France)
+  Generation                : Audi A8 D3 / 4E (2002-2010)
+  Prix neuf (2005)          : 97 680 EUR (version standard) — 112 180 EUR (Pack Avus)
+  Cote marche europeen 2025 : 1 500 – 4 500 EUR (selon etat et historique)
+  Note                      : Ce vehicule existe en deux versions carrosserie :
+                              Berline (5 051 mm) ou Limousine (5 181 mm)
+                              La version 2005 avec 104 600 km peut correspondre
+                              aux deux — a verifier aupres du vendeur via le VIN
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [2] PRESENTATION GENERALE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  L'Audi A8 D3 (code interne 4E) est la deuxieme generation de la grande berline
+  de prestige d'Audi, produite de 2002 a 2010. Elle est la premiere grande berline
+  de serie a adopter une carrosserie entierement en aluminium (ASF — Audi Space
+  Frame), une technologie brevetee par Audi qui lui confere une rigidite
+  exceptionnelle pour un poids contenu (environ 1 940-1 990 kg selon version)
+  — 40% plus legere qu'un equivalent acier.
+
+  La version 4.0 V8 TDI 275 ch Quattro Tiptronic est le fleuron diesel de la gamme
+  A8 D3 — la version la plus puissante en diesel disponible a son epoque (2003-2005).
+  Elle sera ensuite remplacee par le 4.2 TDI 326 ch en 2005-2006. Ce moteur
+  V8 diesel biturbo de 3,936 litres est une exclusivite Audi — concu entierement
+  en interne, il n'a jamais ete utilise sur aucun autre modele du groupe.
+
+  Le 4.0 TDI produit 800 Nm de couple a seulement 1 800 tr/min — un record
+  absolu pour un moteur diesel de serie a sa sortie en 2003. Cette puissance
+  de couple associee aux 275 ch permet des performances de supercar diesel
+  (0-100 en 6,7 s pour une berline de 2 tonnes) tout en autorisant une
+  consommation mixte de 9,6 L/100 km — remarquable pour l'epoque.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [3] MOTORISATION — V8 4.0 TDI BITURBO
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Type de moteur            : V8 a 90° — Diesel biturbo — injection directe
+  Designation Audi          : ASE — 4.0 V8 TDI
+  Cylindree                 : 3 936 cm3 (3,936 litres — ramene a 4,0 L)
+  Alesage x Course          : 81,0 mm x 95,5 mm
+  Nombre de soupapes        : 32 (4 par cylindre)
+  Puissance maximale        : 275 ch (202 kW) a 4 000 tr/min
+  Couple maximum            : 800 Nm de 1 800 a 2 500 tr/min
+  Puissance specifique      : 69,9 ch/litre
+  Regime maximal            : 4 000 tr/min (regime tres bas — caracteristique diesel V8)
+  Taux de compression       : 17,0:1
+  Alimentation              : Injection directe Common Rail haute pression
+                              + 2 turbocompresseurs en configuration bi-turbo
+                              (petit turbo basse pression + grand turbo haute pression)
+  Distribution              : DOHC — 32 soupapes — calage variable des cames
+  Refroidissement           : Eau — deux circuits de refroidissement independants
+                              (un par banc de cylindres)
+  Systeme depollution       : Catalyseur oxydant — PAS de FAP de serie (2005)
+                              (Filtre a Particules DPF optionnel sur certains marches)
+  Stop & Start              : Non disponible en 2005
+  Norme antipollution       : Euro 3 / Euro 4 selon version et marche
+  Carburant                 : Diesel (B5 minimum — avant generalisation B7)
+  Reservoir                 : 90 litres
+  Vidange                   : Tous les 15 000 km (huile longue duree Audi)
+  Note exclusivite          : Ce moteur ASE V8 4.0 TDI est unique a l'Audi A8 D3
+                              Il n'a JAMAIS ete monte sur aucun autre vehicule
+                              du groupe VW/Audi (ni Bentley, ni Phaeton,
+                              ni Touareg) — exclusivite absolue
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [4] TRANSMISSION — QUATTRO + TIPTRONIC 6 RAPPORTS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Type de boite             : Automatique 6 rapports — Tiptronic
+                              ZF 6HP26 (train planetaire)
+  Designation Audi          : Tiptronic — mode sequentiel disponible
+  Commande                  : Levier en console + mode sequentiel (+/-) sur le levier
+                              OU palettes au volant (selon finition)
+  Transmission              : Quattro — 4 roues motrices permanentes
+  Type Quattro D3           : Differentiel central Torsen (autobloquant passif)
+                              Repartition de base : 40% avant / 60% arriere
+                              Transfert passif vers l'essieu ayant le plus de traction
+                              (peut aller jusqu'a 80% vers un seul essieu)
+  Differentiel arriere      : Autobloquant Torsen de serie
+  Note Torsen               : Systeme mecanique pur — fiable et eprouve
+                              Pas de systeme electronique complexe —
+                              plus simple et plus robuste que les systemes modernes
+
+  Rapports (ZF 6HP26) :
+    1ere          : 4,17
+    2eme          : 2,34
+    3eme          : 1,52
+    4eme          : 1,14
+    5eme          : 0,87
+    6eme          : 0,69
+    Marche arriere : 3,40
+    Ratio pont    : 3,07
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [5] CHASSIS — STRUCTURE ASF ALUMINIUM
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Technologie carrosserie   : ASF — Audi Space Frame
+                              PREMIERE MONDIALE — carrosserie entierement aluminium
+                              brevet Audi — premiere grande berline de serie
+                              avec structure 100% aluminium
+  Materiaux ASF             : Aluminium extrude (longerons) + fonte aluminium
+                              (noeuds de jonction) + toles aluminium (panneaux)
+                              Assemblage par rivetage et collage — sans soudure acier
+  Avantages ASF             : -40% de poids vs equivalent acier
+                              +60% de rigidite en torsion
+                              Resistance a la corrosion absolue
+  Suspension avant          : Double triangulation (double wishbone) — aluminium
+                              + amortisseurs hydrauliques adaptatifs (Audi Adaptive Air)
+  Suspension arriere        : Multibras — 5 bras aluminium
+                              + amortisseurs hydrauliques adaptatifs
+  Suspension pneumatique    : Audi Adaptive Air Suspension de serie sur V8 TDI
+                              4 coussins d'air — 5 hauteurs de caisse
+                              Correcteur d'assiette automatique (charge / vitesse)
+  Direction                 : Assistee hydrauliquement — a cremaillere
+                              Rapport de direction variable (ZF Servotronic)
+  Diametre de braquage      : 11,6 m (berline) — 12,1 m (limousine)
+  Garde au sol              : 125 mm (normale) — reglable via suspension air
+
+  Freins avant              : Disques ventiles et perces — O 360 mm + etriers 4 pistons
+  Freins arriere            : Disques ventiles — O 330 mm + etriers 2 pistons
+  Frein de stationnement    : Manuel (frein a main levier) sur D3 2005
+  ABS                       : Multi-canal avec EBD
+  ESP                       : Electronic Stability Program de serie
+  Antipatinage              : ASR de serie
+  Pneumatiques              : 255/45 R18 (serie 2005 V8 TDI)
+  Jantes                    : Alliage 18 pouces de serie
+  Coefficient Cx            : 0,27 — remarquable pour une berline de 5 m en 2003
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [6] PERFORMANCES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  0 a 100 km/h              : 6,7 secondes (officiel Audi)
+  0 a 60 mph (96 km/h)      : 6,4 secondes
+  0 a 160 km/h              : environ 16,0 secondes
+  Quart de mile (400 m DA)  : environ 14,7 secondes
+  Reprise 80-120 km/h       : environ 5,3 secondes (rapport 4)
+  Vitesse maximale          : 250 km/h (limitee electroniquement)
+  Rapport poids/puissance   : 7,2 kg/ch (139 ch/tonne)
+  Rapport couple/poids      : 413 Nm/tonne (EXCEPTIONNEL — record 2003)
+  Note                      : 800 Nm disponibles des 1 800 tr/min = reprises
+                              fantastiques depuis n'importe quel regime
+                              Comportement incomparable pour une berline de 2 tonnes —
+                              "effet catapulte" reconnu par tous les essayeurs de l'epoque
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [7] CONSOMMATION & EMISSIONS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Consommation urbaine      : 13,5 L/100 km (NEDC)
+  Consommation extra-urb.   : 7,4 L/100 km (NEDC)
+  Consommation mixte NEDC   : 9,6 L/100 km
+  Consommation reelle est.  : 10,0 – 13,0 L/100 km (usage normal)
+                              9,0 – 10,0 L/100 km autoroute vitesse moderee
+                              11,0 – 12,0 L/100 km route mixte
+                              12,0 – 14,0 L/100 km ville
+  Consommation sport        : 15,0 – 18,0 L/100 km (accel. frequentes)
+  Emissions CO2 (NEDC)      : 259 g/km
+  Norme antipollution       : Euro 3 (ou Euro 4 selon configuration)
+  Vignette CRIT'Air         : CRIT'Air 3 (France) — restrictions certaines zones
+  Autonomie theorique       : environ 938 km (90 L / 9,6 L mixte NEDC)
+  Autonomie reelle          : environ 690 – 900 km (90 L / 10-13 L reel)
+  Reservoir                 : 90 litres
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [8] DIMENSIONS & POIDS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  VERSION BERLINE (standard) :
+    Longueur totale         : 5 051 mm
+    Hauteur                 : 1 444 mm
+    Empattement             : 2 944 mm
+    Poids a vide (DIN)      : 1 940 kg
+    Prix neuf (2003)        : 97 680 – 103 100 EUR
+
+  VERSION LIMOUSINE (longue) :
+    Longueur totale         : 5 181 mm (+ 130 mm)
+    Hauteur                 : 1 455 mm
+    Empattement             : 3 074 mm (+ 130 mm)
+    Poids a vide (DIN)      : 1 990 kg (+ 50 kg)
+    Prix neuf (2005)        : 112 180 EUR
+
+  DIMENSIONS COMMUNES :
+    Largeur totale          : 1 894 mm (hors retroviseurs)
+    Voie avant              : 1 629 mm
+    Voie arriere            : 1 615 mm
+    Porte-a-faux avant      : 971 mm
+    Porte-a-faux arriere    : 1 136 mm
+    Garde au sol            : 125 mm (normal) — reglable via suspension air
+    PTAC                    : 2 590 kg
+    Charge utile            : 600 kg
+    Remorquage non freine   : 750 kg
+    Volume coffre           : 500 litres (les deux versions)
+    Nombre de places        : 5
+    Reservoir               : 90 litres
+    Cx                      : 0,27
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [9] DESIGN EXTERIEUR — A8 D3
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Style                     : Design Walter de Silva (Audi 2002-2010)
+                              Lignes fluides et apaisees — "design de la quietude"
+                              Calandre single-frame Audi (premiere generation)
+                              Formule: sobre, classe et intemporelle
+  Phares avant              : Bixenon de serie — avec lave-phares
+  Feux arriere              : Feux a incandescence ou LED (selon version)
+  Calandre                  : Single Frame Audi debut — chrome abondant
+  Retroviseurs              : Electriques — chromes — rabattables
+  Toit ouvrant              : En option — grand toit vitree
+  Coffre                    : 500 L — ouverture electrique (option)
+  Couleurs de l'epoque      : Noir Brillant, Argent Platine, Gris Quartz,
+                              Bleu Nuit, Blanc Ibis, Beige Dune
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [10] INTERIEUR & LUXE A8 D3
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Tableau de bord           : Architecture MMI (Multi Media Interface) — generation 1
+                              Disque MMI central entre les sieges — commandes rotatif
+                              Navigation via MMI — affichage dans le retrovoiseur central
+                              puis sur ecran dedéployable (selon version)
+  Systeme MMI               : Audi Multi Media Interface (gen 1, 2005)
+                              Commande centrale rotatif + boutons autour
+                              Toutes les fonctions (nav, audio, clim) via un seul bouton
+  Navigation                : Ecran dedéployable depuis le tableau de bord (option)
+                              ou affichage dans retroviseur interieur (version de base)
+  Sieges avant              : Cuir pleine fleur — reglage electrique 14 voies
+                              Sieges chauffants et ventiles de serie (V8 TDI)
+  Sieges arriere            : Cuir assortis — 3 places
+                              Version Limousine : places arriere VIP avec console centrale
+                              reglage electrique des sieges arriere via panneau
+  Volant                    : Cuir gainé avec commandes integrees — chauffant option
+  Console centrale          : Boiseries Walnut ou Aluminium selon finition
+  Sellerie                  : Cuir Nappa disponible en option
+  Insonorisation            : Exceptionnelle pour l'epoque — 3 rangees de vitrage
+                              feuillete acoustique
+  Fermeture                 : Telecommande — acces sans cle optionnel
+  Chauffage arriere         : Air pulse vers les places arriere via console centrale
+  Eclairage interieur       : Eclairage de lecture avant et arriere
+  Climatisation             : Automatique 4 zones — avant conducteur/passager
+                              + arriere gauche/droite
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [11] TECHNOLOGIE & CONNECTIVITE (standard 2005)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  MMI                       : Audi MMI — systeme de commande central rotatif
+  Navigation GPS            : Integree (selon version) — DVD cartographie
+                              (mises a jour par DVD — non connectee)
+  Radio                     : AM/FM + CD + MP3 (selon version)
+  Bluetooth                 : Option — pas systematique en 2005
+  Telephone                 : Cradle GSM integre en option
+  Son                       : Bose Surround Sound en option (10 hp)
+                              Bang & Olufsen optionnel (haut de gamme)
+  Note technologie 2005     : Pas d'Apple CarPlay, pas d'Android Auto
+                              (non existants en 2005)
+                              Pas de camera de recul de serie
+                              Pas de capteurs de stationnement systematiques
+  Suspension air            : Controle via MMI — 5 niveaux de hauteur
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [12] EQUIPEMENTS DE SERIE — V8 4.0 TDI QUATTRO 2005
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  • Carrosserie ASF entierement en aluminium
+  • Suspension pneumatique adaptative 5 niveaux (Audi Adaptive Air)
+  • Quattro — 4 roues motrices permanentes (Torsen)
+  • Boite Tiptronic 6 rapports automatique
+  • ABS + EBD + ESP + ASR de serie
+  • Phares bixenon avec lave-phares
+  • Climatisation automatique 4 zones
+  • Sieges avant chauffants et ventiles
+  • Reglage electrique sieges avant 14 voies
+  • Cuir pleine fleur de serie
+  • Boiseries veritable de serie
+  • Systeme audio premium de serie
+  • Audi MMI — systeme multimedia central
+  • Navigation GPS (selon version/finition)
+  • Vitres electriques 4 vitres
+  • Retroviseurs electriques chromes rabattables
+  • Retroviseur interieur electrochrome
+  • Fermeture centralisee par telecommande
+  • Disques ventiles perces O 360 mm (avant)
+  • Jantes alliage 18 pouces
+  • Freinage de stationnement manuel
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [13] AIDES A LA CONDUITE (2005)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  ABS                       : Multi-canal avec EBD
+  ESP                       : Electronic Stability Program
+  Antipatinage              : ASR de serie
+  Quattro Torsen            : Traction integrale passive (mecanique)
+  Suspension air            : Correcteur d'assiette automatique
+  Capteurs parking          : Option (non systematique)
+  Camera de recul           : Non disponible de serie en 2005
+  Regulateur vitesse        : De serie
+  Aide au freinage          : EBD (repartition electronique)
+  Airbags                   : Frontaux + lateraux + rideaux — 6 minimum
+  Ceintures                 : Pretensionneurs + limiteurs d'effort
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [14] CRIT'AIR & REGLEMENTATION — POINT IMPORTANT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Vignette CRIT'Air         : CRIT'AIR 3 (vehicule diesel 2005)
+  Impact en France          :
+    Paris intramuros        : Interdit en semaine (lundi-vendredi 8h-20h)
+    Lyon, Grenoble...       : Restrictions selon episodes de pollution
+    Zones ZFE               : Acces interdit dans la plupart des ZFE (2025)
+  Belgique (LEZ)            : Non conforme pour Bruxelles, Anvers, Gand
+                              (Low Emission Zone — vehicule trop ancien/polluant)
+  Pays-Bas                  : Restrictions similaires dans les grandes villes
+  Allemagne (Umweltzonen)   : Vignette verte requise — verifier conformite
+  Conseil                   : Verifier les restrictions locales AVANT achat
+                              si usage prevu en zone urbaine reglementee
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [15] POINTS DE VIGILANCE & FIABILITE — CRITIQUE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Points positifs           :
+  • Carrosserie ASF aluminium — impossibilite de rouille (structure eternelle)
+  • 800 Nm de couple — performances supercar diesel incomparables
+  • Confort et insonorisation de haut niveau — toujours impressionnants en 2025
+  • Quattro Torsen — mecanique simple et robuste (vs systemes electroniques modernes)
+  • Jamais accidente declare — a verifier via rapport Carfax / Eurocarreport
+  • Garantie 18 mois incluse dans le prix
+
+  ⚠️ POINTS DE VIGILANCE TRES IMPORTANTS — VEHICULE DE 20 ANS :
+
+  MOTEUR V8 4.0 TDI ASE — POINT MAJEUR ET CRITIQUE
+    Ce moteur est un des moins fiables produits par Audi
+    Signalement TRES NOMBREUX de casse moteur (bielles / vilebrequin)
+    CAUSE PRINCIPALE : probleme de lubrification sous certaines conditions
+    Les 800 Nm a 1 800 tr/min sollicitent enormement les coussinets de bielle
+    RISQUE ELEVE si :
+    → Huile non changee aux intervalles (15 000 km maximum)
+    → Demarrages frequents a froid et acceleration immediate
+    → Utilisation de mauvaise huile (non-conforme VW 507.00)
+    IMPERATIVEMENT verifier avant achat :
+    → Carnet d'entretien avec TOUTES les vidanges (gap > 15 000 km = risque)
+    → Scanner OBD — lire codes de pression d'huile stockes
+    → Demander si des problemes moteur ont ete signales
+    Cout remplacement moteur : 8 000 – 15 000 EUR (reconditionne)
+
+  BOITE TIPTRONIC ZF 6HP
+    Signalement pannes mecaniques a hauts kilométrages (>120 000 km)
+    A-coups en passage de rapports = signe d'usure embrayages internes
+    Vidange boite : non effectuee si "a vie" selon Audi = probleme courant
+    Cout revision / remplacement boite : 3 000 – 6 000 EUR
+
+  SUSPENSION PNEUMATIQUE
+    Compresseur d'air en fin de vie a 20 ans d'age
+    Soufflets des 4 coussins probablement a changer
+    Cout compresseur : 400 – 800 EUR
+    Cout soufflet par amortisseur : 300 – 600 EUR
+    TOTAL si tout a changer : 1 500 – 3 000 EUR
+    Verifier : absence de message "suspension" allume
+               hauteur de caisse reguliere aux 4 coins
+
+  ELECTRONIQUE MMI & CAPTEURS
+    Systeme MMI gen 1 vieillissant — ecran possible defaillant
+    Capteurs ABS / ESP souvent en defaut sur vehicules anciens
+    Electricite generale : verifier tous les fusibles et relais
+    Cout electronique : impredictible — peut aller de 200 EUR a 2 000 EUR
+
+  VIGNETTE CRIT'AIR 3
+    Interdit en semaine dans Paris et de nombreuses ZFE
+    Usage limite a province / autoroute / zones non reglementees
+
+  BATTERIE 12V + ALTERNATEUR
+    Batterie 12V surement a remplacer (vehicule de 2005 = 20 ans)
+    Alternateur : verifier tension en regime (13,5-14,5 V attendu)
+    Cout batterie AGM Audi A8 : 200 – 350 EUR
+
+  BUDGET REMISE EN ETAT A PREVOIR :
+    Minimum (si entretien prouve + suspension OK) : 1 000 EUR
+    Moyen (suspension + electronique) : 2 000 – 4 000 EUR
+    Critique (moteur ou boite) : 5 000 – 15 000 EUR
+
+  CONCLUSION FIABILITE :
+    Ce vehicule peut etre une affaire exceptionnelle pour un usage
+    occasionnel, collection ou appreciation du luxe a petit prix.
+    Il represente un risque eleve pour un usage quotidien intensif
+    sans historique d'entretien prouve. La garantie 18 mois est
+    l'argument decisif — verifier TRES PRECISEMENT ce qu'elle couvre
+    (mecanique moteur ? boite ? suspension ?) avant de signer.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [16] POSITIONNEMENT & CONCURRENTS D'EPOQUE (2005)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Ce vehicule               : 2 000 EUR — Audi A8 4.0 TDI V8 275 ch 2005
+  BMW 745d 2005             : 235 ch — cote 2025 : 1 500 – 3 500 EUR
+  Mercedes S400 CDI 2005    : 250 ch — cote 2025 : 1 500 – 3 500 EUR
+  Volkswagen Phaeton V8 TDI : 313 ch — meme moteur derive — 1 500 – 3 000 EUR
+  Bentley Continental GT 2005 : 500 ch — 15 000 – 30 000 EUR
+  Rolls-Royce Phantom 2005  : 460 ch — 80 000 – 120 000 EUR
+
+  Specificite A8 D3 4.0 TDI : Seule grande berline au monde avec
+                              carrosserie 100% aluminium (ASF) en 2005
+                              800 Nm de couple — record diesel absolu en 2003
+                              0-100 en 6,7 s pour 2 tonnes = performance supercar
+                              Confort et insonorisation reference absolue
+                              Prix d'accès au luxe absolu (2 000 EUR) — exceptionnel
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [17] HISTORIQUE & ADN AUDI A8 D3 / 4.0 TDI
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  L'Audi A8 premiere generation (D2) est lancee en 1994 — premiere voiture
+  de serie au monde avec une carrosserie entierement en aluminium (ASF —
+  Audi Space Frame). Cette technologie brevetee, developpee en 7 ans de R&D
+  avec Alcoa, bouleverse l'industrie automobile et vaut a Audi plusieurs prix
+  d'ingenierie. L'aluminium permet de gagner 200 kg vs une equivalent acier
+  tout en ameliorant la rigidite.
+
+  La deuxieme generation D3 (2002-2010) amplifie la technologie ASF avec une
+  rigidite en torsion encore superieure. Elle est plus grande, plus luxueuse
+  et mieux equipee. La version 4.0 TDI V8 lancee en 2003 est le point d'orgue
+  technique de la gamme diesel — un moteur V8 biturbo specifiquement concu
+  pour l'A8, avec 800 Nm de couple — un chiffre jamais vu sur un moteur diesel
+  de serie a l'epoque.
+
+  Ce moteur ASE V8 4.0 TDI est developpe entierement par Audi et n'a jamais
+  ete partage avec aucun autre constructeur ni aucun autre modele du groupe
+  Volkswagen. Il est produit a l'usine de Gyor (Hongrie) et sera abandonne
+  en 2005-2006 au profit du 4.2 TDI 326 ch.
+
+  L'Audi A8 D3 a ete utilisee comme vehicule officiel de plusieurs gouvernements
+  europeens et limousine de prestige par de nombreuses compagnies. Sa sobriete
+  et sa solidite en font un vehicule de collection de plus en plus recherche,
+  surtout en version V8 TDI — la plus rare et la plus puissante.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Sources : Audi AG — L'Argus.fr — Auto-Selection.com — Auto-Data.net
+  ZePerfs.com — 1001Moteurs.com — Caradisiac (avis proprietaires)
+  Specifications officielles Audi A8 D3/4E 4.0 V8 TDI Quattro Tiptronic (2003-2005 EU).
+================================================================================

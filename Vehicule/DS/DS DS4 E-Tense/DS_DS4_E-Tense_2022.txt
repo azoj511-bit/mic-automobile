@@ -1,0 +1,199 @@
+================================================================================
+                    FICHE TECHNIQUE COMPLÈTE
+                    DS DS4 E-TENSE 225
+================================================================================
+
+═══════════════════════════════════════════════════════════════════════════════
+ 1. IDENTIFICATION DU VÉHICULE
+═══════════════════════════════════════════════════════════════════════════════
+
+ Marque                  : DS Automobiles
+ Modèle                  : DS 4 (2ème génération)
+ Version                 : E-Tense 225 (Hybride rechargeable)
+ Année                   : 09/2022
+ Kilométrage             : 33 010 km (certifié)
+ Origine                 : Importation Allemagne 🇩🇪
+ État                    : Jamais accidenté
+ Prix de vente           : 7 000 €
+ Garantie                : 18 mois
+
+═══════════════════════════════════════════════════════════════════════════════
+ 2. MOTORISATION & PERFORMANCES
+═══════════════════════════════════════════════════════════════════════════════
+
+ MOTEUR THERMIQUE :
+ Type de moteur           : 4 cylindres en ligne turbo essence
+ Code moteur              : EP6FADTXD (PureTech 180)
+ Cylindrée                : 1 598 cm³
+ Puissance thermique      : 180 ch (132 kW)
+
+ MOTEUR ÉLECTRIQUE :
+ Puissance électrique     : 110 ch (81 kW)
+ Batterie                 : Lithium-ion 12,4 kWh
+ Autonomie électrique     : 55 - 62 km (WLTP)
+ Temps de charge          : ~7h (prise domestique) / ~1h45 (Wallbox 7,4 kW)
+
+ SYSTÈME COMBINÉ :
+ Puissance combinée       : 225 ch (165 kW)
+ Couple combiné           : 360 Nm
+ Alimentation             : Essence + Électrique (PHEV)
+ Norme antipollution      : Euro 6d-Full
+
+ Boîte de vitesses        : Automatique e-EAT8 (8 rapports)
+ Transmission             : Traction avant (FWD)
+
+ Vitesse maximale         : 233 km/h (135 km/h en mode électrique)
+ 0 à 100 km/h             : 7,7 secondes
+ Consommation mixte (WLTP): 1,3 - 1,6 L/100 km (batterie chargée)
+ Émissions CO₂ (WLTP)     : 30 - 36 g/km
+
+═══════════════════════════════════════════════════════════════════════════════
+ 3. DIMENSIONS & POIDS
+═══════════════════════════════════════════════════════════════════════════════
+
+ Longueur                 : 4 400 mm
+ Largeur                  : 1 830 mm
+ Hauteur                  : 1 470 mm
+ Empattement              : 2 675 mm
+ Garde au sol             : 140 mm
+ Volume coffre            : 390 litres (hybride) / 1 190 L sièges rabattus
+ Réservoir                : 43 litres
+ Poids à vide             : 1 680 kg
+ PTAC                     : 2 080 kg
+ Nombre de places         : 5
+ Nombre de portes         : 5
+
+═══════════════════════════════════════════════════════════════════════════════
+ 4. CHÂSSIS & TRAIN ROULANT
+═══════════════════════════════════════════════════════════════════════════════
+
+ Plateforme               : EMP2 (Efficient Modular Platform 2)
+ Suspension avant          : Pseudo McPherson
+ Suspension arrière        : Multibras
+ Suspension pilotée        : DS Active Scan (selon finition)
+ Freins avant              : Disques ventilés 330 mm
+ Freins arrière            : Disques pleins 290 mm
+ Direction                 : Assistée électrique variable
+ Pneus                     : 225/45 R18 ou 225/40 R19
+
+═══════════════════════════════════════════════════════════════════════════════
+ 5. ÉQUIPEMENTS DE SÉRIE (DS 4 E-Tense 2022)
+═══════════════════════════════════════════════════════════════════════════════
+
+ EXTÉRIEUR :
+ • DS Light Veil (signature lumineuse unique sans grille)
+ • Feux Matrix LED DS Vision
+ • Clignotants défilants
+ • Poignées de portes affleurantes rétractables
+ • Jantes alliage 18" diamantées
+ • Vitres surteintées arrière
+ • Rétroviseurs rabattables électriquement
+
+ INTÉRIEUR :
+ • DS Iris System : écran tactile HD 10"
+ • Instrumentation numérique 7" ou 10" (selon finition)
+ • Sellerie mixte Alcantara/TEP
+ • Climatisation automatique bi-zone
+ • Volant gainé cuir perforé
+ • Pédalier aluminium
+ • Console centrale avec revêtement spécifique DS
+ • Éclairage d'ambiance configurable
+ • Sièges avant réglables en hauteur et profondeur
+ • Accoudoir central avec rangement
+ • Vitres électriques avant/arrière
+
+ CONNECTIVITÉ & MULTIMÉDIA :
+ • Apple CarPlay & Android Auto (sans fil)
+ • Navigation connectée 3D
+ • DS Connected Services (télématique)
+ • Reconnaissance vocale
+ • Bluetooth
+ • Chargeur sans fil smartphone
+ • Ports USB-C
+ • Radio DAB+
+
+ SÉCURITÉ & AIDE À LA CONDUITE :
+ • DS Drive Assist (conduite semi-autonome niveau 2)
+ • Freinage d'urgence automatique avec détection piétons/cyclistes
+ • Régulateur de vitesse adaptatif avec Stop & Go
+ • Alerte de franchissement de ligne + correction
+ • Surveillance d'angles morts
+ • Aide au stationnement avant/arrière
+ • Caméra de recul HD
+ • DS Night Vision (vision infrarouge nocturne, selon finition)
+ • Reconnaissance des panneaux de signalisation
+ • Alerte d'attention du conducteur
+ • 6 airbags
+ • ISOFIX (3 points)
+ • Appel d'urgence automatique (eCall)
+
+═══════════════════════════════════════════════════════════════════════════════
+ 6. FINITIONS DISPONIBLES & OPTIONS
+═══════════════════════════════════════════════════════════════════════════════
+
+ FINITIONS :
+ • Bastille+     : Équipement de base généreux
+ • Trocadéro     : Sellerie cuir Nappa, DS Active Scan
+ • Rivoli+       : Sellerie cuir étendue, sièges massants
+ • Performance Line+ : Touches sportives, suspension abaissée
+ • La Première   : Édition limitée ultra-premium
+
+ OPTIONS COURANTES :
+ • DS Active Scan (suspension adaptative par caméra)
+ • DS Night Vision (détection infrarouge piétons/animaux)
+ • Toit panoramique vitré
+ • Système audio Focal Electra (14 HP)
+ • Head-Up Display couleur étendu
+ • Caméra 360° avec vue aérienne
+ • Sièges avant ventilés et massants
+ • Sièges chauffants avant/arrière
+ • Hayon mains libres
+
+═══════════════════════════════════════════════════════════════════════════════
+ 7. ANALYSE DU PRIX & COMPARAISON MARCHÉ EUROPÉEN
+═══════════════════════════════════════════════════════════════════════════════
+
+ Prix de vente proposé     : 7 000 €
+
+ Estimation marché européen (2022, E-Tense 225, ~33 000 km) :
+ • Allemagne               : 28 000 € - 33 000 €
+ • France                   : 29 000 € - 35 000 €
+ • Belgique                 : 28 500 € - 34 000 €
+
+ ⚠️ Le prix proposé (7 000 €) est environ 78% inférieur
+    au prix moyen du marché européen pour ce véhicule.
+
+═══════════════════════════════════════════════════════════════════════════════
+ 8. CONDITIONS DE VENTE
+═══════════════════════════════════════════════════════════════════════════════
+
+ • Importation Allemagne 🇩🇪
+ • Garantie : 18 mois
+ • Jamais accidenté
+ • Kilométrage certifié
+ • Documents inclus dans le prix :
+   - Carte grise officielle avec plaque d'immatriculation
+   - Certificat de non-gage
+   - Contrôle technique
+   - Carnet d'entretien constructeur
+   - Facture d'entretien
+
+ ➤ Contact uniquement si achat immédiat.
+
+═══════════════════════════════════════════════════════════════════════════════
+ 9. POINTS FORTS DU MODÈLE
+═══════════════════════════════════════════════════════════════════════════════
+
+ ✅ Hybride rechargeable : ~60 km en 100% électrique
+ ✅ Quasi neuf (33 010 km seulement)
+ ✅ Design avant-gardiste unique (poignées affleurantes, DS Light Veil)
+ ✅ Technologie de pointe : DS Night Vision, DS Active Scan
+ ✅ Intérieur premium et raffiné (savoir-faire français)
+ ✅ Émissions CO₂ très faibles (vignette Crit'Air 1)
+ ✅ Plateforme EMP2 éprouvée et fiable
+ ✅ Conduite semi-autonome niveau 2 de série
+
+================================================================================
+ Fiche générée le 26/03/2026 — Données techniques issues des spécifications
+ constructeur DS Automobiles pour le DS 4 E-Tense 225 2022.
+================================================================================

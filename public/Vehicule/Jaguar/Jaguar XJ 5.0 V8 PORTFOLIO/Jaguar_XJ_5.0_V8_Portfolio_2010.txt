@@ -1,0 +1,423 @@
+================================================================================
+       FICHE VEHICULE — JAGUAR XJ 5.0 V8 PORTFOLIO (X351)
+       Berline de Prestige · 385 ch · Automatique · Essence · 2010
+================================================================================
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [1] INFORMATIONS COMMERCIALES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Prix de vente             : 2 500 EUR (marche europeen — occasion certifiee)
+  Origine                   : Importation Allemagne
+  Annee                     : Juin 2010 (06/2010)
+  Kilometrage               : 136 000 km (certifie)
+  Etat accident             : Jamais accidente
+  Garantie                  : 18 mois chez le concessionnaire
+  Carburant                 : Essence
+  Boite de vitesses         : Automatique 6 rapports
+  Transmission              : Propulsion (Rear-Wheel Drive)
+  Formalites                : Immatriculation et plaque comprises dans le prix
+  Prix neuf (2010)          : 103 740 EUR (version Portfolio standard)
+                              116 640 EUR (version Portfolio Long)
+  Cote marche europeen 2025 : 3 500 – 8 000 EUR selon etat et kilometrage
+  Puissance fiscale         : 29 CV (France)
+  Generation                : X351 (2e generation XJ — lancee en 2009)
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [2] PRESENTATION GENERALE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  La Jaguar XJ generation X351 (2009-2019) est l'une des berlines de luxe les
+  plus marquantes de sa decennie. Dessinee par Ian Callum, son style radicalement
+  moderne rompt avec la tradition classique de la marque tout en conservant l'ADN
+  felin de Jaguar. Elle repose sur une structure entierement en aluminium —
+  une premiere dans le segment des grandes berlines de luxe — ce qui lui confere
+  un poids contenu exceptionnel pour sa categorie (1 755 a 1 830 kg).
+
+  La finition Portfolio est le niveau d'equipement superieur de la gamme XJ,
+  juste en dessous du XJR. Elle reunit confort grand tourisme, technologie
+  de pointe et motorisation V8 atmospherique de 5,0 litres developpe en interne
+  par Jaguar (moteur AJ133 — egalement monte sur Range Rover et F-Type).
+
+  Le prix affiché de 2 500 EUR pour ce vehicule represente une occasion
+  exceptionnelle d'acquerir une berline de prestige a prix tres accessibles.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [3] MOTORISATION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Type de moteur            : V8 atmospherique — Jaguar AJ133
+  Architecture              : V8 a 90° — double arbre a cames en tete (DOHC)
+  Cylindree                 : 5 000 cm3 (5,0 litres)
+  Alesage x Course          : 92,5 mm x 93,0 mm
+  Nombre de soupapes        : 32 soupapes (4 par cylindre)
+  Puissance maximale        : 385 ch (283 kW) a 6 500 tr/min
+  Couple maximum            : 515 Nm a 3 500 tr/min
+  Puissance specifique      : 77 ch/litre
+  Taux de compression       : 11,5:1
+  Alimentation              : Injection directe essence — GDI (Gasoline Direct Injection)
+  Suralimentation           : Aucune — moteur atmospherique pur
+  Distribution              : DOHC — gestion variable calage cames (Variable Cam Phasing)
+  Refroidissement           : Eau — circuit double
+  Position moteur           : Longitudinal — avant
+  Carburant requis          : Super 95 RON minimum (98 RON recommande)
+  Reservoir                 : 82 litres
+  Norme antipollution       : Euro 5
+  Note                      : Meme bloc AJ133 que sur Jaguar F-Type V8 et Range Rover
+                              (version compresseur sur XJR/F-Type R)
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [4] TRANSMISSION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Type de boite             : Automatique 6 rapports — ZF 6HP28 (pilotee)
+  Fabricant boite           : ZF Friedrichshafen (Allemagne) — reference du secteur
+  Mode de commande          : Levier de vitesses en console + palettes au volant
+  Palettes au volant        : Oui — changement de rapport manuel
+  Transmission              : Propulsion — Rear-Wheel Drive (RWD)
+  Differentiel arriere      : Differentiel autobloquant Torsen (Torque-sensing)
+  Modes boite               : Auto / Manuel / Sport / Comfort
+  Systeme de depart         : Launch Control disponible (mode Sport)
+
+  Rapports de boite (indicatifs ZF 6HP28) :
+    1ere   : 4,17
+    2eme   : 2,34
+    3eme   : 1,52
+    4eme   : 1,14
+    5eme   : 0,87
+    6eme   : 0,69
+    Marche arriere : 3,40
+    Ratio pont arriere : 3,07
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [5] CHASSIS, SUSPENSIONS & FREINS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Structure                 : PREMIER GRAND LUXE A CARROSSERIE 100% ALUMINIUM
+                              Chassis monocoque aluminium haute resistance
+                              (aluminium bonde, extrude et coule — assemblage rivet-colle)
+                              Rigidite en torsion superieure a l'acier pour un poids reduit
+  Gain de poids aluminium   : Environ 150 kg de moins qu'un equivalent acier
+  Suspension avant          : Double triangles en aluminium — ressorts helicoidaux
+                              + amortisseurs adaptatifs (CATS — Computer Active
+                              Technology Suspension) de serie sur Portfolio
+  Suspension arriere        : Multi-bras en aluminium — ressorts helicoidaux
+                              + amortisseurs adaptatifs CATS
+  Systeme CATS              : Computer Active Technology Suspension — amortisseurs
+                              a pilotage electronique adaptatif (Normal / Dynamic)
+                              reglage continu des amortisseurs en temps reel
+  Barres anti-roulis        : Avant et arriere — aluminium
+  Direction                 : Assistee electriquement — a cremaillere
+                              reponse variable selon vitesse
+  Diametre de braquage      : 11,4 m
+  Freins avant              : Disques ventiles + etriers 4 pistons
+                              O 380 mm (serie) — O 396 mm (avec option freins performances)
+  Freins arriere            : Disques ventiles + etriers 2 pistons — O 325 mm
+  Frein de stationnement    : Electrique (actionnable via bouton)
+  ABS                       : De serie — multi-canal avec EBD
+  Pneumatiques (serie)      : 245/45 R19 (avant) — 275/40 R19 (arriere)
+  Option pneumatiques       : 245/40 R20 (avant) — 275/35 R20 (arriere)
+  Jantes                    : Alliage 19 pouces de serie — 20 pouces en option
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [6] PERFORMANCES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  0 a 100 km/h              : 5,7 secondes
+  0 a 60 mph                : 5,5 secondes
+  0 a 160 km/h              : Environ 13,5 secondes
+  Vitesse maximale          : 250 km/h (155 mph) — limitee electroniquement
+  Quart de mile (400 m DA)  : Environ 14,0 secondes
+  Reprise 80-120 km/h       : Environ 4,5 secondes (4eme rapport)
+  Rapport poids/puissance   : 4,78 kg/ch (209 ch/tonne)
+  Note                      : Performances remarquables pour une berline de 5,12 m
+                              et 1 755 kg grace a la structure aluminium allegee
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [7] CONSOMMATION & EMISSIONS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Consommation urbaine      : 17,0 L/100 km (NEDC)
+  Consommation extra-urb.   : 8,2 L/100 km (NEDC)
+  Consommation mixte        : 11,3 – 11,4 L/100 km (NEDC)
+  Consommation reelle est.  : 13,5 – 16,0 L/100 km (conditions normales)
+  Autonomie theorique       : Environ 725 km (reservoir 82 L / mixte NEDC)
+  Emissions CO2             : 264 g/km
+  Norme antipollution       : Euro 5
+  Systeme Stop & Start      : Non de serie sur 2010 (disponible sur facelift 2012+)
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [8] DIMENSIONS & POIDS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Longueur totale           : 5 122 mm (version standard)
+                              5 247 mm (version Long — empattement allonge)
+  Largeur totale            : 1 894 mm (hors retroviseurs)
+  Largeur avec retroviseurs : Environ 2 080 mm
+  Hauteur                   : 1 448 mm
+  Empattement               : 3 032 mm (standard) — 3 157 mm (Long)
+  Voie avant                : 1 587 mm
+  Voie arriere              : 1 600 mm
+  Poids a vide (DIN)        : 1 755 kg (version standard — UltimateSpecs : 1 830 kg)
+  Poids a vide (version Long) : 1 773 kg
+  PTAC                      : 2 270 kg
+  Volume coffre             : 520 litres — non modulable (sièges non rabattables)
+  Nombre de places          : 5 (2 avant + 3 arriere — version standard)
+                              4 places VIP (version Long Executive — sieges arriere individuels)
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [9] DESIGN EXTERIEUR & CARROSSERIE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Style                     : Design Ian Callum — rupture totale avec la XJ precedente
+                              Lignes tendues et musclees, profil felide bas et allonge
+  Carrosserie               : Berline 4 portes — structure monocoque aluminium
+  Toiture                   : Toit en verre panoramique teinteé de serie (Portfolio)
+                              Effet "piliers noirs" — toiture "flottante"
+  Phares                    : Phares avant a double optiques — feux directionnels HID
+                              (bixenon) de serie sur Portfolio
+  Feux arriere              : LED — signature lumineuse specifique XJ X351
+  Calandre                  : Calandre specifique Jaguar avec grille verticale
+                              et logo Jaguar saute (bonnet ornament)
+  Retroviseurs              : Exterieurs electriques, chauffants, rabattables
+                              avec memoire de position et camera integree
+  Marchepieds lumineux      : Seuils de porte eclaires avec logo Jaguar
+  Capot                     : Capot aluminium a ouverture large pour acces moteur
+  Coffre                    : Ouverture electrique — "Soft Close" de serie
+  Couleurs disponibles      : Noir onyx, Blanc polaire, Gris vanadium, Bleu quantum,
+                              Rouge carnelian, Argent rhodium, Beige cashmere...
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [10] INTERIEUR & FINITIONS PORTFOLIO
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Qualite interieure        : Niveau comparable Bentley / Rolls-Royce des annees 2000
+                              Cuirs, boiseries et finitions parmi les meilleures du segment
+  Sieges avant              : Electriques multipositions (18 voies) — cuir pleine fleur
+                              chauffants et ventiles — avec memoire de position
+  Sieges arriere            : Cuir assortis — banquette 3 places (standard)
+                              ou sieges individuels avec accoudoir central (Long)
+  Sieges arriere chauffants : Oui — de serie sur Portfolio
+  Volant                    : Gainé cuir — multifonctions — commandes audio,
+                              telephone, navigation et regulateur integrees
+  Tableau de bord           : Ecran tactile central 8 pouces integre au tableau de bord
+                              (innovant pour 2010) — surround systeme de bord unifie
+  Instrumentation           : Compteurs analogiques + affichage information TFT
+  Console centrale          : Console flottante avec levier boite et commandes drive modes
+  Boiseries                 : Essence de bois veritable (noyer, loupe de noyer, chene) ou
+                              carbone / aluminium brosse au choix
+  Garnitures                : Aluminium brosse ou chrome satin selon finition
+  Plafonnier                : Alcantara / tissu haut de gamme — eclairage d'ambiance LED
+  Seuils de porte           : Eclaires avec logo Jaguar grave
+  Accoudoir central avant   : Cuir avec compartiment de rangement
+  Accoudoir central arriere : Escamotable — avec rangements et commandes sieges
+  Fermeture portes          : "Soft Close" — fermeture douce automatique des portes
+                              (premiere du segment a l'epoque)
+  Tapis de sol              : Moquette epaisse qualite premium — tapis de protection inclus
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [11] TECHNOLOGIE & CONNECTIVITE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Systeme multimedia        : Jaguar In-Control Touch — ecran tactile 8 pouces
+  Navigation GPS            : GPS integre avec cartographie europeenne
+  Audio                     : Systeme Meridian Digital Surround Sound de serie (Portfolio)
+                              (Meridian — fabricant britannique haut de gamme)
+                              580 watts — 14 haut-parleurs
+  Radio                     : AM/FM + CD + DAB (selon marche)
+  Bluetooth                 : Telephonie et streaming audio
+  Telephone                 : Kit mains libres integre
+  Port USB/AUX              : Entree USB et AUX de serie
+  Camera de recul           : De serie — integree au pare-chocs arriere
+  Capteurs parking          : Avant + arriere de serie
+  Toit panoramique          : Toit en verre panoramique teinté de serie
+  Head-Up Display           : Non disponible sur gen 2010 (disponible facelift)
+  Connexion                 : Preparation Bluetooth de serie
+  Affichage                 : Ecran TFT tableau de bord pour informations vehicule
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [12] AIDES A LA CONDUITE & SECURITE ACTIVE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  ABS                       : De serie — multi-canal avec EBD
+  ESP                       : Controle electronique de stabilite DSC
+                              (Dynamic Stability Control)
+  Antipatinage              : Traction Control — TC
+  Differentiel              : Differentiel autobloquant Torsen arriere de serie
+  Suspension adaptative     : CATS — amortissement adaptatif continu (Normal/Dynamic)
+  Airbags frontaux          : Conducteur et passager (avec desactivation airbag passager)
+  Airbags lateraux          : Thorax avant
+  Airbags rideaux           : Lateraux — protection tete avant et arriere
+  Airbags genoux            : Conducteur
+  Aide freinage             : Brake Assist — augmentation pression freinage d'urgence
+  Regulateur de vitesse     : Regulateur adaptatif avec suivi de distance (ACC) — option
+  Surveillance angles morts : En option (selon pack)
+  Camera de recul           : De serie sur Portfolio
+  Capteurs parking          : Avant et arriere de serie
+  Frein parking             : Electronique de serie
+  Pression pneus            : Systeme TPMS de serie
+  Toit panoramique          : Avec degivrage integre
+  Fermeture centralisee     : Telecommande + acces sans cle en option
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [13] MODES DE CONDUITE & DYNAMIQUE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Drive Modes               : Normal / Dynamic / Eco
+  Mode Normal               : Reglages standards — equilibre confort/performance
+  Mode Dynamic              : Suspensions fermes (CATS), boite plus reactive,
+                              direction plus precise, agilite maximale
+  Mode Eco                  : Passages de rapport anticipes — consommation optimisee
+  Suspension CATS           : Reglage continu des amortisseurs en temps reel
+                              adaptation instantanee aux conditions routieres
+  Direction                 : Assistance variable selon vitesse — tres directe en mode Dynamic
+  Differentiel Torsen       : Transfert passif du couple vers la roue avec le plus d'adherence
+                              ameliore la motricite en sortie de courbe
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [14] LISTE COMPLETE DES EQUIPEMENTS DE SERIE (FINITION PORTFOLIO)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  -- SECURITE ACTIVE & AIDES A LA CONDUITE --
+  • ABS multi-canal avec repartition electronique du freinage (EBD)
+  • DSC — Dynamic Stability Control (controle trajectoire)
+  • Traction Control (antipatinage)
+  • Differentiel autobloquant Torsen arriere
+  • CATS — Computer Active Technology Suspension (amortissement adaptatif)
+  • Airbags frontaux conducteur + passager
+  • Airbags lateraux thorax avant
+  • Airbags rideaux avant et arriere
+  • Airbag genoux conducteur
+  • Brake Assist — assistance au freinage d'urgence
+  • Surveillance pression pneus TPMS
+  • Camera de recul integree
+  • Capteurs de stationnement avant et arriere
+  • Frein de stationnement electronique
+  • Antidemarrage electronique
+
+  -- CONFORT & EQUIPEMENTS INTERIEURS --
+  • Sieges avant electriques multipositions (18 voies)
+  • Sieges avant chauffants et ventiles
+  • Memoire de position sieges et retroviseurs
+  • Sieges arriere chauffants
+  • Volant cuir multifonctions
+  • Climatisation automatique quadrizone (avant + arriere independants)
+  • Toit panoramique en verre teinté electrique
+  • Fermeture douce "Soft Close" des portes et coffre
+  • Vitres electriques 4 vitres
+  • Retroviseurs exterieurs electriques, chauffants, rabattables + memoire
+  • Seuils de porte eclaires avec logo Jaguar
+  • Eclairage d'ambiance interieur LED
+  • Accoudoir central avant et arriere (cuir)
+  • Boiseries en essence de bois veritable (loupe de noyer / chene)
+  • Garnissages aluminium brosse
+  • Moquette epaisse qualite premium
+
+  -- TECHNOLOGIE & CONNECTIVITE --
+  • Ecran tactile 8 pouces Jaguar InControl Touch
+  • Navigation GPS avec cartographie europeenne
+  • Systeme audio Meridian Digital Surround — 580 W — 14 haut-parleurs
+  • Radio AM/FM + CD
+  • Bluetooth telephonie + streaming audio
+  • Kit mains libres integre
+  • Ports USB et AUX
+  • Commandes audio/telephone/GPS au volant
+  • Camera de recul avec affichage couleur
+  • Head-Up Display (disponible en option)
+  • Affichage TFT pour infos vehicule
+
+  -- EXTERIEURS & SPECIFICITES JAGUAR XJ --
+  • Phares avant HID bixenon directionnels
+  • Feux arriere LED
+  • Jantes alliage 19 pouces (option 20 pouces)
+  • Pneumatiques 245/45 R19 (av.) — 275/40 R19 (ar.)
+  • Calandre specifique avec logo Jaguar saute (bonnet ornament)
+  • Retroviseurs avec cameras integrees (option peripherique 360)
+  • Structure carrosserie 100% aluminium (legere et rigide)
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [15] POINTS D'ATTENTION & FIABILITE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Points positifs           :
+  • Moteur V8 AJ133 reconnu pour sa robustesse (atmosph. — pas de turbo a entretenir)
+  • Structure aluminium : pas de corrosion, rigidite excellente
+  • Silence de roulement exceptionnel — isolation phonique hors norme
+  • Confort et qualite de suspension CATS parmi les meilleurs du marche
+  • Design passe-muraille : rarissime — vehicule peu frequent sur la route
+  • Prix d'achat tres attractif par rapport aux prestations offertes
+
+  Points de vigilance       :
+  • Kilometrage eleve (136 000 km) : verifier historique entretien complet
+  • Electronique complexe de 2010 : certains modules peuvent vieillir
+  • Carrosserie aluminium : reparation plus couteuse qu'un acier standard
+  • Consommation V8 : prevoir 12-16 L/100 km en usage reel
+  • Coffre de 520 L non modulable (sieges arriere non rabattables)
+  • Coût pieces de rechange Jaguar superieur au marche generaliste
+  • Verifier : circuit de refroidissement, electronique CATS,
+    systeme multimedia 8 pouces (touchscreen parfois capricieux sur age)
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [16] POSITIONNEMENT & CONCURRENTS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Ce vehicule               : 2 500 EUR — Jaguar XJ 5.0 V8 Portfolio 2010
+  BMW Serie 7 (F01) 2010    : 740i — 326 ch — cote 2025 : 5 000-12 000 EUR
+  Mercedes Classe S (W221)  : S500 — 388 ch — cote 2025 : 6 000-15 000 EUR
+  Audi A8 (D4) 2010         : 4.2 FSI — 372 ch — cote 2025 : 6 000-13 000 EUR
+  Maserati Quattroporte 2010: 4.2 V8 — 400 ch — cote 2025 : 8 000-18 000 EUR
+  Lexus LS 460 2010         : 4.6 V8 — 380 ch — cote 2025 : 8 000-16 000 EUR
+
+  Specificite XJ X351       : Seule grande berline de luxe avec structure
+                              100% aluminium dans ce segment en 2010.
+                              Design contemporain et original — le plus audacieux
+                              de sa categorie a l'epoque.
+                              Prix d'achat tres accessible pour des prestations
+                              de tres grand luxe.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [17] HISTORIQUE & ADN JAGUAR XJ (X351)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  La XJ X351 est presentee au monde au Salon de Los Angeles en novembre 2009.
+  Elle choque les conservateurs avec son design ultra-moderne signe Ian Callum
+  — le meme designer qui dessinera la F-Type et la F-Pace. Elle est la premiere
+  XJ a rompre definitivement avec le style classique initie par William Lyons.
+
+  Sa structure 100% aluminium est une premiere mondiale dans le segment
+  des grandes berlines de luxe, developpee par Jaguar Land Rover en partenariat
+  avec Alcan. Cette technologie permet un poids contenu de 1 755 kg, soit
+  environ 150 kg de moins que ses concurrentes acier.
+
+  Le moteur AJ133 5,0 litres V8 a injection directe est entierement concu
+  en interne par Jaguar. En version atmospherique (385 ch), il offre une
+  sonoritee V8 distincte et un couple genereux. En version compresseur (510 ch
+  sur XJR / 550 ch), il rivalise avec les meilleures sportives.
+
+  Le systeme audio Meridian — fournisseur exclusif de Jaguar Land Rover —
+  est l'un des meilleurs systemes embarques de son epoque, avec une separation
+  stereo et une reproduction sonore dignes des meilleurs amplificateurs hi-fi.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Sources : Jaguar Cars Ltd — UltimateSpecs.com — Auto-Selection.com
+  La Centrale — Motoreu.com — VehicleSizes.com — Caradisiac.com
+  Specifications officielles modele X351 (2009-2010) EU / marche europeen.
+================================================================================

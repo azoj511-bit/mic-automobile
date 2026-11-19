@@ -1,0 +1,468 @@
+================================================================================
+     FICHE VEHICULE — MERCEDES-BENZ GLK 250 4MATIC 7G-TRONIC+ (X204)
+     SUV Compact Premium · 211 ch · Automatique 7G-Tronic+ · Essence · 2014
+================================================================================
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [1] INFORMATIONS COMMERCIALES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Prix de vente             : 2 600 EUR (marche europeen — occasion certifiee)
+  Origine                   : Importation Allemagne
+  Annee                     : Avril 2014 (04/2014)
+  Kilometrage               : 50 000 km (certifie) — TRES FAIBLE pour 2014
+  Carburant                 : Essence
+  Boite de vitesses         : Automatique 7 rapports — 7G-Tronic Plus
+  Transmission               : 4Matic — 4 roues motrices permanentes
+  Garantie                  : 18 mois chez le concessionnaire
+  Etat accident             : Jamais accidente
+  Formalites                : Immatriculation et plaque comprises dans le prix
+  Generation                : GLK X204 facelift (2012-2015)
+  Puissance fiscale         : 9 CV (France)
+  Prix neuf (2014)          : 49 480 EUR (version de base) — 55 000 EUR (options)
+  Cote marche europeen 2025 : 9 000 – 15 000 EUR (etat correct, 50 000 km)
+  Economie vs neuf          : -46 880 EUR (95% de moins que le prix neuf)
+
+  REMARQUE KILOMETRAGE :
+    50 000 km en 2014 = 11 ans d'age pour ~4 500 km/an
+    Utilisation TRES faible — vehicule tres peu utilise
+    Probabilite forte que les fluides et pieces de caoutchouc
+    soient plus ages que uses — attention au vieillissement (voir vigilance)
+
+  NOTE PUISSANCE :
+    L'annonce indique 211 CH — puissance officielle Mercedes :
+    211 ch PS (208 ch SAE / 155 kW) a 5 500 tr/min — cohérent
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [2] PRESENTATION GENERALE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Le Mercedes-Benz GLK (X204) est le SUV compact de Mercedes, positionne entre
+  la Classe B et le GLE. Lance en 2008, il est le premier SUV compact de la
+  marque a l'Etoile, avant d'etre remplace par le GLC (X253) en 2015.
+  Sa forme cubique et angulaire — reference directe a la Classe G —
+  lui confere une identite visuelle unique et reconnaissable dans ce segment.
+
+  La version X204 facelift (2012-2015) apporte un leger restylage, de nouvelles
+  motorisations plus efficientes (BlueEFFICIENCY) et une mise a jour technologique.
+  Le GLK 250 4Matic en version essence (2013-2015) utilise le moteur M274
+  2.0L turbo 4 cylindres — un des premiers moteurs Mercedes a injection directe
+  turbocompresse designe en interne. Il est cote a 211 ch (PS) / 350 Nm.
+
+  Ce vehicule est exceptionnel par son kilométrage : 50 000 km pour un 2014
+  equivaut a un vehicule quasi neuf. Il offre un niveau de confort, de finition
+  et d'equipements tres au-dessus de vehicules comparables dans cette gamme
+  de prix, avec la fiabilite reconnue de Mercedes-Benz et les avantages du
+  systeme 4Matic en toutes conditions.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [3] MOTORISATION — 2.0L M274 TURBOESSENCE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Type de moteur            : 4 cylindres en ligne — Turboessence
+  Designation Mercedes      : M274 DE 20 AL — 2.0L Turbo
+  Cylindree                 : 1 991 cm3 (1,991 litres — ramene a 2,0 L)
+  Alesage x Course          : 83,0 mm x 92,0 mm
+  Nombre de soupapes        : 16 (4 par cylindre)
+  Puissance maximale        : 211 ch PS (155 kW / 208 ch SAE) a 5 500 tr/min
+  Couple maximum            : 350 Nm de 1 200 a 4 000 tr/min
+  Puissance specifique      : 106 ch/litre
+  Regime maximal            : 6 500 tr/min
+  Taux de compression       : 9,8:1 (moteur suralimente)
+  Alimentation              : Injection directe haute pression (CGI)
+                              + injection indirecte sur certaines versions
+  Suralimentation           : Turbocompresseur mono — geometrie fixe
+  Distribution              : DOHC — 16 soupapes
+                              CAMTRONIC (variation levee soupapes) sur versions recentes
+  Refroidissement           : Eau — circuit thermique gere electroniquement
+  Technologie BlueDIRECT    : Injection directe haute pression multijet
+                              (plusieurs injections par cycle pour efficacite)
+  Systeme depollution       : Catalyseur + filtre a particules essence (GPF) partiel
+  Stop & Start              : De serie (Eco Start/Stop)
+  Norme antipollution       : Euro 6 (2014)
+  Carburant                 : Sans plomb 95 RON (98 RON recommande)
+  Reservoir                 : 66 litres
+  Vidange                   : Tous les 15 000 km — huile Mercedes longue duree
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [4] TRANSMISSION — 7G-TRONIC+ & 4MATIC
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Type de boite             : Automatique 7 rapports — 7G-Tronic Plus
+  Evolution                 : Generation amelioree de la 7G-Tronic originale
+                              Passages de rapports plus rapides + mode eco optimise
+  Mode de commande          : Levier en console + mode sequentiel (+/-)
+                              Palettes au volant disponibles (selon finition/option)
+  Transmission              : 4Matic — 4 roues motrices permanentes
+  Type 4Matic GLK           : Transmission integrale permanente
+                              Differentiel central visccoupleur (proportionnel)
+                              Repartition de base : 45% avant / 55% arriere
+                              (bias arriere — comportement neutre / sportif)
+  Systeme de traction       : 4ETS (4-wheel Electronic Traction System)
+                              Freinage selectif des roues sans adherence
+  Modes boite               : Eco / Comfort / Sport / Manuel
+  Note 4Matic               : Systeme mecanique simple et robuste
+                              Engagement permanent (pas de coupleur a crabot)
+                              = securite maximale en toutes conditions
+
+  Rapports (7G-Tronic indicatifs) :
+    1ere          : 4,38
+    2eme          : 2,86
+    3eme          : 1,92
+    4eme          : 1,37
+    5eme          : 1,00
+    6eme          : 0,82
+    7eme          : 0,72
+    Marche arriere : 3,42
+    Ratio pont    : 3,07
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [5] CHASSIS, SUSPENSIONS & FREINS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Plateforme                : Plateforme modulaire Mercedes-Benz — generation 2008
+                              Base commune avec Classe C W204
+  Structure                 : Monocoque acier haute resistance
+  Suspension avant          : Berceau — double triangulation (Multilink)
+                              Ressorts helicoidaux + amortisseurs hydrauliques
+                              Barre anti-roulis avant
+  Suspension arriere        : Berceau — essieu multibras — 5 bras
+                              Ressorts helicoidaux + amortisseurs a gaz bitubes
+                              Barre anti-roulis arriere
+  Note suspension           : Architecture double-triangulation/multibras
+                              superieure a la MacPherson — comportement tres precis
+  Direction                 : Assistee electriquement (EPS) — cremaillere
+  Diametre de braquage      : 11,9 m
+  Garde au sol              : 204 mm (normal) — 220 mm max
+  Angle d'attaque           : 25,9 degres
+  Angle de fuite            : 23,7 degres
+  Profondeur de gue         : 300 mm
+
+  Freins avant              : Disques ventiles — O 330 mm + etriers 1 piston flottant
+  Freins arriere            : Disques pleins — O 300 mm + etriers 1 piston flottant
+  Frein de stationnement    : Electronique (bouton) avec Auto-Hold
+  ABS                       : Multi-canal avec EBD
+  ESP                       : Electronic Stability Program — de serie
+  4ETS                      : Electronic Traction System (en complement 4Matic)
+
+  Pneumatiques              : 235/60 R17 (serie) — 235/55 R18 (option)
+                              ou 235/45 R20 (option AMG Line)
+  Jantes                    : Alliage 17 pouces de serie
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [6] PERFORMANCES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  0 a 100 km/h              : 7,9 secondes (officiel Mercedes)
+  0 a 80 km/h               : environ 5,0 secondes
+  Quart de mile (400 m DA)  : environ 15,8 secondes
+  Reprise 80-120 km/h       : environ 6,5 secondes
+  Vitesse maximale          : 215 km/h (bridee electroniquement)
+  Rapport poids/puissance   : 8,6 kg/ch (116 ch/tonne)
+  Rapport couple/poids      : 191 Nm/tonne
+  Note                      : 350 Nm disponibles des 1 200 tr/min — couple
+                              large et utilisable tres tot en regime
+                              Comportement suv precis et equilibre —
+                              mieux que beaucoup de concurrents diesel
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [7] CONSOMMATION & EMISSIONS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Consommation urbaine      : 10,0 L/100 km (NEDC)
+  Consommation extra-urb.   : 6,4 L/100 km (NEDC)
+  Consommation mixte NEDC   : 7,7 L/100 km
+  Consommation reelle est.  : 8,5 – 11,0 L/100 km (usage normal)
+                              7,5 – 8,5 L/100 km autoroute stabilisee
+                              9,0 – 10,0 L/100 km route mixte
+                              10,0 – 11,5 L/100 km ville
+  Consommation sportive     : 12,0 – 14,0 L/100 km
+  Emissions CO2 (NEDC)      : 180 g/km
+  Norme antipollution       : Euro 6
+  Vignette CRIT'Air         : CRIT'Air 1 (France — essence Euro 6)
+  Autonomie theorique       : environ 857 km (66 L / 7,7 L mixte NEDC)
+  Autonomie reelle          : environ 600 – 750 km (66 L / ~9,5 L reel)
+  Reservoir                 : 66 litres
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [8] DIMENSIONS & POIDS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Longueur totale           : 4 528 mm
+  Largeur totale            : 1 840 mm (hors retroviseurs) — 2 056 mm (avec retro)
+  Hauteur                   : 1 689 mm
+  Empattement               : 2 755 mm
+  Voie avant                : 1 583 mm
+  Voie arriere              : 1 572 mm
+  Porte-a-faux avant        : 905 mm
+  Porte-a-faux arriere      : 868 mm
+  Garde au sol              : 204 mm
+  Poids a vide (DIN)        : 1 820 kg (4Matic + boite auto)
+  Poids a vide (UE)         : 1 895 kg
+  PTAC                      : 2 390 kg
+  Remorquage freine         : 2 000 kg
+  Remorquage non freine     : 750 kg
+  Volume coffre min.        : 450 litres
+  Volume coffre max.        : 1 550 litres (sieges arriere rabattus 40/20/40)
+  Nombre de places          : 5
+  Reservoir                 : 66 litres
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [9] DESIGN EXTERIEUR — GLK X204 FACELIFT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Style                     : Design Bruno Sacco (directeur style MB)
+                              Lignes droites et angulaires — reference a la Classe G
+                              Silhouette carree et haut perchee — identite forte
+  Facelift 2012             : Calandre redessinee — nouveaux phares — nouvelles jantes
+                              Boucliers retouches — feux arriere revision
+  Phares avant              : Halogene de serie — Bixenon en option
+                              Feux de jour LED disponibles en option
+  Feux arriere              : LED de serie (facelift 2012+)
+  Calandre                  : Double barre chromee — ecusson Mercedes central
+  Retroviseurs              : Electriques, chauffants, rabattables
+  Toit                      : Toit ouvrant panoramique disponible en option
+  Hayon                     : Hayon a charniere haute — ouverture manuelle de serie
+                              (electrique en option)
+  Passages de roues         : Plastiques noirs proteges — caracteristique SUV
+  Couleurs disponibles      : Blanc Arctique, Noir Obsidienne, Gris Palladium,
+                              Bleu Cavansite, Brun Citrine, Argent Iridium,
+                              Rouge Jupiter
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [10] INTERIEUR & FINITIONS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Tableau de bord           : Architecture Mercedes W204 — qualite de serie elevee
+                              Ecran central 5,8 pouces (serie)
+                              ou ecran 7,0 pouces avec Navigation haute resolution
+  Systeme multimedia        : COMAND NTG4.5 (serie ou option selon finition)
+  Instrumentation           : Combiné analogique 2 cadrans + affichage MID
+  Sieges avant              : Tissu de serie — reglage electrique en option
+                              Sieges chauffants en option
+  Sieges arriere            : Banquette 3 places — rabattable 40/20/40
+                              Acces correct (5 portes — pas de contrainte 3 portes)
+  Volant                    : 3 branches — cuir — commandes audio et telephone
+                              Palettes de vitesse en option
+  Console centrale          : Levier 7G-Tronic — commandes COMAND — frein elec.
+  Boiseries                 : Simili-bois ou aluminium selon finition/option
+  Climatisation             : Automatique bi-zone de serie (Thermotronic)
+  Fermeture                 : Centralisee par telecommande — sans cle option
+  Vitres                    : Electriques avant de serie — arriere en option
+                              (ou de serie selon finition)
+  Coffre                    : 450 L — plancher de coffre reversible (tissu/plastique)
+                              Banquette rabattable 40/20/40
+  Hayon                     : Manuel de serie — electrique en option
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [11] TECHNOLOGIE & CONNECTIVITE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Systeme multimedia        : COMAND NTG4.5 — ecran 5,8 ou 7,0 pouces
+  Navigation                : GPS integre (avec DVD ou HDD selon version)
+                              Note : mises a jour GPS payantes / DVD en 2014
+  Radio                     : AM/FM + CD + DAB option
+  Bluetooth                 : Telephonie + streaming audio A2DP
+  USB / AUX                 : Prises USB et auxiliaire de serie
+  Apple CarPlay             : NON disponible sur ce millésime 2014
+                              (arrive sur Mercedes a partir de 2016+)
+  Android Auto              : NON disponible sur ce millésime 2014
+  Camera de recul           : Option (non de serie automatiquement)
+  Capteurs parking          : Option ou de serie selon finition
+  Audio                     : Systeme standard 6-8 haut-parleurs
+                              Harman/Kardon en option
+  Memorisation sièges       : Option (conducteur)
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [12] AIDES A LA CONDUITE & SECURITE ACTIVE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  ABS                       : Multi-canal avec EBD
+  ESP                       : Electronic Stability Program de serie
+  Antipatinage              : ASR + 4ETS (traction via freinage selectif)
+  4Matic                    : Integrale permanente — transmission securisante
+  PRE-SAFE                  : Systeme de securite preventive Mercedes
+                              (precharge ceintures / referme fenetres si collision imminente)
+  Airbags frontaux          : Conducteur + passager de serie
+  Airbags lateraux          : Thorax avant de serie
+  Airbags rideaux           : Avant + arriere de serie (ou option)
+  Airbag genoux             : Conducteur (selon version)
+  Regulateur de vitesse     : De serie — avec limiteur
+  ACC                       : Regulateur adaptatif radar en option (DISTRONIC)
+  Capteurs parking          : Option avant + arriere
+  Camera de recul           : Option
+  Aide demarrage cote       : Hill Start Assist de serie
+  TPMS                      : Surveillance pression pneus de serie
+  Frein parking             : Electronique avec Auto-Hold de serie
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [13] EQUIPEMENTS DE SERIE — GLK 250 4MATIC 2014
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  • ABS + EBD + ESP + ASR
+  • 4ETS — traction electronique 4 roues
+  • 4Matic — transmission integrale permanente
+  • Boite 7G-Tronic Plus
+  • PRE-SAFE — securite preventive Mercedes
+  • Airbags frontaux + lateraux + rideaux
+  • Hill Start Assist
+  • TPMS — pression pneus
+  • Frein de stationnement electronique + Auto-Hold
+  • Climatisation automatique bi-zone (Thermotronic)
+  • Systeme multimedia COMAND
+  • Bluetooth telephonie + audio
+  • Prises USB + AUX
+  • Regulateur de vitesse + limiteur
+  • Direction electromecanique a rapport variable
+  • Vitres electriques avant (serie) + arriere (serie ou option)
+  • Retroviseurs electriques, chauffants, rabattables
+  • Fermeture centralisee par telecommande
+  • Feux arriere LED (facelift 2012)
+  • Jantes alliage 17 pouces
+  • Banquette arriere rabattable 40/20/40
+  • Eco Start/Stop de serie
+  • Suspension multibras (avant + arriere) — qualite premium
+
+  OPTIONS COURANTES SUR CE MILLÉSIME (non garanties incluses — a verifier) :
+    Phares bixenon / feux de jour LED
+    Navigation GPS COMAND (ecran 7 po)
+    Capteurs parking avant + arriere
+    Camera de recul
+    Toit ouvrant panoramique
+    Sieges avant chauffants
+    Pack AMG Line (jantes + boucliers)
+    Hayon electrique
+    Pack Confort (cuir + mem. sieges)
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [14] POINTS DE VIGILANCE & FIABILITE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Points positifs           :
+  • Kilométrage exceptionnel (50 000 km pour 11 ans) — moteur presque neuf
+  • Moteur M274 2.0T — fiable si entretenu et usage huile correcte
+  • 4Matic mecanique simple et robuste — pas de coupleur electronique fragile
+  • Vignette CRIT'Air 1 (essence Euro 6) — acces toutes ZFE
+  • Jamais accidente — historique propre
+  • Garantie 18 mois incluse
+  • PRE-SAFE de serie — securite passive avancee pour 2014
+  • Suspension multibras AV + AR — qualite superieure a MacPherson
+
+  ⚠️ POINTS DE VIGILANCE SPECIFIQUES AU FAIBLE KILOMETRAGE / AGE :
+
+  VIEILLISSEMENT > USURE — PARADOXE DES FAIBLES KM
+    Un vehicule tres peu utilise vieillit differemment d'un vehicule roule
+    Les fluides, joints et elastomeres vieillissent avec le TEMPS,
+    pas uniquement avec les kilometres
+    IMPERATIVEMENT verifier :
+    → Huile moteur : changee regulierement (tous les 2 ans minimum meme si <15 000 km)
+    → Liquide de frein : hygroscopique — a changer tous les 2 ans obligatoire
+    → Liquide de refroidissement : a tester (concentration + pH)
+    → Courroie accessoires : verifier aspect (craquelures liees a l'age)
+    → Joints de carter, turbo, pont arriere — recherche de fuites
+
+  ROULEMENTS ET JOINTS
+    Un vehicule peu roule mais vieux peut avoir des roulements qui se sont
+    grippes ou corrodes (absence de lubrification par le mouvement)
+    Verifier : absence de bruit de roulement (roue suspendue — rotation a la main)
+
+  SYSTEME 4MATIC
+    Verifier : huile de pont avant + arriere + differentiel central
+    Changement a 100 000 km recommande mais aussi tous les 10 ans
+    Cout vidange 4Matic : 300 – 500 EUR
+
+  MOTEUR M274 — SIGNALEMENTS
+    Quelques cas de consommation d'huile sur M274 premiere generation
+    (a partir de 60 000-80 000 km sur certains exemplaires — 2013-2015)
+    A 50 000 km : risque faible — mais verifier niveau d'huile
+    Verifier : niveau d'huile avant et apres la route (essai)
+    Verifier : absence de fumee bleue a chaud et deceleration
+
+  BOITE 7G-TRONIC
+    La 7G-Tronic Plus est solide et fiable — tres peu de problemes signales
+    Tester passages de rapports en conduite (douceur = OK)
+    Vidange boite non prevue en entretien normal ("vie entiere")
+    mais recommandee a 100 000 km — a verifier si effectuee
+
+  ELECTRONIQUE COMAND
+    Systeme COMAND de 2014 peut avoir des bugs (ecran LCD vieillissant)
+    Verifier fonctionnement de toutes les fonctions multimedia
+    Cout remplacement ecran COMAND : 500 – 1 500 EUR
+
+  BATTERIE 12V
+    Batterie de 11 ans — probablement en fin de vie
+    Verifier tension a froid (12,6 V minimum)
+    Cout batterie AGM Mercedes : 150 – 250 EUR
+
+  BUDGET REVISIONS PREVENTIVES CONSEILLE :
+    Fluides complets (huile + frein + refroidissement) : 300 EUR
+    Batterie 12V : 200 EUR
+    Vidange 4Matic : 400 EUR
+    Revision general (filtres + bougies) : 400 – 600 EUR
+    Total recommande : 1 300 – 1 500 EUR
+    → Ce vehicule devrait rester fiable longtemps apres ces preventifs
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [15] POSITIONNEMENT & CONCURRENTS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Ce vehicule               : 2 600 EUR — GLK 250 4Matic essence 2014 — 50 000 km
+  BMW X3 xDrive28i 2014     : 245 ch — cote 2025 : 10 000 – 18 000 EUR
+  Audi Q5 2.0 TFSI 220 2014 : 220 ch — cote 2025 : 9 000 – 16 000 EUR
+  Volvo XC60 T5 245 2014    : 245 ch — cote 2025 : 9 000 – 16 000 EUR
+  Land Rover Freelander 2 Si4: 240 ch — cote 2025 : 5 000 – 10 000 EUR
+  Range Rover Evoque Si4 2014: 240 ch — cote 2025 : 8 000 – 16 000 EUR
+
+  Specificite GLK 250       : Tres faible kilometrage (50 000 km) = moteur neuf
+                              Vignette CRIT'Air 1 (essence Euro 6) = acces ZFE
+                              4Matic mecanique robuste et simple
+                              PRE-SAFE + suspension multibras AV+AR premium
+                              Prix d'acquisition exceptionnel (-95% vs neuf)
+                              Marque Mercedes = prestige et SAV reseau dense
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [16] HISTORIQUE & ADN MERCEDES GLK
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Le Mercedes GLK (Gelaendewagen Luxus Kompakt) est presente en 2007 au Salon
+  de Geneve et commercialise en 2008. Construit sur la base de la Classe C
+  (W204), il represente la reponse de Mercedes a l'immense succes de l'Audi Q5
+  et du BMW X3 — deux SUV compacts qui dominent le segment depuis 2005.
+
+  Sa forme angulaire et droite — directement inspiree de la Classe G (Gelaendewagen
+  W463) — est controversee a sa sortie mais rapidement appreciee pour son
+  identite visuelle forte. Contrairement aux formes arrondies et fluides des
+  concurrents, le GLK revendique clairement son heritage tout-terrain.
+
+  Le facelift de 2012 (X204 phase 2) ameliore l'esthetique, les motorisations
+  et la technologie embarquee. Le GLK 250 en essence (M274) arrive en 2013
+  et sera produit jusqu'a l'arret du GLK en 2015, quand il cede la place
+  au GLC (C253) — plus modern, plus grand et mieux equipe.
+
+  Le GLK X204 est produit a Bremen (Allemagne) dans l'usine historique
+  Mercedes-Benz. Il est considere comme l'un des meilleurs SUV compacts
+  de son epoque pour sa robustesse, la qualite de sa fabrication et son
+  comportement routier proche d'une berline.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Sources : Daimler AG / Mercedes-Benz — L'Argus.fr — EncyCARpedia.com
+  ZePerfs.com — La Centrale — Caradisiac.com — Fiches-auto.fr
+  Specifications officielles Mercedes GLK X204 facelift 250 4Matic 7G-Tronic+ (2014 EU).
+================================================================================

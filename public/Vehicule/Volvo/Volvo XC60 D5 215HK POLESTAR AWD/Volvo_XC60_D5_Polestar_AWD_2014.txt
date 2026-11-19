@@ -1,0 +1,187 @@
+================================================================================
+                    FICHE TECHNIQUE COMPLÈTE
+                    VOLVO XC60 D5 215 POLESTAR AWD
+================================================================================
+
+═══════════════════════════════════════════════════════════════════════════════
+ 1. IDENTIFICATION DU VÉHICULE
+═══════════════════════════════════════════════════════════════════════════════
+
+ Marque                  : Volvo
+ Modèle                  : XC60 (1ère génération, phase 2)
+ Version                 : D5 AWD Polestar
+ Année                   : 01/2014
+ Kilométrage             : 186 000 km (certifié)
+ Origine                 : Importation Allemagne 🇩🇪
+ État                    : Jamais accidenté (Unfallfrei)
+ Prix de vente           : 7 300 €
+ Garantie                : 18 mois
+
+═══════════════════════════════════════════════════════════════════════════════
+ 2. MOTORISATION & PERFORMANCES
+═══════════════════════════════════════════════════════════════════════════════
+
+ Type de moteur           : 5 cylindres en ligne turbo diesel
+ Code moteur              : D5244T17 (Euro 5) ou D5244T18
+ Cylindrée                : 2 400 cm³
+ Puissance                : 215 ch (158 kW) @ 4 000 tr/min
+ Couple maximal           : 420 Nm @ 1 500 - 3 000 tr/min
+ Optimisation Polestar    : Cartographie moteur optimisée, réponse
+                            accélérateur améliorée, passages de vitesse
+                            plus rapides
+ Alimentation             : Injection directe common rail turbo diesel
+ Norme antipollution      : Euro 5
+ Filtre à particules      : Oui (DPF)
+
+ Boîte de vitesses        : Automatique Geartronic 6 rapports
+ Transmission             : Intégrale AWD (Haldex)
+
+ Vitesse maximale         : 210 km/h
+ 0 à 100 km/h             : 8,1 secondes
+ Consommation mixte       : 6,9 L/100 km
+ Émissions CO₂            : 179 g/km
+
+═══════════════════════════════════════════════════════════════════════════════
+ 3. DIMENSIONS & POIDS
+═══════════════════════════════════════════════════════════════════════════════
+
+ Longueur                 : 4 644 mm
+ Largeur                  : 1 891 mm
+ Hauteur                  : 1 713 mm
+ Empattement              : 2 774 mm
+ Garde au sol             : 230 mm
+ Volume coffre            : 495 litres (1 455 litres sièges rabattus)
+ Réservoir                : 68 litres
+ Poids à vide             : 1 888 kg
+ PTAC                     : 2 430 kg
+ Poids remorque freinée   : 2 100 kg
+ Nombre de places         : 5
+ Nombre de portes         : 5
+
+═══════════════════════════════════════════════════════════════════════════════
+ 4. CHÂSSIS & TRAIN ROULANT
+═══════════════════════════════════════════════════════════════════════════════
+
+ Plateforme               : Ford EUCD (P2)
+ Suspension avant          : McPherson
+ Suspension arrière        : Multibras
+ Freins avant              : Disques ventilés 328 mm
+ Freins arrière            : Disques pleins 302 mm
+ Direction                 : Assistée hydraulique (EHPS)
+ Pneus                     : 235/60 R18 ou 235/55 R19
+
+═══════════════════════════════════════════════════════════════════════════════
+ 5. ÉQUIPEMENTS DE SÉRIE (XC60 D5 AWD 2014)
+═══════════════════════════════════════════════════════════════════════════════
+
+ EXTÉRIEUR :
+ • Jantes alliage 18"
+ • Rails de toit intégrés
+ • Rétroviseurs électriques chauffants rabattables
+ • Feux de jour LED
+ • Feux antibrouillard
+ • Vitrage teinté
+ • Becquet arrière
+
+ INTÉRIEUR :
+ • Sellerie tissu/cuir (selon finition)
+ • Climatisation automatique bi-zone (ECC)
+ • Volant multifonction cuir
+ • Écran couleur central 7"
+ • Sièges avant chauffants
+ • Réglage électrique siège conducteur
+ • Accoudoir central
+ • Éclairage d'ambiance
+
+ CONNECTIVITÉ :
+ • Sensus infotainment avec navigation
+ • Bluetooth avec streaming audio
+ • Radio RDS/CD
+ • Port USB + AUX
+ • Commande vocale
+
+ SÉCURITÉ :
+ • City Safety (freinage auto basse vitesse)
+ • DSTC (Dynamic Stability Traction Control)
+ • ABS avec EBD
+ • 6 airbags + rideau
+ • WHIPS (protection coup du lapin)
+ • SIPS (Side Impact Protection System)
+ • Roll Stability Control (RSC)
+ • ISOFIX
+ • Hill Descent Control (HDC)
+ • Aide au démarrage en côte
+ • Capteurs de stationnement arrière
+
+═══════════════════════════════════════════════════════════════════════════════
+ 6. PARTICULARITÉ POLESTAR
+═══════════════════════════════════════════════════════════════════════════════
+
+ L'optimisation Polestar apporte :
+ • Reprogrammation ECU pour une réponse accélérateur plus vive
+ • Courbe de couple optimisée pour plus de disponibilité
+ • Passages de rapport plus rapides en mode Sport
+ • Gestion améliorée de la transmission intégrale
+ • Badge Polestar (selon version)
+
+═══════════════════════════════════════════════════════════════════════════════
+ 7. OPTIONS / PACKS FRÉQUENTS
+═══════════════════════════════════════════════════════════════════════════════
+
+ • Pack R-Design : boucliers sport, jantes 19/20", sièges sport, pédalier alu
+ • Pack Summum : sellerie cuir intégrale, sièges électriques mémoire
+ • Toit panoramique ouvrant
+ • Système audio Dynaudio Premium (12 HP)
+ • Caméra de recul
+ • BLIS (angles morts) + CTA
+ • Régulateur de vitesse adaptatif (ACC)
+ • Phares Bi-Xénon adaptatifs actifs (ABL)
+ • Hayon électrique
+
+═══════════════════════════════════════════════════════════════════════════════
+ 8. ANALYSE DU PRIX & COMPARAISON MARCHÉ EUROPÉEN
+═══════════════════════════════════════════════════════════════════════════════
+
+ Prix de vente proposé     : 7 300 €
+
+ Estimation marché européen (2014, D5 AWD Polestar, ~186 000 km) :
+ • Allemagne               : 13 000 € - 17 000 €
+ • France                   : 14 000 € - 18 000 €
+ • Belgique                 : 13 500 € - 17 500 €
+
+ ⚠️ Le prix proposé (7 300 €) est environ 52% inférieur
+    au prix moyen du marché européen pour ce véhicule.
+
+═══════════════════════════════════════════════════════════════════════════════
+ 9. CONDITIONS DE VENTE
+═══════════════════════════════════════════════════════════════════════════════
+
+ • Importation Allemagne 🇩🇪
+ • Garantie : 18 mois
+ • Jamais accidenté (Unfallfrei)
+ • Kilométrage certifié
+ • Documents inclus dans le prix :
+   - Carte grise officielle avec plaque d'immatriculation
+   - Certificat de non-gage
+   - Contrôle technique
+   - Carnet d'entretien constructeur
+   - Facture d'entretien
+
+ ➤ Contact uniquement si achat immédiat.
+
+═══════════════════════════════════════════════════════════════════════════════
+ 10. POINTS FORTS DU MODÈLE
+═══════════════════════════════════════════════════════════════════════════════
+
+ ✅ Moteur 5 cylindres diesel emblématique Volvo (sonorité unique)
+ ✅ Optimisation Polestar pour performances améliorées
+ ✅ Transmission intégrale AWD avec Hill Descent Control
+ ✅ Couple généreux (420 Nm) idéal pour le tractage (2 100 kg)
+ ✅ Garde au sol élevée (230 mm)
+ ✅ Sécurité Volvo légendaire
+ ✅ SUV robuste et polyvalent
+
+================================================================================
+ Fiche générée le 26/03/2026 — Données techniques issues des spécifications
+ constructeur Volvo Cars pour le XC60 D5 215 Polestar AWD 2014.
+================================================================================

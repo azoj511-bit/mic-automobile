@@ -1,0 +1,420 @@
+================================================================================
+        FICHE VEHICULE — MINI COOPER 1.5 136 ch (F56 / Gen III)
+        Berline 3 Portes · 136 ch · Manuelle 6 rapports · Essence · 2016
+================================================================================
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [1] INFORMATIONS COMMERCIALES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Prix de vente             : 2 600 EUR (marche europeen — occasion certifiee)
+  Origine                   : Importation Allemagne
+  Annee                     : Aout 2016 (08/2016)
+  Kilometrage               : 166 000 km (certifie)
+  Carburant                 : Essence
+  Boite de vitesses         : Manuelle 6 rapports
+  Transmission              : Traction avant (FWD)
+  Garantie                  : 18 mois chez le concessionnaire
+  Etat accident             : Jamais accidente
+  Formalites                : Immatriculation et plaque comprises dans le prix
+  Puissance fiscale         : 7 CV (France)
+  Prix neuf (2016)          : 22 000 – 26 000 EUR selon finition
+  Cote marche europeen 2025 : 8 000 – 13 000 EUR (etat standard, km importants)
+                              3 000 – 6 000 EUR (etat correct avec 166 000 km)
+  Generation                : MINI III — F56 (2014-2023)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [2] PRESENTATION GENERALE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  La MINI Cooper F56 est la troisieme generation de la nouvelle MINI, lancee
+  en 2014. Confiee au designer Gert Hildebrand (remplace par Anders Warming
+  pour le facelift 2018), elle marque une evolution significative en taille,
+  en technologie et en qualite de fabrication par rapport aux generations
+  precedentes, tout en preservant l'identite visuelle retro-moderne de la MINI.
+
+  Le moteur 1.5 turbo 136 ch — designe Cooper dans la gamme — est un 3 cylindres
+  (B38A15A) entierement nouveau, co-developpe par BMW et PSA (groupe Stellantis)
+  dans le cadre du projet "Prince" suivi de "G". Il est fabrique a Douvrin
+  (France) et a Hams Hall (Angleterre). C'est la premiere fois que MINI utilise
+  un 3 cylindres — une configuration peu commune sur ce segment premium,
+  qui apporte legererete, compacite et consommation reduite.
+
+  La version Cooper 136 ch est le point d'entree dans la gamme moteur "fun"
+  de MINI — entre le Cooper D diesel (116 ch) et le Cooper S essence (192 ch).
+  Son caractere est urbain et enjoue, avec un couple disponible tot en regime
+  et une sonoritee 3 cylindres distinctive.
+
+  A 166 000 km, ce vehicule a vecu une vie normale. Le prix de 2 600 EUR
+  est coherent avec la cote du marche pour cet etat de kilometrage, et
+  la garantie 18 mois offre une protection notable a ce prix.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [3] MOTORISATION — 1.5 TURBO 3 CYLINDRES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Type de moteur            : 3 cylindres en ligne — Turboessence
+  Designation BMW/MINI      : B38A15A — moteur "Prince 3 cyl"
+  Origine                   : Co-developpe BMW / PSA — fabrique a Douvrin (France)
+  Cylindree                 : 1 499 cm3 (1,5 litres)
+  Alesage x Course          : 82,0 mm x 94,6 mm (course superieure a l'alesage = couple)
+  Nombre de soupapes        : 12 (4 par cylindre)
+  Puissance maximale        : 136 ch (100 kW) a 4 400 tr/min
+  Couple maximum            : 220 Nm de 1 250 a 4 300 tr/min
+  Puissance specifique      : 90,7 ch/litre (67 kW/litre)
+  Regime maximal            : 6 500 tr/min
+  Taux de compression       : 11,0:1
+  Alimentation              : Injection directe + indirecte (combinee)
+  Suralimentation           : Turbocompresseur mono a geometrie fixe
+  Distribution              : DOHC — Valvetronic (levee variable — BMW)
+                              + Double VANOS (calage variable admission ET echappement)
+  Technologie Valvetronic   : Levee des soupapes variable en continu
+                              Remplace le papillon des gaz classique
+                              Meilleur rendement thermique — reponse accelerateur vive
+  Refroidissement           : Eau — refroidisseur d'air turbo integre
+  Systeme depollution       : Catalyseur + filtre a particules essence GPF
+  Stop & Start              : De serie
+  Norme antipollution       : Euro 6
+  Carburant                 : Sans plomb 95 RON (98 RON recommande)
+  Reservoir                 : 44 litres
+  Note 3 cylindres          : Vibration caracteristique a bas regime (1 000-1 500 tr/min)
+                              — acceptable et connue sur ce moteur
+                              MINI integre un compensateur de vibration (arbre d'equilibrage)
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [4] TRANSMISSION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Type de boite             : Manuelle 6 rapports (BVM6) — Aisin
+  Embrayage                 : Monodisque a sec — actionne manuellement
+  Transmission              : Traction avant (FWD)
+  Differentiel              : Standard (pas d'autobloquant)
+
+  Rapports (BVM6 MINI Cooper 136 ch) :
+    1ere          : 3,308
+    2eme          : 1,913
+    3eme          : 1,258
+    4eme          : 0,935
+    5eme          : 0,764
+    6eme          : 0,603
+    Marche arriere : 3,545
+    Ratio pont    : 3,692
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [5] CHASSIS, SUSPENSIONS & FREINS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Plateforme                : UKL1 (Untere Klasse 1) — groupe BMW
+                              Partagee avec BMW Serie 1, BMW X1, BMW X2
+  Structure                 : Monocoque acier
+  Suspension avant          : Jambes de force MacPherson — ressorts helicoidaux
+                              + barre anti-roulis
+  Suspension arriere        : Semi-independante — poutre de torsion
+                              + ressorts helicoidaux
+  Note suspension           : Reglage ferme — precis et sportif
+                              mais parfois critique pour le confort sur routes deformees
+  Direction                 : Electromecanique — a cremaillere
+                              Rapport de direction : 14,2:1
+  Diametre de braquage      : 10,7 m (exceptionnel — MINI celebre pour son agilite)
+  Freins avant              : Disques ventiles — O 278 mm + etriers 2 pistons
+  Freins arriere            : Disques pleins — O 259 mm
+                              (option disques arriere — de serie sur Cooper 136 ch)
+  Frein de stationnement    : Manuel (levier a main)
+  ABS                       : Multi-canal avec EBD
+  ESP                       : Dynamic Stability Control — DSC
+  Pneumatiques              : 195/55 R16 (serie)
+                              Option : 195/45 R17 ou 205/45 R17
+  Jantes                    : Alliage 16 pouces (serie)
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [6] PERFORMANCES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  0 a 100 km/h              : 7,9 secondes (officiel MINI — BVM6)
+  0 a 80 km/h               : environ 5,2 secondes
+  Quart de mile (400 m DA)  : environ 15,7 secondes
+  Reprise 80-120 km/h       : environ 7,2 secondes (4eme rapport)
+  Vitesse maximale          : 210 km/h
+  Rapport poids/puissance   : 7,9 kg/ch (126 ch/tonne)
+  Rapport couple/poids      : 203 Nm/tonne
+  Note comportement         : Comportement vif et communicatif — direction precise
+                              Rayon de braquage de 10,7 m — agilite extreme en ville
+                              Centre de gravite bas — plaisir de conduite reconnu
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [7] CONSOMMATION & EMISSIONS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Consommation urbaine      : 5,9 L/100 km (NEDC)
+  Consommation extra-urb.   : 3,8 L/100 km (NEDC)
+  Consommation mixte NEDC   : 4,5 L/100 km
+  Consommation reelle est.  : 6,0 – 7,5 L/100 km (usage normal)
+                              5,5 L/100 km autoroute stabilisee
+                              6,5 – 7,0 L/100 km route mixte
+                              7,5 – 8,5 L/100 km usage urbain (embouteillages)
+  Emissions CO2 (NEDC)      : 104 g/km (BVM6)
+  Norme antipollution       : Euro 6
+  Autonomie theorique       : environ 978 km (44 L / 4,5 L mixte NEDC)
+  Autonomie reelle          : environ 530 – 700 km (44 L / ~7 L reel)
+  Vignette CRIT'Air         : CRIT'Air 1 (France)
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [8] DIMENSIONS & POIDS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Longueur totale           : 3 821 mm
+  Largeur totale            : 1 727 mm (hors retroviseurs) — 1 976 mm (avec retro)
+  Hauteur                   : 1 414 mm
+  Empattement               : 2 495 mm
+  Voie avant                : 1 470 mm
+  Voie arriere              : 1 486 mm
+  Garde au sol              : 130 mm
+  Poids a vide (DIN)        : 1 085 kg
+  Poids a vide (UE)         : 1 160 kg
+  PTAC                      : 1 590 kg
+  Volume coffre min.        : 211 litres (hayon ferme — tres limite)
+  Volume coffre max.        : 731 litres (sieges arriere rabattus)
+  Nombre de places          : 4 (2 avant + 2 arriere — places arriere compactes)
+  Reservoir                 : 44 litres
+  Note coffre               : 211 litres = parmi les plus petits du segment
+                              La MINI est clairement une voiture de 2 personnes au quotidien
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [9] DESIGN EXTERIEUR — F56 GENERATION III
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Style                     : Evolution retro-moderne de la MINI originale (1959)
+                              Lignes rondes et retro — signature reconnaissable
+                              Phares ronds — prises d'air laterales — hayon
+  Carrosserie               : 3 portes (berline) — 2 vraies portes avant + hayon
+  Phares avant              : Halogene de serie — Full LED en option
+                              Forme ronde caracteristique avec halo LED de jour
+  Feux arriere              : LED Union Jack (drapeau britannique) — signature F56
+  Retroviseurs              : Electriques — chromes (selon finition)
+  Toit                      : Toit de couleur contrastee (noir, blanc ou body color)
+                              Antenne courte caracteristique MINI
+  Coffre                    : Hayon ouvrant avec vitre — taille compacte
+  Couleurs emblematiques    : Blanc Pepper, Noir Midnight, Rouge Chili,
+                              Bleu Electric, Gris Moonwalk, Jaune Solaris...
+  Personnalisation          : Large gamme d'accessoires MINI authentiques
+                              (bandeaux de capot, habillages, autocollants...)
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [10] INTERIEUR & FINITIONS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Tableau de bord           : Design retro centre sur un immense ecran rond central
+                              (ou cadran rond abritant la navigation/multimedia)
+  Ecran central             : MINI Connected — 6,5 pouces (serie) ou 8,8 po (option)
+                              Format rond — design unique dans l'industrie
+  Instrumentation           : Compteur de vitesse central + compte-tours lateral
+  Bague centrale ecran      : Personnalisable (chrome, piano black, carbone...)
+  Volant                    : 3 branches avec logo MINI — commandes integrees
+  Sieges avant              : Tissu ou simili cuir (selon finition)
+                              Note : reglage electrique des sieges en option seulement
+  Sieges arriere            : Banquette 3 places — tres etroite — 2 adultes maximum
+                              Acces difficile (3 portes = ouverture seulement par av.)
+  Console centrale          : Compacte — levier boite court — commandes chauffage
+  Systeme decoratif         : Bague autour de l'ecran + cadres de vitres
+                              personnalisables en de nombreuses finitions
+  Hayon interieur           : Coffre 211 L — plancher plat rabattable 60/40
+  Vitres                    : Electriques avant (serie) — electriques arriere option
+  Fermeture centralisee     : Telecommande — ou sans cle selon finition/option
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [11] TECHNOLOGIE & CONNECTIVITE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Systeme multimedia        : MINI Connected — ecran 6,5 pouces de serie
+  Navigation GPS            : Option (incluse dans certaines Series 2016)
+  Radio                     : AM/FM + DAB numerique selon version
+  Bluetooth                 : Telephonie + streaming audio de serie (selon pack)
+  USB / AUX                 : Prises de serie
+  Apple CarPlay             : Non disponible sur version 2016
+                              (Apple CarPlay arrive sur facelift MINI 2018+)
+  Android Auto              : Non disponible sur version 2016
+  Commande vocale           : Partielle via MINI Connected
+  Application               : MINI Connected App (version 2016 — fonctionnalites limitees)
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [12] AIDES A LA CONDUITE & SECURITE ACTIVE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  ABS                       : Multi-canal avec EBD — de serie
+  ESP                       : DSC — Dynamic Stability Control
+  Antipatinage              : ASC — Automatic Stability Control
+  Airbags frontaux          : Conducteur et passager de serie
+  Airbags lateraux          : Thorax — option (selon finition)
+  Airbags rideaux           : Option (selon finition)
+  Regulateur de vitesse     : Option — limiteur de vitesse de serie sur certains packs
+  Camera de recul           : Option — non de serie sur version 2016
+  Capteurs parking          : Option — non de serie systematiquement
+  TPMS                      : Surveillance pression pneus — option en 2016
+  Hill Start Assist         : De serie — aide demarrage en cote
+  Phares de jour            : LED halo de serie (signature MINI)
+  Phares principaux         : Halogene de serie — LED en option (+800 EUR neuf)
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [13] EQUIPEMENTS DE SERIE COOPER 2016 (standard — hors packs)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  • ABS + EBD
+  • DSC — Dynamic Stability Control (ESP)
+  • ASC — Automatic Stability Control (antipatinage)
+  • Hill Start Assist
+  • Airbags frontaux conducteur et passager
+  • Phares de jour LED (halo circulaire)
+  • Vitres electriques avant
+  • Fermeture centralisee
+  • MINI Connected (ecran 6,5 pouces)
+  • Radio AM/FM
+  • Stop & Start de serie
+  • Direction assistee electromecanique
+  • Valvetronic + Double VANOS (moteur)
+  • Boite manuelle 6 rapports
+
+  PACKS DISPONIBLES SELON FINITION (Series) :
+    Pack Salt               : Climatisation auto + radio DAB + BT + USB
+    Pack Pepper             : Salt + toit ouvrant + sieges sport
+    Pack Chili              : Pepper + jantes 17" + sièges baquets + cuir volant
+    Sports Series           : Jantes sport + sièges sport + volant sport
+                              + finitions sport specifiques (si le vehicule est en Sports Series)
+    Pack Yours              : Haut de gamme — cuir + tableau de bord personnalise
+
+  Note                      : Les equipements exacts de ce vehicule dependent
+                              de la version precise (Series). A verifier avec le VIN
+                              et le carnet d'equipements aupres du vendeur.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [14] MODES DE CONDUITE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Mode MID                  : Mode standard — equilibre
+  Mode GREEN                : Eco — Stop & Start actif — reponse moderee
+  Mode SPORT                : Reponse accelerateur directe — direction plus ferme
+                              Son moteur amplifie (interieur)
+  Toggle switch             : Interrupteur central — activation GREEN / MID / SPORT
+                              (design iconique MINI — interrupteur style avion)
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [15] POINTS DE VIGILANCE & FIABILITE A 166 000 km
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Points positifs           :
+  • Moteur B38 1.5T bien adapte a cet usage — leger, couple tot
+  • Comportement routier plebiscite — direction precis, agilite extreme (10,7 m)
+  • Vehicule jamais accidente — historique propre declare
+  • Garantie 18 mois — protection rare a ce prix et a ce kilometrage
+  • Vignette CRIT'Air 1 — acces ZFE maintenu
+  • Consommation reelle correcte (6-7 L/100 km)
+  • Prix 2 600 EUR coherent avec la cote marche pour ce kilométrage
+
+  ⚠️ POINTS DE VIGILANCE — CRITIQUE A 166 000 km :
+
+  CHAINE DE DISTRIBUTION — POINT MAJEUR
+    Le moteur B38 1.5T a connu des problemes de chaine de distribution
+    et de tendeur de chaine sur les exemplaires de premiere generation
+    Symptome : bruit de claquement a froid au demarrage
+    IMPERATIF avant achat :
+    → Demarrage a froid — ecouter attentivement pendant 30 secondes
+    → Absence de bruit = bon signe (mais pas garanti)
+    → Verifier si la chaine a deja ete changee dans le carnet
+    Cout remplacement chaine + tendeur : 800 – 1 500 EUR
+
+  JOINT DE CULASSE / CIRCUIT DE REFROIDISSEMENT
+    Signalement de joints de culasse sur ce moteur a hauts km
+    Verifier : temperature moteur en roulant (indicateur)
+    Verifier : presence d'huile dans le vase d'expansion
+    (eau + huile = joint de culasse defaillant)
+    Verifier : fumee blanche a l'echappement (a froid)
+    Cout remplacement joint de culasse : 1 200 – 2 000 EUR (main d'oeuvre incluse)
+
+  EMBRAYAGE
+    A 166 000 km l'embrayage est tres probablement use ou proche de la fin
+    Tester : prise progressive (pedal "hauts" = embrayage use)
+    Cout remplacement embrayage MINI : 600 – 1 200 EUR
+
+  TURBOCOMPRESSEUR
+    Usure possible a ce kilometrage — surtout si pas de chauffe moteur respectee
+    Verifier : absence de fumee bleue a l'acceleration
+    Cout remplacement turbo : 1 000 – 1 800 EUR
+
+  ELECTRICITE & ELECTRONIQUE
+    Batterie 12V probablement en fin de vie a 9 ans (2016 → 2025)
+    Alternateur a verifier
+    Couts : batterie 12V : 150 EUR — alternateur : 400-700 EUR
+
+  SUSPENSION
+    Silentblocs, rotules et amortisseurs peuvent etre uses a 166 000 km
+    Tester : bruit en virage, vibrations, tenue de cap
+    Budget revision trains roulants complet : 500 – 1 500 EUR
+
+  RECOMMENDATION GLOBALE :
+    Budget revisions preventives a prevoir : 1 500 – 3 500 EUR
+    Ce vehicule peut etre une bonne affaire SI l'entretien est prouve
+    et SI les points ci-dessus ont ete verifies avant achat.
+    La garantie 18 mois est un argument decisif a ce prix.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [16] POSITIONNEMENT & CONCURRENTS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Ce vehicule               : 2 600 EUR — MINI Cooper 136 ch 2016 — 166 000 km
+  Peugeot 208 1.2 130 2016  : cote 2025 : 4 000 – 8 000 EUR (km equiv)
+  Volkswagen Polo 1.0 TSI 2016: cote 2025 : 5 000 – 9 000 EUR
+  Renault Clio IV 120 2016  : cote 2025 : 4 000 – 7 000 EUR
+  Opel Corsa E 120 2016     : cote 2025 : 3 000 – 6 000 EUR
+  Toyota Yaris GR 2016      : non disponible en 2016
+
+  Note cote                 : La MINI Cooper 136 ch 2016 cote entre 8 000 et 13 000 EUR
+                              en bon etat — a 166 000 km, le prix de 2 600 EUR est
+                              dans la fourchette basse mais justifiee par le kilometrage
+
+  Specificite MINI          : Premium dans ce gabarit — finition, marque, plaisir de conduite
+                              bien au-dessus des Clio/208/Polo equivalentes
+                              Rayon de braquage de 10,7 m imbattable
+                              Identite visuelle unique et intemporelle
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [17] HISTORIQUE & ADN MINI COOPER F56
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  La MINI originale est concue en 1959 par Sir Alec Issigonis pour la British
+  Motor Corporation (BMC). Revolutionnaire, elle introduit la disposition
+  transversale du moteur en traction — copiee depuis par toute l'industrie.
+  Elle devient une icone culturelle des annees 60 (Monte Carlo, The Italian Job).
+
+  BMW rachete MINI en 1994 et lance la "nouvelle MINI" en 2001 (R50) — une
+  interpretation moderne du mythe, deux fois plus grande, mais fidele au style.
+  La troisieme generation F56 (2014-2023) est la plus technologique : plateforme
+  UKL1 partagee avec BMW, moteurs 3 cylindres co-developpes avec PSA,
+  electronique BMW de serie.
+
+  La Cooper F56 est produite dans l'usine de Cowley (Oxford, Royaume-Uni)
+  depuis 2014 — dans l'usine qui fut autrefois celle de la MINI originale.
+  Ce vehicule est l'un des rares construits entierement au Royaume-Uni dans
+  ce segment premium.
+
+  Le moteur B38 1.5T de cette Cooper inaugure la premiere motorisation
+  3 cylindres de MINI en 55 ans d'histoire. Son accord Valvetronic + Double VANOS
+  (heritage direct des moteurs BMW) lui confere une vivacite et une souplesse
+  inegales dans ce gabarit — au prix d'une sonoritee plus inhabituelle
+  (vibrations basses plus ressenties qu'un 4 cylindres).
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ 

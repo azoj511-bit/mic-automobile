@@ -1,0 +1,128 @@
+================================================================================
+                    FICHE TECHNIQUE COMPLETE
+                    RENAULT MEGANE E-TECH ELECTRIQUE
+================================================================================
+
+PRIX DE VENTE : 7.000 Euros
+GARANTIE : 18 MOIS
+ORIGINE : Importation Allemande
+JAMAIS ACCIDENTE
+
+================================================================================
+                    IDENTIFICATION DU VEHICULE
+================================================================================
+
+Marque                  : Renault
+Modele                  : Megane E-Tech Electrique
+Generation              : EV60
+Annee                   : 04/2024
+Kilometrage             : 9.396 km (Certifie)
+Carburant               : Electrique
+Boite de vitesses       : Automatique (reducteur)
+Puissance               : 130 CH (96 kW)
+
+================================================================================
+                    MOTORISATION
+================================================================================
+
+Moteur                  : Electrique synchrone a rotor bobine
+Puissance max           : 130 ch (96 kW)
+Couple max              : 250 Nm
+Tension systeme         : 400V
+
+BATTERIE :
+Type                    : Lithium-ion (NMC)
+Capacite brute          : 40 kWh (EV40) ou 60 kWh (EV60)
+Autonomie WLTP          : 300 km (40 kWh) / 450 km (60 kWh)
+Charge rapide DC (130kW): 30 min (15% a 80%)
+Charge AC (7,4 kW)     : ~6h (40 kWh) / ~9h15 (60 kWh)
+Charge AC (22 kW)      : ~2h (40 kWh) / ~3h (60 kWh)
+
+================================================================================
+                    TRANSMISSION
+================================================================================
+
+Boite de vitesses       : Reducteur mono-rapport
+Transmission            : Traction avant (FWD)
+
+================================================================================
+                    PERFORMANCES
+================================================================================
+
+Vitesse max             : 150 km/h (bridee electroniquement)
+0-100 km/h              : 10,0 secondes
+Consommation electrique : 15,5-16,1 kWh/100km (WLTP)
+
+================================================================================
+                    DIMENSIONS ET POIDS
+================================================================================
+
+Longueur                : 4.200 mm
+Largeur                 : 1.768 mm
+Hauteur                 : 1.505 mm
+Empattement             : 2.685 mm
+Coffre                  : 440 litres
+Poids a vide            : 1.560-1.636 kg
+PTAC                    : 2.055 kg
+
+================================================================================
+                    PLATEFORME
+================================================================================
+
+Architecture            : CMF-EV (Alliance Renault-Nissan-Mitsubishi)
+Batterie                : Integree au plancher (flat floor)
+Epaisseur batterie      : 110 mm seulement
+
+================================================================================
+                    EQUIPEMENTS DE SERIE (TYPIQUES 2024)
+================================================================================
+
+- OpenR Link avec Google integre (Google Maps, Assistant, Play Store)
+- Ecran portrait 12" multimedia
+- Cockpit numerique 12,3"
+- Navigation Google Maps integree
+- Apple CarPlay / Android Auto sans fil
+- Climatisation automatique avec pompe a chaleur
+- Volant cuir multifonction
+- Sieges chauffants (option)
+- Jantes alliage 18" ou 20"
+- Phares Full LED
+- Charge bidirectionnelle V2L (option)
+- Planificateur d'itineraire avec bornes de recharge
+- Multi-Sense (modes de conduite)
+- Camera de recul multi-vues
+- PDC avant et arriere
+- Aide au stationnement automatique
+
+SECURITE (Renault Safety Coach) :
+- Freinage automatique d'urgence (pieton, cycliste)
+- Alerte de franchissement de ligne avec correction
+- Regulateur de vitesse adaptatif
+- Reconnaissance des panneaux
+- Alerte de distance de securite
+- Surveillance des angles morts
+- 6 airbags
+
+================================================================================
+                    ANALYSE DU MARCHE EUROPEEN
+================================================================================
+
+Prix du marche europeen (Megane E-Tech 130 ch 2024, ~9.400 km) :
+- Prix catalogue neuf      : 33.000 - 37.000 EUR
+- Prix occasions recentes  : 26.000 - 31.000 EUR
+
+Le prix propose de 7.000 EUR est extremement inferieur
+au marche europeen pour un vehicule quasi neuf.
+
+================================================================================
+                    CONDITIONS DE VENTE
+================================================================================
+
+- Garantie : 18 mois
+- Jamais accidente
+- Importation Allemande, vehicule sous garantie
+- Documents fournis : Carte grise + plaque (compris dans le prix)
+- Pas de reprise ni d'echange
+- Vente uniquement sur commande avec livraison a domicile
+
+================================================================================

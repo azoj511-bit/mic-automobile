@@ -1,0 +1,409 @@
+================================================================================
+       FICHE VEHICULE — FORD RANGER RAPTOR
+       2.0 EcoBlue Bi-Turbo TDCi · 213 ch · Automatique · Diesel · 2021
+================================================================================
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [1] INFORMATIONS COMMERCIALES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Prix de vente             : 15 800 EUR (marche europeen — occasion certifiee)
+  Origine                   : Importation Allemagne
+  Annee                     : Juillet 2021 (07/2021)
+  Kilometrage               : 103 500 km (certifie)
+  Carrosserie               : Pick-Up Double Cabine 4 portes
+  Etat accident             : Jamais accidente
+  Garantie                  : 18 mois chez le concessionnaire
+  Carburant                 : Diesel
+  Boite de vitesses         : Automatique 10 rapports
+  Transmission              : 4x4 integrale permanente
+  Prix neuf (2021)          : 61 722 EUR (Special Edition) — 60 990 EUR (standard)
+  Cote marche europeen 2025 : 28 000 – 40 000 EUR selon etat et kilometrage
+  Puissance fiscale         : 7 CV
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [2] PRESENTATION GENERALE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Le Ford Ranger Raptor est la version la plus extremee du pick-up Ford Ranger,
+  dediee specifiquement aux performances tout-terrain a haute vitesse. Inspire
+  des courses de desert (Baja 1000), le Raptor se distingue de tous les autres
+  pick-ups par sa suspension FOX Racing a debattement exceptionnel, ses
+  differentiels blocables avant et arriere, son mode Baja exclusif et son
+  esthetique agressive qui ne passe pas inapercu.
+
+  Cette generation (P375 / Gen2 — 2019-2022) recoit le moteur 2.0 EcoBlue
+  bi-turbo de 213 ch couple a une boite automatique Ford SelectShift 10 rapports,
+  une combinaison qui lui confere une polyvalence remarquable : capable de
+  franchir des terrains difficiles, de remorquer jusqu'a 2 500 kg et d'etre
+  utilise au quotidien comme vehicule familial de standing.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [3] MOTORISATION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Type de moteur            : 4 cylindres en ligne — Diesel bi-turbo (twin-scroll)
+  Designation Ford          : 2.0 EcoBlue Bi-Turbo TDCi
+  Cylindree                 : 1 995 cm3 (2,0 litres)
+  Puissance maximale        : 213 ch (157 kW) a 3 750 tr/min
+  Couple maximum            : 500 Nm a 1 750 – 2 000 tr/min
+  Alimentation              : Injection directe Common Rail haute pression
+  Suralimentation           : Bi-turbo (petit turbo pour la reactivite bas regime
+                              + grand turbo pour le couple haut regime)
+  Refroidissement           : Eau — circuit de refroidissement renforce
+  Distribution              : DOHC — 4 soupapes par cylindre
+  Norme antipollution       : Euro 6d
+  Carburant requis          : Diesel (B7 minimum)
+  Reservoir                 : 80 litres
+  Filtre a particules       : FAP (Filtre a Particules Diesel) de serie
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [4] TRANSMISSION & SYSTEME 4x4
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Boite de vitesses         : Automatique 10 rapports — Ford SelectShift BVA10
+  Palettes au volant        : Oui — changement de vitesse au volant
+  Mode de selection         : Levier E-Shifter (remplacement levier traditionnel)
+  Systeme 4x4               : Transmission integrale permanente — 4WD Active
+  Modes 4x4                 : 2WD / 4H (4x4 High) / 4L (4x4 Low — rapport court)
+  Differentiel avant        : Blocage electronique (engagement via bouton)
+  Differentiel arriere      : Blocage electronique (engagement via bouton)
+  Differentiel central      : Differentiel central avec repartition couple variable
+  Boite de transfert        : 2 gammes — High Range et Low Range
+  Terrain Management System : 7 modes de conduite selectable via molette :
+                              Normal, Glissant, Sport, Boue/Orniere,
+                              Sable, Chemin rocailleux, Baja (mode off-road HS)
+  Anti-patinage             : Oui — systeme actif multi-mode
+  Remorquage                : Jusqu'a 2 500 kg (remorque freinees)
+  Charge utile plateau      : 1 024 kg
+  PTRA                      : 6 000 kg (poids total roulant autorise)
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [5] CHASSIS, SUSPENSIONS & FREINS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Structure                 : Chassis echelle (ladder frame) — acier haute resistance
+                              specifiquement revu et renforce pour le Raptor
+  Suspension avant          : Double triangles independants en aluminium
+                              + combinés ressort-amortisseur FOX Racing a bonbonne separee
+  Suspension arriere        : Essieu rigide — suspension multibras + parallelogramme de Watt
+                              + combinés ressort-amortisseur FOX Racing a bonbonne separee
+  Amortisseurs              : FOX Racing Shox a reservoir hydraulique separe (interne)
+                              + systeme de decompression interne (IBD — Internal Bypass Damping)
+  Debattement suspension    : Superieur a 180 mm (avant) / superieur a 150 mm (arriere)
+  Note amortisseurs         : Meme technologie utilisee en competition Baja 1000
+  Direction                 : Assistee electriquement — a cremaillere
+  Diametre de braquage      : 13,4 m
+  Freins avant              : Disques ventiles — O 332 mm + etriers 4 pistons
+  Freins arriere            : Disques ventiles — O 332 mm
+  Frein de stationnement    : Electronique (actionnable via bouton)
+  ABS                       : De serie — multi-canal
+  Pneumatiques              : 285/70 R17 (tout-terrain — flancs renforces)
+  Option pneus              : 265/65 R17 ou 265/60 R18 ou 255/60 R20
+  Jantes                    : Alliage 17 pouces specifiques Raptor
+  Garde au sol              : 235 mm
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [6] PERFORMANCES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  0 a 100 km/h              : 10,5 secondes
+  Vitesse maximale          : 170 km/h (limitee electroniquement)
+  Rapport poids/puissance   : 12,3 kg/ch (81 ch/tonne)
+  Rapport couple/poids      : 191 Nm/tonne
+  Note                      : Vehicule optimise pour les performances TT,
+                              non pour la vitesse maximale sur route
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [7] CAPACITES TOUT-TERRAIN & FRANCHISSEMENT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Garde au sol              : 235 mm
+  Angle d'attaque           : 32,5 degres (avant)
+  Angle de fuite            : 26,0 degres (arriere)
+  Angle ventral (rampe)     : 24,0 degres
+  Profondeur de gue         : 850 mm
+  Blocage differentiel av.  : Oui — electronique
+  Blocage differentiel ar.  : Oui — electronique
+  LOW RANGE                 : Rapport court 4x4 pour franchissement extreme
+  Mode Baja                 : Mode conduite TT haute vitesse desert
+                              (adaptation simultanee : moteur, boite,
+                              direction, suspension, echappement, ESP)
+  Pneus TT de serie         : 285/70 R17 a flancs renforces
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [8] CONSOMMATION & EMISSIONS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Consommation urbaine      : 13,8 – 14,0 L/100 km
+  Consommation autoroute    : 9,0 – 9,2 L/100 km
+  Consommation mixte        : 10,5 – 10,7 L/100 km (WLTP)
+  Consommation mixte NEDC   : 7,7 L/100 km
+  Emissions CO2             : 199 g/km
+  Norme antipollution       : Euro 6d
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [9] DIMENSIONS & POIDS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Longueur totale           : 5 363 mm
+  Largeur totale            : 2 028 mm (avec retroviseurs)
+  Largeur hors retroviseurs : 1 862 mm
+  Hauteur                   : 1 873 mm
+  Empattement               : 3 220 mm
+  Voie avant                : 1 710 mm
+  Voie arriere              : 1 710 mm
+  Poids a vide (DIN)        : 2 510 kg
+  Poids a vide (UE)         : 2 585 kg
+  Poids UE en ordre de marche : 2 620 kg
+  PTAC                      : 3 270 kg
+  PTRA                      : 6 000 kg
+  Charge utile plateau      : 1 024 kg
+  Capacite remorquage       : 2 500 kg (freine) — 750 kg (non freine)
+  Nombre de places          : 5 (Double Cabine)
+  Volume benne / plateau    : Plateau ouvert — dimensions 1 549 x 1 135 x 481 mm
+  Reservoir                 : 80 litres
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [10] DESIGN EXTERIEUR
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Carrosserie               : Pick-Up Double Cabine 4 portes — chassis echelle
+  Calandre                  : Calandre specifique Raptor — large + barre transversale
+                              avec lettrages FORD en relief et finition noire
+  Bouclier avant            : Bouclier specifique Raptor — renforce et protegeant
+                              les organes mecaniques
+  Ailes                     : Ailes elargies + passages de roues musculeux
+                              pour accommoder les pneus 285 et la voie elargie
+  Phares                    : Bi-LED de serie — antibrouillards integres
+  Barre de protection       : Barre avant specifique Raptor
+  Barres de toit            : Barres de toit de serie (porte-bagages)
+  Benne arriere             : Benne en acier a protection de peinture renforcee
+  Crochets de transport     : Points d'ancrage benne de serie (4 crochets)
+  Crochet d'attelage        : De serie — capacite 2 500 kg
+  Marchepieds               : Marchepieds lateraux specifiques Raptor
+  Badges                    : Logos RAPTOR specifiques — cote portes et hayon
+  Couleurs disponibles      : Blanc arctique, Noir ebene, Rouge course,
+                              Gris magnetique, Bleu Ford Performance, Orange Raptor
+  Jantes                    : Alliage 17 pouces specifiques Raptor (noires)
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [11] INTERIEUR & FINITIONS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Sieges avant              : Sieges sport bolstes — cuir et suedine Miko
+                              avec lettrages RAPTOR en relief et surpiquures
+  Sieges arriere            : Banquette 3 places — cuir / simili assortis
+  Reglage sieges            : Electrique (conducteur) — manuel (passager)
+  Volant                    : Sport chauffant — cuir perfore avec marqueur central
+                              et palettes de vitesse en magnesium
+  Tableau de bord           : Ecran d'instrumentation numerique 12,4 pouces HD
+  Ecran central             : Ecran tactile SYNC 3 / SYNC 4 — 8 ou 12 pouces
+  Console centrale          : Console specifique Raptor avec bouton Start/Stop,
+                              frein de stationnement electrique, molette TMS
+                              et 6 interrupteurs auxiliaires au plafond
+  Accoudoir                 : Accoudoir central avant avec rangement
+  Eclairage ambiance        : Eclairage interieur LED
+  Vitres                    : Electriques 4 vitres (avant et arriere)
+  Retroviseurs              : Exterieurs electriques, chauffants et rabattables
+  Climatisation             : Automatique bi-zone (conducteur / passager)
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [12] TECHNOLOGIE & CONNECTIVITE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Systeme infotainment      : Ford SYNC 3 (selon date de production)
+  Ecran tactile             : 8 pouces (SYNC 3) — compatible mise a jour SYNC 4
+  Instrumentation           : Tableau de bord numerique 12,4 pouces
+  Navigation GPS            : GPS integre avec trafic en temps reel
+  Apple CarPlay             : Oui — integre sans fil ou filaire
+  Android Auto              : Oui — integre
+  Bluetooth                 : Oui — streaming audio + telephonie
+  Port USB                  : Multiple (avant + arriere)
+  Audio                     : Systeme audio premium — 8 haut-parleurs de serie
+  Commande vocale           : Reconnaissance vocale conversationnelle SYNC
+  Camera de recul           : Oui — camera HD avec directives
+  Capteurs parking          : Avant et arriere de serie
+  Pre-cablage accessoires   : Circuits pre-installes pour barres LED, trepied,
+                              accessoires sous capot, calandre et attelage
+  Interrupteurs auxiliaires : 6 interrupteurs au plafond (console de toit)
+                              pour barres lumineuses, trepied, treuil, etc.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [13] AIDES A LA CONDUITE & SECURITE ACTIVE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  ABS                       : De serie — multi-canal avec EBD
+  ESP                       : Controle electronique de stabilite
+  Antipatinage              : ASR — Traction Control adaptatif multi-mode
+  Assistance anti-collision : Pre-Collision Assist — detection pietons et vehicules
+  Freinage d'urgence auto   : Post-Impact Braking — freinage apres collision
+  Angle mort                : Detection des angles morts (Blind Spot Monitoring)
+  Surveillance voie         : Alerte franchissement de voie (Lane Keeping Alert)
+  Aide au remorquage        : Systeme de gestion remorque integre
+  Airbags frontaux          : Conducteur et passager
+  Airbags lateraux          : Thorax + rideaux
+  Airbag Far-Side           : Premier airbag separateur passagers avant du segment
+                              (protege en cas de choc lateral)
+  Pression pneus            : Surveillance TPMS temps reel de serie
+  Camera recul              : HD avec lignes de guidage dynamiques
+  Regulateur de vitesse     : Regulateur adaptatif avec Stop & Go
+  Descente de pente         : Hill Descent Control (HDC)
+  Assistance depart cote    : Hill Start Assist
+  Frein park electrique     : Frein de stationnement electrique de serie
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [14] MODES DE CONDUITE — TERRAIN MANAGEMENT SYSTEM (7 MODES)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Mode NORMAL               : Conduite route standard — compromis confort/efficacite
+  Mode GLISSANT             : Surface humide, neige, verglas — reactivite moderee
+  Mode SPORT                : Route seche — reponse moteur et boite plus directe
+  Mode BOUE / ORNIERE       : Terrain detrempé, boue profonde, franchissement lent
+  Mode SABLE                : Surface meuble, dune, plage — couple progressif
+  Mode CHEMIN ROCAILLEUX    : Obstacles, pierres, traces — vitesse lente controlee
+  Mode BAJA                 : Off-road haute vitesse desert — suspension active,
+                              moteur libre, echappement ouvert, ESC assoupli
+                              (inspire des courses Baja 1000)
+
+  Chaque mode adapte simultanement :
+    - La cartographie moteur (couple/puissance)
+    - La boite de vitesses (rapports et vitesse de passage)
+    - La direction (assistance modulee)
+    - La suspension active FOX (fermeté des amortisseurs)
+    - Le systeme d'echappement actif (volume sonore)
+    - L'ESP / antipatinage (seuils d'intervention)
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [15] LISTE COMPLETE DES EQUIPEMENTS DE SERIE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  -- SECURITE & AIDE A LA CONDUITE --
+  • ABS multi-canal avec EBD (repartition electronique du freinage)
+  • ESP — controle electronique de stabilite
+  • Systeme antipatinage ASR multi-mode
+  • Pre-Collision Assist — alerte et freinage autonome anti-collision
+  • Post-Impact Braking — freinage automatique apres collision
+  • Detection des angles morts (Blind Spot Monitoring)
+  • Alerte franchissement de voie (Lane Keeping Alert)
+  • Airbags frontaux conducteur et passager
+  • Airbags lateraux thorax + rideaux
+  • Airbag Far-Side (premiere fois sur segment pick-up)
+  • Surveillance pression pneumatiques (TPMS)
+  • Hill Descent Control — controle de vitesse en descente
+  • Hill Start Assist — aide au depart en cote
+  • Frein de stationnement electronique
+  • Camera de recul HD
+  • Capteurs de stationnement avant et arriere
+
+  -- TRANSMISSION & CAPACITES TOUT-TERRAIN --
+  • Boite automatique 10 rapports Ford SelectShift
+  • Palettes de vitesse au volant (magnesium)
+  • Transmission 4x4 integrale 2WD / 4H / 4L
+  • Blocage differentiel avant electronique
+  • Blocage differentiel arriere electronique
+  • Terrain Management System — 7 modes de conduite
+  • Mode BAJA (conduite TT haute vitesse)
+  • Amortisseurs FOX Racing a bonbonne separee (avant + arriere)
+  • Suspension avant double triangles aluminium
+  • Suspension arriere multibras + parallelogramme de Watt
+  • Pneus tout-terrain 285/70 R17 a flancs renforces
+  • Jantes alliage 17 pouces specifiques Raptor
+  • Disques ventiles avant et arriere (O 332 mm)
+  • Garde au sol de 235 mm
+  • Crochet d'attelage — capacite 2 500 kg
+
+  -- TECHNOLOGIE & CONNECTIVITE --
+  • Tableau de bord numerique 12,4 pouces HD
+  • Ecran tactile 8 pouces (SYNC 3)
+  • Navigation GPS avec trafic temps reel
+  • Apple CarPlay integre
+  • Android Auto integre
+  • Bluetooth telephonie + audio
+  • Ports USB avant et arriere
+  • Systeme audio premium 8 haut-parleurs
+  • Reconnaissance vocale SYNC
+  • Camera de recul
+  • 6 interrupteurs auxiliaires au plafond (accessoires)
+  • Pre-cablage accessoires aftermarket (barres LED, treuil...)
+
+  -- CONFORT & EQUIPEMENTS INTERIEURS --
+  • Sieges avant sport cuir/suedine Miko avec logo Raptor en relief
+  • Volant sport chauffant — cuir perfore — marqueur central
+  • Palettes de vitesse en magnesium au volant
+  • Climatisation automatique bi-zone
+  • Vitres electriques 4 vitres
+  • Retroviseurs exterieurs electriques, chauffants, rabattables
+  • Accoudoir central avec rangement
+  • Eclairage interieur LED
+  • Fermeture centralisee
+  • Bouton Start/Stop moteur
+
+  -- EXTERIEURS SPECIFIQUES RAPTOR --
+  • Calandre specifique large avec lettrages FORD en relief
+  • Bouclier avant renforce
+  • Ailes elargies specifiques Raptor
+  • Marchepieds lateraux specifiques
+  • Barres de toit (porte-bagages)
+  • Phares bi-LED avec antibrouillards integres
+  • Barre de protection avant
+  • Crochets d'arrimage benne (4 points)
+  • Badges et logos RAPTOR specifiques
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [16] POSITIONNEMENT & CONCURRENTS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Ce vehicule (occasion)    : 15 800 EUR — 103 500 km — 2021
+  Ford Ranger Wildtrak      : Equivalente gamma — moins capable TT
+  Toyota Hilux Invincible   : 204 ch — prix similaire — moins dote TT
+  Volkswagen Amarok V6 TDI  : 258 ch — plus puissant mais moins off-road
+  Mercedes X-Class (arrete) : 190 ch — moins capable TT
+  Jeep Gladiator Rubicon    : 285 ch — concurrent direct TT — plus cher
+  RAM 1500 TRX (import)     : 702 ch — V8 HEMI — extremement cher
+
+  Atout principal Raptor    : Seul pick-up de serie avec suspension FOX Racing
+                              et mode Baja dans cette gamme de prix.
+                              Alliance unique pick-up utilitaire + vehicule de course.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [17] HISTORIQUE & ADN RAPTOR
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Le Ford Raptor est ne aux Etats-Unis en 2010 sur base de F-150, pour
+  permettre aux passionnes de disposer d'un pick-up capable de rouler
+  a grande vitesse dans le desert, comme les pilotes de la Baja 1000 —
+  course mythique de 1 300 km en Basse-Californie mexicaine.
+
+  Le Ranger Raptor est la version mondiale (et plus accessible) du concept,
+  introduite en 2019 sur le marche europeen. Cette generation (P375 / Gen 2)
+  est la premiere a recevoir le bi-turbo diesel 2.0 EcoBlue 213 ch et la
+  boite automatique 10 rapports, remplacant le diesel 2.2 litre de la Gen 1.
+
+  FOX Racing Shox est l'un des fabricants d'amortisseurs de competition les
+  plus respectes au monde, dont les produits equipent les voitures gagnantes
+  de la Baja 1000 et du Dakar Rally.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Sources : Ford Motor Company — Argus.fr — Auto-Selection.com
+  ZePerfs.com — LaRevueAutomobile.com — Ford.be (specifications officielles EU)
+  Donnees techniques valables pour la generation P375 (2019-2022) 2.0 TDCi 213 ch.
+================================================================================

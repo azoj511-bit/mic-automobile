@@ -1,0 +1,175 @@
+================================================================================
+                    FICHE TECHNIQUE COMPLÈTE
+                    HYUNDAI TUCSON 1.6 CRDi 136 N-LINE (MHEV)
+================================================================================
+
+═══════════════════════════════════════════════════════════════════════════════
+ 1. IDENTIFICATION DU VÉHICULE
+═══════════════════════════════════════════════════════════════════════════════
+
+ Marque                  : Hyundai
+ Modèle                  : Tucson (4ème génération - NX4)
+ Version                 : 1.6 CRDi 136 N-Line (Mild Hybrid 48V)
+ Année                   : 08/2023
+ Kilométrage             : 28 000 km (certifié)
+ Origine                 : Importation Allemagne 🇩🇪
+ État                    : Non précisé
+ Prix de vente           : 15 000 €
+ Garantie                : Garantie constructeur Hyundai jusqu'au 08/2028
+ Contrôle technique      : Valide jusqu'au 22/10/2026
+
+═══════════════════════════════════════════════════════════════════════════════
+ 2. MOTORISATION & PERFORMANCES
+═══════════════════════════════════════════════════════════════════════════════
+
+ Type de moteur           : 4 cylindres en ligne turbo diesel + MHEV 48V
+ Code moteur              : D4FE (Smartstream)
+ Cylindrée                : 1 598 cm³
+ Puissance                : 136 ch (100 kW) @ 4 000 tr/min
+ Couple maximal           : 280 Nm @ 1 500 - 3 000 tr/min
+ Système hybride          : Mild Hybrid 48V (alternateur-démarreur intégré)
+ Alimentation             : Injection directe common rail turbo diesel
+ Norme antipollution      : Euro 6d
+ Filtre à particules      : Oui (DPF)
+
+ Boîte de vitesses        : Automatique DCT 7 rapports (double embrayage)
+ Palettes au volant       : Oui
+ Transmission             : Traction avant (FWD)
+
+ Vitesse maximale         : 185 km/h
+ 0 à 100 km/h             : 11,0 secondes
+ Consommation mixte (WLTP): 5,3 - 5,9 L/100 km
+ Émissions CO₂ (WLTP)     : 139 - 154 g/km
+
+═══════════════════════════════════════════════════════════════════════════════
+ 3. DIMENSIONS & POIDS
+═══════════════════════════════════════════════════════════════════════════════
+
+ Longueur                 : 4 500 mm
+ Largeur                  : 1 865 mm
+ Hauteur                  : 1 650 mm
+ Empattement              : 2 680 mm
+ Garde au sol             : 181 mm
+ Volume coffre            : 620 litres (1 799 litres sièges rabattus)
+ Réservoir                : 54 litres
+ Poids à vide             : 1 577 kg
+ PTAC                     : 2 100 kg
+ Poids remorque freinée   : 1 650 kg
+ Nombre de places         : 5
+ Nombre de portes         : 5
+
+═══════════════════════════════════════════════════════════════════════════════
+ 4. CHÂSSIS & TRAIN ROULANT
+═══════════════════════════════════════════════════════════════════════════════
+
+ Plateforme               : N3 (Hyundai 3ème génération)
+ Suspension avant          : McPherson
+ Suspension arrière        : Multibras
+ Freins avant              : Disques ventilés 320 mm
+ Freins arrière            : Disques pleins 284 mm
+ Direction                 : Assistée électrique (R-MDPS)
+ Pneus                     : 235/55 R19 (N-Line)
+
+═══════════════════════════════════════════════════════════════════════════════
+ 5. ÉQUIPEMENTS CONFIRMÉS (selon annonce + série N-Line 2023)
+═══════════════════════════════════════════════════════════════════════════════
+
+ EXTÉRIEUR N-LINE :
+ • Boucliers N-Line spécifiques
+ • Calandre N-Line avec grille paramétrique
+ • Jantes alliage N-Line 19"
+ • Phares Bi-LED Matrix
+ • Feux de jour LED intégrés
+ • Feux arrière LED
+ • Double sortie d'échappement N-Line
+ • Attelage de remorque (confirmé)
+
+ INTÉRIEUR N-LINE :
+ • Sellerie sport N-Line spécifique
+ • Cockpit virtuel numérique 10,25"
+ • Écran tactile central 10,25" avec navigation
+ • Apple CarPlay & Android Auto
+ • Climatisation automatique
+ • Volant sport N-Line multifonction
+ • Sièges avant chauffants (confirmé)
+ • Chargeur inductif pour smartphone (confirmé)
+ • Palettes de changement de vitesse au volant (confirmé)
+ • Modes de conduite : Sport / Eco / Confort (confirmé)
+ • Radio DAB+ (confirmé)
+ • Bluetooth
+
+ SÉCURITÉ & AIDE À LA CONDUITE (confirmés) :
+ • Freinage automatique d'urgence (FCA)
+ • Reconnaissance des panneaux de signalisation (confirmé)
+ • Capteurs de stationnement 360° (confirmé)
+ • Caméra de recul (confirmé)
+ • Détection de ligne blanche (LKA) (confirmé)
+ • Alerte d'attention du conducteur (DAW) (confirmé)
+ • Régulateur de vitesse (Tempomat) (confirmé)
+ • Assistance au démarrage en côte
+ • Phares et essuie-glaces automatiques (confirmé)
+ • ISOFIX (confirmé)
+ • Start & Stop automatique (confirmé)
+ • 6 airbags
+
+═══════════════════════════════════════════════════════════════════════════════
+ 6. OPTIONS / PACKS FRÉQUENTS
+═══════════════════════════════════════════════════════════════════════════════
+
+ • Pack Premium : toit panoramique, sièges ventilés, Bose audio
+ • Head-Up Display
+ • Régulateur de vitesse adaptatif intelligent (SCC)
+ • Highway Driving Assist (HDA niveau 2)
+ • Caméra 360° avec vue aérienne
+ • Sièges arrière chauffants
+ • Hayon électrique
+ • Sièges électriques à mémoire
+
+═══════════════════════════════════════════════════════════════════════════════
+ 7. ANALYSE DU PRIX & COMPARAISON MARCHÉ EUROPÉEN
+═══════════════════════════════════════════════════════════════════════════════
+
+ Prix de vente proposé     : 15 000 €
+
+ Estimation marché européen (2023, N-Line, ~28 000 km) :
+ • Allemagne               : 29 000 € - 34 000 €
+ • France                   : 31 000 € - 36 000 €
+ • Belgique                 : 30 000 € - 35 000 €
+
+ ⚠️ Le prix proposé (15 000 €) est environ 55% inférieur
+    au prix moyen du marché européen pour ce véhicule.
+
+ 💡 Note : Ce véhicule bénéficie encore de la garantie constructeur
+    Hyundai jusqu'en 08/2028, ce qui est un atout majeur.
+
+═══════════════════════════════════════════════════════════════════════════════
+ 8. CONDITIONS DE VENTE
+═══════════════════════════════════════════════════════════════════════════════
+
+ • Importation Allemagne 🇩🇪
+ • Garantie constructeur Hyundai jusqu'au 08/2028
+ • Historique complet de maintenance chez Hyundai
+ • Kilométrage certifié Car-Pass
+ • Modalités de paiement :
+   - Apport minimum 20%, reste en mensualités sans intérêt
+ • Livraison à domicile (délai 5 jours)
+ • Délai de rétractation : 14 jours (satisfait ou remboursé)
+ • Réduction de 15% sur achat comptant
+
+═══════════════════════════════════════════════════════════════════════════════
+ 9. POINTS FORTS DU MODÈLE
+═══════════════════════════════════════════════════════════════════════════════
+
+ ✅ Quasi neuf : seulement 28 000 km
+ ✅ Garantie constructeur encore active jusqu'en 2028
+ ✅ Finition N-Line sportive très bien équipée
+ ✅ Technologie MHEV 48V pour consommation réduite
+ ✅ Design NX4 très moderne et primé
+ ✅ Coffre très généreux (620 litres)
+ ✅ Historique maintenance complet chez Hyundai
+ ✅ Prochain CT pas avant octobre 2026
+
+================================================================================
+ Fiche générée le 26/03/2026 — Données techniques issues des spécifications
+ constructeur Hyundai Motor pour le Tucson NX4 1.6 CRDi N-Line 2023.
+================================================================================

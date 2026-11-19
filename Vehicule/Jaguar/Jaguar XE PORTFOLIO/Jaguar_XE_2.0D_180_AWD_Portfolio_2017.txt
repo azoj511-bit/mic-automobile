@@ -1,0 +1,516 @@
+================================================================================
+       FICHE VEHICULE — JAGUAR XE 2.0D 180 AWD PORTFOLIO (X760)
+       Berline Sportive Premium · 180 ch · Automatique BVA8 · Diesel · 2017
+================================================================================
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [1] INFORMATIONS COMMERCIALES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Prix de vente             : 3 500 EUR (marche europeen — occasion)
+  Origine                   : Importation Allemagne
+  Annee                     : 2017
+  Kilometrage               : 92 600 km
+  Carburant                 : Diesel
+  Boite de vitesses         : Automatique 8 rapports (BVA8)
+  Transmission              : Integrale AWD (All-Wheel Drive)
+  Finition                  : Portfolio (niveau superieur de gamme — haut de gamme)
+  Garantie                  : 12 a 48 mois (extensible) — concession
+  Etat accident             : Non precise (a verifier)
+  Formalites incluses       : Carte grise officielle (plaque), certificat de non-gage,
+                              controle technique, carnet d'entretien constructeur,
+                              factures d'entretien
+  Delai de retractation     : 14 jours (droit de retractation legal inclus)
+  Financement               : Possible — apport 10% + 90% sur 6 a 84 mois
+  Prix neuf (2017)          : 45 760 EUR (Portfolio AWD BVA8)
+  Puissance fiscale         : 9 CV (propulsion) — 10 CV (AWD)
+  Cote marche europeen 2025 : 5 000 – 10 000 EUR selon etat, finition et options
+  Note                      : "Krok" dans le titre = sellerie cuir (Krokmuster)
+                              ACC = Adaptive Cruise Control — regulateur adaptatif
+
+  DECODAGE DU TITRE :
+    Portfolio   = Finition haut de gamme Jaguar XE
+    AWD         = All-Wheel Drive — transmission integrale permanente
+    Krok        = Crocodile / sellerie cuir a motif specifique (Krokmuster)
+    ACC         = Adaptive Cruise Control avec radar avant
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [2] PRESENTATION GENERALE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  La Jaguar XE est la berline compacte premium de Jaguar Land Rover, lancee
+  en 2015 pour concurrencer directement la BMW Serie 3, la Mercedes Classe C
+  et l'Audi A4. Son argument principal : une structure avant-gardiste composee
+  a 75% d'aluminium — une premiere absolue dans le segment des berlines
+  compactes premium — lui procurant un comportement dynamique exceptionnel
+  et un poids contenu par rapport a ses rivales allemandes en acier.
+
+  La version 2.0D 180 AWD Portfolio (2017) represente la combinaison la plus
+  complete de la gamme : le moteur 2.0 diesel Ingenium developpe en interne
+  par JLR (premier moteur entierement concu par Jaguar en 50 ans), la
+  transmission integrale AWD (grip maximal toutes conditions), la finition
+  Portfolio haut de gamme et la boite automatique 8 rapports ZF.
+
+  La finition Portfolio est le sommet de la gamme XE, au-dessus de R-Sport,
+  Prestige et Pure. Elle inclut de serie des equipements que les autres finitions
+  proposent en option : cuir pleine fleur, navigation haute resolution, systeme
+  audio Meridian premium, climatisation bi-zone, siege conducteur electrique
+  avec memoire, et nombreuses aides a la conduite.
+
+  Le prix de 3 500 EUR represente une opportunite d'acceder a une berline
+  premium 180 ch a transmission integrale avec dossier documentaire complet
+  (carte grise, CT, entretien) et garantie jusqu'a 48 mois.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [3] MOTORISATION — JAGUAR INGENIUM 2.0D
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Type de moteur            : 4 cylindres en ligne — Diesel turbocompresse
+  Designation JLR           : Ingenium 2.0D 180 — AJ200D
+  Note historique           : Premier moteur entierement concu par Jaguar Land Rover
+                              en 50 ans — developpe a partir d'une page blanche
+                              Structure aluminium — plus leger de 80 kg vs equivalent fonte
+  Cylindree                 : 1 999 cm3 (2,0 litres)
+  Alesage x Course          : 83,0 mm x 92,4 mm
+  Nombre de soupapes        : 16 (4 par cylindre)
+  Puissance maximale        : 180 ch (132 kW) a 4 000 tr/min
+  Couple maximum            : 430 Nm de 1 750 a 2 500 tr/min
+  Puissance specifique      : 90 ch/litre (66 kW/litre)
+  Regime maximal            : 4 500 tr/min
+  Taux de compression       : 15,5:1
+  Alimentation              : Injection Common Rail haute pression 4e generation
+  Suralimentation           : Turbocompresseur a geometrie variable (VGT)
+                              + echangeur thermique (intercooler eau-eau)
+  Distribution              : DOHC — 16 soupapes
+  Materiau bloc moteur      : Aluminium (reduction de masse de 80 kg vs fonte)
+  Systeme depollution       : FAP (Filtre a Particules Diesel) + SCR/AdBlue + EGR
+  Stop & Start              : De serie
+  Norme antipollution       : Euro 6 / Euro VI
+  Carburant                 : Diesel (B7 minimum)
+  Reservoir                 : 57 litres
+  Vidange                   : Toutes les 21 000 km (huile longue duree JLR)
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [4] TRANSMISSION & SYSTEME AWD
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Type de boite             : Automatique 8 rapports — ZF 8HP (train planetaire)
+  Fabricant boite           : ZF Friedrichshafen — reference mondiale du segment
+  Mode de commande          : Levier retractable JaguarDrive en console centrale
+                              (se retracte dans la console a l'arret)
+                              + palettes au volant en magnesium
+  Palettes au volant        : Oui — magnesium — changement de rapport manuel
+  Transmission              : AWD — All-Wheel Drive — integrale permanente
+  Systeme AWD               : Haldex Gen 5 — coupleur electronique multi-plaques
+                              Repartition : normalement 100% arriere (propulsion)
+                              → transfert automatique vers l'avant selon adherence
+                              → jusqu'a 50% avant en cas de perte motricite arriere
+  Differentiel arriere      : Differentiel autobloquant electronique (EBD rear)
+  Modes boite               : Auto / Sport / Hiver / Manuel
+  Mode Drive                : JaguarDrive Control — Normal / Eco / Dynamic / Hiver
+
+  Rapports (ZF 8HP indicatifs) :
+    1ere          : 4,71
+    2eme          : 3,14
+    3eme          : 2,10
+    4eme          : 1,67
+    5eme          : 1,29
+    6eme          : 1,00
+    7eme          : 0,84
+    8eme          : 0,67
+    Marche arriere : 3,30
+    Ratio pont arriere : 2,87
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [5] CHASSIS, SUSPENSIONS & FREINS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Plateforme                : iQ[Al] — Intelligent Aluminium Architecture
+                              Architecture aluminium brevetee Jaguar Land Rover
+  Structure                 : CAISSE 75% ALUMINIUM — premier du segment berlines
+                              compactes premium (vs BMW 3, Mercedes C, Audi A4 en acier)
+  Rigidite en torsion       : 28 830 Nm/degre (reference classe mondiale)
+  Gain de masse aluminium   : Environ 100 kg de moins qu'un chassis acier equivalent
+  Centre de gravite         : Exceptionnelement bas — moteur positionne
+                              le plus bas possible dans le chassis
+
+  Suspension avant          : Double triangulation (double wishbone) en aluminium
+                              (vs MacPherson sur BMW 3 et Mercedes C de l'epoque)
+                              Ressorts helicoidaux + amortisseurs hydrauliques
+  Suspension arriere        : Multibras integrale — 5 bras en aluminium
+                              Ressorts helicoidaux — geometrie permettant
+                              angle de chasse elevé
+  Direction                 : Electromecanique — a cremaillere
+                              Assistance variable selon vitesse et mode conduite
+                              Rapport de direction : 12,8:1 (tres direct)
+  Diametre de braquage      : 11,2 m (propulsion) — 11,66 m (AWD)
+  Barres anti-roulis        : Avant + arriere — aluminium
+
+  Freins avant              : Disques ventiles — O 325 mm + etriers 4 pistons
+  Freins arriere            : Disques ventiles — O 325 mm + etriers 2 pistons
+                              Note : disques ventiles AUSSI a l'arriere — rare sur ce segment
+  Frein de stationnement    : Electrique (bouton console) avec fonction Auto-Hold
+  ABS                       : Multi-canal avec EBD et CBC
+  ESP                       : DSC — Dynamic Stability Control (Jaguar)
+
+  Pneumatiques avant        : 225/45 R18 (serie) — 225/40 R19 (option)
+  Pneumatiques arriere      : 245/40 R18 (serie) — 245/35 R19 (option)
+  Note pneus                : Pneumatiques asymetriques avant/arriere
+                              Largeur avant < arriere = configuration propulsion-biased
+  Jantes                    : Alliage 18 pouces (serie Portfolio) — 19 pouces option
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [6] PERFORMANCES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  0 a 100 km/h              : 8,0 secondes (AWD BVA8)
+  0 a 100 km/h (propulsion) : 7,8 secondes (RWD BVM6)
+  0 a 80 km/h               : environ 5,0 secondes
+  Quart de mile (400 m DA)  : environ 16,2 secondes
+  Reprise 80-120 km/h       : environ 6,8 secondes (rapport 4)
+  Vitesse maximale          : 225 km/h (version AWD) — 228 km/h (propulsion)
+  Rapport poids/puissance   : 10,2 kg/ch (98 ch/tonne)
+  Rapport couple/poids      : 235 Nm/tonne
+  Note                      : Malgre 92 600 km, le moteur Ingenium conserve
+                              ses performances si bien entretenu.
+                              430 Nm disponibles des 1 750 tr/min —
+                              reprises tres creuses et lineaires
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [7] CONSOMMATION & EMISSIONS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Consommation urbaine      : 5,5 L/100 km (NEDC — version AWD)
+  Consommation extra-urb.   : 4,2 L/100 km (NEDC)
+  Consommation mixte NEDC   : 4,7 L/100 km
+  Consommation reelle est.  : 6,0 – 7,5 L/100 km (usage normal)
+                              5,8 L/100 km autoroute stabilisee
+                              6,5 L/100 km route mixte
+                              7,5 – 8,0 L/100 km conduite urbaine
+  Consommation sportive     : 9,5 L/100 km (conduite dynamique soutenue)
+  Emissions CO2 (NEDC)      : 123 g/km (version AWD)
+  Norme antipollution       : Euro 6 / Euro VI
+  Autonomie theorique       : environ 1 213 km (57 L / 4,7 L mixte NEDC)
+  Autonomie reelle          : environ 730 – 830 km (57 L / 7 L reel)
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [8] DIMENSIONS & POIDS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Longueur totale           : 4 672 – 4 686 mm (sources variables selon spec)
+  Largeur totale            : 1 850 mm (hors retroviseurs)
+  Hauteur                   : 1 416 – 1 425 mm
+  Empattement               : 2 835 mm
+  Voie avant                : 1 602 mm
+  Voie arriere              : 1 583 mm
+  Poids a vide (DIN)        : 1 610 kg (AWD)
+  Poids a vide (DIN propul) : 1 550 kg (RWD — 60 kg de moins)
+  Poids a vide (UE)         : 1 685 kg (AWD)
+  Poids UE en marche        : 1 832 kg (le plus eleve mesure)
+  PTAC                      : 2 130 kg
+  Volume coffre             : 455 litres
+  Nombre de places          : 5
+  Reservoir                 : 57 litres
+  Puissance fiscale         : 10 CV (France — version AWD)
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [9] DESIGN EXTERIEUR — SPECIFICITES XE PORTFOLIO
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Style                     : Design Ian Callum — berline 4 portes sportive et basse
+                              Ligne en coin — capot long / habitacle recule
+                              Silhouette tendue avec ligne de caisse montante
+  Particularite             : Berline 4 portes — mais silhouette de coupe
+                              Toit bas : 1 416 mm (vs 1 476 mm pour BMW 3 E90)
+  Phares avant              : Feux plein LED de serie (Portfolio) — signature J-Blade
+                              Eclairage de virage adaptatif
+  Feux arriere              : LED — signature lumineuse specifique XE
+  Calandre                  : Double barre chromee — ecusson Jaguar central
+  Retroviseurs              : Electriques, chauffants, rabattables
+                              Clignotants integres dans les retroviseurs
+  Toit ouvrant panoramique  : De serie sur Portfolio (grand toit vitree 2 pans)
+  Hayon                     : Coffre classique (pas de hayon) — ouverture electrique
+  Pneumatiques              : Asymetriques AV 225/45 R18 — AR 245/40 R18 (Pirelli de serie)
+  Seuils de porte           : Eclaires avec logo Jaguar
+  Couleurs disponibles      : Blanc Fuji, Noir Narvik, Gris Corris, Bleu Loire,
+                              Rouge Firenze, Argent Indus, Vert Britis Racing
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [10] INTERIEUR & FINITIONS PORTFOLIO
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Tableau de bord           : Entierement gaine de cuir (y compris dessus de planche)
+                              Habillage cuir etendu sur la majorite des surfaces
+                              touchees par le conducteur
+  Ecran central             : InControl Touch Pro — 10,2 pouces (Portfolio)
+                              Ecran tactile haute resolution
+  Instrumentation           : Combiné d'instruments analogiques + ecran TFT central
+  Levier de boite           : JaguarDrive Selector retractable — loge dans la console
+                              Design emblematique — se retracte a l'arret
+  Volant                    : Cuir pleine fleur gainé — chauffant de serie (Portfolio)
+                              Palettes de vitesse en magnesium
+  Sieges avant              : Cuir pleine fleur — motif specifique "Krok" (crocodile)
+                              Conducteur : reglage electrique 10 voies + memoire
+                              Passager : reglage electrique (Portfolio)
+                              Sieges avant chauffants de serie
+  Sieges arriere            : 3 places — cuir assortis
+                              Tunnel de plancher eleve (propulsion-biased = arbre propulsion)
+  Accoudoir central         : Cuir avec doubles rangements — prise 12V + USB
+  Accoudoir arriere         : Integre avec porte-gobelets
+  Boiseries                 : Essence de bois veritable (Frene fonce — Portfolio)
+                              ou aluminium brosse selon configuration
+  Garnitures                : Aluminium satiné specifiques Portfolio
+  Seuils de porte           : Eclaires avec logo Jaguar
+  Eclairage ambiance        : LED interieur — mode "Dynamic" passe de bleu → rouge
+  Toit                      : Grand toit panoramique 2 pans — rideau electrique
+  Fermeture                 : Smart Entry & Drive — ouverture et demarrage sans cle
+  Head-Up Display           : Affichage tete haute — de serie ou option Portfolio
+                              (selon configuration)
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [11] TECHNOLOGIE & CONNECTIVITE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Systeme multimedia        : InControl Touch Pro — ecran 10,2 pouces
+  Navigation GPS            : GPS haute resolution integre (InControl Nav Pro)
+                              Note : mises a jour GPS payantes sur ce millésime 2017
+  Audio                     : Systeme Meridian Premium — 11 haut-parleurs (serie Portfolio)
+                              Option Meridian Surround — 17 haut-parleurs
+  Bluetooth                 : Telephonie + streaming audio
+  USB                       : Prises USB + AUX de serie
+  Compatibilite             : MirrorLink — pas d'Apple CarPlay sur millésime 2017
+                              (CarPlay arrive sur la gen post-facelift 2019+)
+  Commande vocale           : Reconnaissance vocale "InControl Voice"
+  Wi-Fi hotspot             : Integre en option
+  Application Jaguar Remote : Localisation, historique trajets, niveau carburant,
+                              etat vehicule — de serie sur Portfolio
+  Camera de recul           : De serie Portfolio — avec lignes de guidage
+  Capteurs parking          : Avant + arriere de serie Portfolio
+  Head-Up Display           : Affichage tete haute (selon options sur ce vehicule)
+  Pare-brise chauffant      : De serie Portfolio — chauffage electrique integral
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [12] AIDES A LA CONDUITE & SECURITE ACTIVE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  ABS                       : Multi-canal avec EBD et CBC (Corner Brake Control)
+  DSC                       : Dynamic Stability Control (Jaguar ESP)
+  Antipatinage              : Traction Control — TC
+  Transmission integrale    : AWD Haldex Gen 5 — distribution automatique
+  ACC                       : Adaptive Cruise Control avec radar — de serie sur ce vehicule
+                              (mention dans le titre de l'annonce)
+                              Suivi de distance automatique — regulation adaptative
+  Lane departure            : Lane Departure Warning — alerte franchissement de voie
+  Blind Spot                : Blind Spot Monitoring — surveillance angles morts
+  Camera de recul           : De serie Portfolio
+  Capteurs parking          : Avant + arriere de serie
+  Frein parking             : Electronique avec Auto-Hold de serie
+  TPMS                      : Surveillance pression pneus de serie
+  Airbags frontaux          : Conducteur + passager (avec desactivation passager)
+  Airbags lateraux          : Thorax avant
+  Airbags rideaux           : Tete avant + arriere
+  Auto-hold                 : Maintien frein au demarrage (arrêt en pente)
+  eCall                     : Systeme d'appel d'urgence integre
+  Jaguar Remote             : Notification si vehicule delaisse ouvert > 15 min
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [13] MODES DE CONDUITE — JAGUARDRIVE CONTROL
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Mode Normal               : Equilibre confort/efficacite — usage quotidien
+  Mode Eco                  : Passages de rapport anticipes — Stop & Start actif max
+                              Limitation throttle — consommation minimale
+  Mode Dynamic              : Suspension plus ferme — boite plus reactive (maintien rapport)
+                              Direction plus precise — compteurs passent bleu → rouge
+                              Accelerateur vif — son moteur amplifie
+  Mode Hiver (AWD)          : Distribution couple privilegiee vers 4 roues
+                              Passages de rapport adoucis — demarrage en 2eme rapport
+                              Seuil DSC assoupli pour les glissements controles
+
+  Chaque mode adapte simultanement :
+    - La reponse de l'accelerateur (cartographie papillon)
+    - La logique de passage de la boite BVA8
+    - L'assistance de direction
+    - Le son moteur (simulation sonore active)
+    - L'eclairage du cockpit (bleu → rouge en Dynamic)
+    - La fermeté de l'amortissement (selon options)
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [14] LISTE COMPLETE DES EQUIPEMENTS — FINITION PORTFOLIO
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  -- SECURITE & AIDES A LA CONDUITE --
+  • ABS avec EBD et Corner Brake Control (CBC)
+  • DSC — Dynamic Stability Control
+  • Traction Control (antipatinage)
+  • Adaptive Cruise Control (ACC) avec radar (inclus sur ce vehicule)
+  • Lane Departure Warning — alerte voie
+  • Blind Spot Monitoring — angles morts
+  • Camera de recul avec lignes de guidage
+  • Capteurs stationnement avant + arriere
+  • Auto-Hold — maintien frein automatique a l'arret
+  • Frein de stationnement electronique
+  • TPMS — surveillance pression pneus
+  • Airbags frontaux conducteur + passager
+  • Airbags lateraux thorax
+  • Airbags rideaux tete avant + arriere
+  • eCall — systeme d'appel d'urgence
+  • Antidemarrage electronique
+  • Stop & Start de serie
+
+  -- TRANSMISSION --
+  • AWD — All-Wheel Drive (Haldex Gen 5)
+  • BVA8 — Boite automatique 8 rapports ZF
+  • Palettes au volant magnesium
+  • JaguarDrive Selector retractable
+  • 4 modes de conduite (Normal / Eco / Dynamic / Hiver)
+
+  -- CONFORT & EQUIPEMENTS INTERIEURS --
+  • Siege conducteur electrique 10 voies avec memoire
+  • Siege passager electrique
+  • Sieges avant chauffants
+  • Volant cuir gainé + chauffant
+  • Palettes de vitesse magnesium
+  • Climatisation automatique bi-zone (InControl Climate)
+  • Toit ouvrant panoramique 2 pans avec rideau electrique
+  • Smart Entry & Drive — ouverture/demarrage sans cle
+  • Fermeture centralisee
+  • Vitres electriques 4 vitres
+  • Retroviseurs exterieurs electriques, chauffants, rabattables
+  • Retroviseur interieur electrochrome
+  • Accoudoir central cuir avant avec rangements + USB + 12V
+  • Accoudoir central arriere avec porte-gobelets
+  • Boiseries Frene fonce veritable
+  • Cuir pleine fleur — motif Krok (crocodile) sur sieges
+  • Tableau de bord entierement gainé cuir
+  • Seuils de porte eclaires logo Jaguar
+  • Eclairage d'ambiance LED (bleu en normal / rouge en dynamic)
+  • Pare-brise chauffant integral
+  • Capteur de pluie — essuie-glaces automatiques
+  • Capteur de lumiere — phares automatiques
+
+  -- TECHNOLOGIE & CONNECTIVITE --
+  • Systeme InControl Touch Pro — ecran 10,2 pouces
+  • Navigation GPS haute resolution
+  • Systeme Meridian Premium — 11 haut-parleurs
+  • Bluetooth telephonie + streaming audio
+  • Prises USB + AUX
+  • Commande vocale InControl Voice
+  • Application Jaguar Remote (suivi vehicule)
+  • Camera de recul HD
+  • Head-Up Display — affichage tete haute (selon configuration)
+  • Phares plein LED avec eclairage adaptatif de virage
+  • Signature lumineuse J-Blade de serie
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [15] DOSSIER DOCUMENTAIRE INCLUS DANS LE PRIX
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Carte grise officielle    : Immatriculation dans le pays de destination — plaque incluse
+  Certificat de non-gage    : Certificat de situation administrative (CSA) officiel
+                              Atteste que le vehicule n'est pas sous gage judiciaire
+  Controle technique        : CT valide (date a verifier aupres du vendeur)
+  Carnet d'entretien        : Carnet d'entretien constructeur Jaguar
+  Factures d'entretien      : Historique des interventions et entretiens
+  Delai de retractation     : 14 jours (droit legal) — a noter par ecrit a la commande
+  Garantie concessionnaire  : 12 a 48 mois (extension possible)
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [16] POINTS DE VIGILANCE & FIABILITE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Points positifs           :
+  • Chassis 75% aluminium — comportement dynamique exceptionnel dans le segment
+  • Suspension double triangulation avant (superieure aux MacPherson des concurrentes)
+  • Boite ZF 8HP — reference absolue mondiale (utilisee aussi par BMW, Land Rover)
+  • AWD Haldex Gen 5 — grip et securite toutes conditions meteorologiques
+  • Finition Portfolio — niveau d'equipement tres complet de serie
+  • Cuir Krok, toit pano, volant chauffant, pare-brise chauffant, ACC inclus
+  • Fagots documentaires complets — rassurant pour l'acheteur
+  • Prix attractif (3 500 EUR) pour berline premium AWD bien equipee
+  • Moteur Ingenium aluminium — leger et moderne (concu 2012-2015)
+
+  Points de vigilance       :
+  CRITIQUE — A IMPERATIVEMENT VERIFIER AVANT ACHAT :
+  • Moteur Ingenium 2.0D 180 — signalement de casses moteur sur ce moteur
+    Problemes de distribution et coussinets de bielle sur certains exemplaires
+    Surtout si pas de vidange aux intervalles recommandes (21 000 km)
+    CONSEILLE : scanner OBD complet + verifier pression huile au demarrage
+    CONSEILLE : souscrire une protection panne mecanique etendue
+  • Kilometrage 92 600 km — verifier historique entretien complet (factures)
+  • Electronique : modules BSM et InControl parfois capricieux
+  • GPS / Multimedia : lent sur ce millésime — mises a jour GPS payantes
+  • Apple CarPlay non disponible (2017) — arrive sur facelift 2019+
+  • Boite de vitesses retractable : piece fragile — eviter de forcer
+  • Clignotants retroviseurs : etancheite parfois defaillante (eau infiltree)
+  • Vibrations habitacle signalees sur certains exemplaires (points de fixation)
+  • Frein de stationnement electrique : verifier bon fonctionnement (signalements)
+  • Entretien en centre Jaguar plus couteux que garage independant
+    PRECONISER : garage specialise JLR independant pour l'entretien courant
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [17] POSITIONNEMENT & CONCURRENTS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Ce vehicule               : 3 500 EUR — Jaguar XE 180 AWD Portfolio 2017 — 92 600 km
+  BMW Serie 3 F30 320d xDrive : cote 2025 : 8 000 – 15 000 EUR / plus fiable moteur
+  Mercedes Classe C W205 220d: cote 2025 : 8 000 – 16 000 EUR / electronique solide
+  Audi A4 B9 2.0 TDi 190    : cote 2025 : 9 000 – 18 000 EUR / mecanique eprouvee
+  Alfa Romeo Giulia 2.2 180 : cote 2025 : 8 000 – 14 000 EUR / similaire en comportement
+  Volvo V60 D4 AWD 2017     : cote 2025 : 7 000 – 13 000 EUR
+
+  Specificite XE            : Seule berline du segment avec chassis aluminium a 75%
+                              Suspension double triangulation avant (superieure a MacPherson)
+                              Design Ian Callum unique — rare sur la route
+                              Prix d'acquisition imbattable dans ce segment
+                              AWD + BVA8 + finition Portfolio pour 3 500 EUR
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [18] HISTORIQUE & ADN JAGUAR XE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  La Jaguar XE est presentee en septembre 2014 — premier modele issu de
+  l'architecture iQ[Al] entierement en aluminium. Ian Callum, le meme designer
+  que la XJ X351 et la F-Type, signe une berline aux proportions sportives
+  avec un toit tres bas et un long capot, rappelant les grandes berlinesGT
+  sportives des annees 60-70.
+
+  Le moteur Ingenium 2.0D est developpe entierement par Jaguar Land Rover
+  dans ses usines de Wolverhampton — premiere depuis 50 ans que JLR concevait
+  ses moteurs en interne. Le bloc en aluminium pese 80 kg de moins qu'un
+  equivalent en fonte, contribuant au bilan dynamique exceptionnel de la XE.
+
+  La plateforme iQ[Al] a ete reconnue avec plusieurs prix d'ingenierie :
+  prix Dewar 2014 de l'Engineering du Gouvernement Britannique. Jaguar LR
+  a investi plus de 3 milliards de livres dans le developpement du programme
+  aluminium — le plus grand investissement de l'histoire de la marque.
+
+  La Jaguar XE AWD Portfolio represente l'aboutissement de ce programme :
+  chassis aluminium leger et rigide, suspension double triangulation
+  heritee des supersportives, moteur maison Ingenium, boite ZF de reference —
+  une proposition technique ambitieuse face au trio bavarois/suabe.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Sources : Jaguar Land Rover — L'Argus.fr — ZePerfs.com — Caradisiac.com
+  LaRevueAutomobile.com — AutoReduc.com — La Centrale — UltimateSpecs.com
+  Specifications officielles Jaguar XE 2.0D 180 AWD Portfolio BVA8 (2017 EU).
+================================================================================

@@ -1,0 +1,225 @@
+================================================================================
+                        FICHE TECHNIQUE COMPLETE
+               AUDI Q7 3.0 TDI QUATTRO 3x S-LINE (4L)
+================================================================================
+
+PRIX DE VENTE : 2 900 EUR
+
+================================================================================
+INFORMATIONS GENERALES
+================================================================================
+
+Marque                      : Audi
+Modele                      : Q7 (1ere generation facelift - 4L)
+Version                     : 3.0 TDI quattro S-Line
+Annee                       : 04/2014
+Kilometrage                 : 141 222 km (certifie)
+Carburant                   : Diesel
+Transmission                : Automatique (Tiptronic 8 rapports)
+Origine                     : Importation Allemagne
+Garantie                    : 18 mois
+Historique                  : Jamais accidente
+Type de carrosserie         : SUV grand format 5 portes
+Nombre de places            : 5 a 7 (selon configuration)
+Nombre de portes            : 5
+Norme antipollution         : Euro 5
+Debut de production         : 2006 (facelift 2009)
+Fin de production           : 2015
+
+================================================================================
+MOTORISATION
+================================================================================
+
+Code moteur                 : CRCA (V6 3.0 TDI)
+Type                        : V6 turbocompresse diesel
+Cylindree                   : 2 967 cm3 (3.0L)
+Alimentation                : Injection directe common-rail diesel
+Suralimentation             : Turbocompresseur avec intercooler
+Puissance maximale          : 240 ch (177 kW) a 3 800 - 4 400 tr/min
+Couple maximal              : 550 Nm (406 lb-ft) a 1 750 - 2 750 tr/min
+Puissance specifique        : 80,9 ch/litre
+Nombre de soupapes          : 24 (4 par cylindre)
+Configuration               : V6 a 60 degres
+Distribution                : Double arbre a cames en tete (DOHC)
+Filtre a particules         : Oui (DPF)
+
+================================================================================
+PERFORMANCES
+================================================================================
+
+Vitesse maximale            : 215 km/h
+0 a 100 km/h                : 8,3 secondes
+Rapport poids/puissance     : 9,6 kg/ch
+
+================================================================================
+CONSOMMATION & EMISSIONS
+================================================================================
+
+Consommation urbaine        : 10,2 L/100 km
+Consommation extra-urbaine  : 7,2 L/100 km
+Consommation mixte          : 8,3 L/100 km
+Emissions CO2               : 219 g/km
+Capacite reservoir           : 100 litres
+
+================================================================================
+TRANSMISSION & CHASSIS
+================================================================================
+
+Boite de vitesses           : Tiptronic automatique a 8 rapports
+Roues motrices              : 4 roues motrices permanentes (quattro)
+                              Differentiel central Torsen
+Architecture                : Moteur avant longitudinal
+
+Suspension avant            : Double triangulation en aluminium
+Suspension arriere          : Multibras en aluminium
+Suspension pneumatique      : En option (adaptive air suspension)
+Freins avant                : Disques ventiles (365 mm)
+Freins arriere              : Disques ventiles (330 mm)
+Direction                   : Cremaillere, assistance electrohydraulique
+Aides a la conduite         : ABS, ESP, ASR, EBD, EDL
+
+================================================================================
+DIMENSIONS
+================================================================================
+
+Longueur                    : 5 089 mm
+Largeur (hors retros)       : 1 983 mm
+Largeur (retros inclus)     : 2 171 mm
+Hauteur                     : 1 737 mm
+Empattement                 : 3 002 mm
+Voie avant                  : 1 680 mm
+Voie arriere                : 1 680 mm
+Garde au sol                : 205 mm (sans suspension pneumatique)
+Diametre de braquage        : 12,2 m
+Angle d'approche            : 25 deg.
+Angle de fuite              : 22 deg.
+
+================================================================================
+POIDS & CAPACITES
+================================================================================
+
+Poids a vide                : 2 295 - 2 370 kg
+Poids total autorise (PTAC) : 3 100 kg
+Charge utile                : 650 - 730 kg
+Charge max. sur toit        : 100 kg
+Volume coffre (5 places)    : 775 litres
+Volume coffre (7 places)    : 330 litres
+Volume coffre (max/rabattu) : 2 035 litres
+Capacite reservoir           : 100 litres
+Remorque freinee (8%)       : 3 500 kg
+Remorque non freinee        : 750 kg
+
+================================================================================
+EQUIPEMENTS 3x S-LINE (TRIPLE PACK S-LINE)
+================================================================================
+
+Le pack "3x S-Line" signifie que le vehicule est equipe du pack S-Line
+exterieur, interieur ET sport (chassis), soit l'equipement S-Line complet.
+
+PACK S-LINE EXTERIEUR :
+- Boucliers avant et arriere S-Line specifiques
+- Jupes laterales S-Line
+- Calandre S-Line avec chromes
+- Diffuseur arriere S-Line
+- Jantes alliage S-Line 20 ou 21 pouces
+- Sorties d'echappement chromees
+- Inserts S-Line sur les ailes
+
+PACK S-LINE INTERIEUR :
+- Sieges sport S-Line en cuir/Alcantara
+- Volant sport S-Line multifonction cuir
+- Pommeau de levier de vitesses S-Line
+- Pedalier sport en aluminium
+- Seuils de porte S-Line illumines
+- Inserts decoratifs aluminium brosse
+- Tapis S-Line
+- Logo S-Line sur instrumentation
+
+PACK S-LINE SPORT (CHASSIS) :
+- Suspension sport abaissee (-20 mm)
+- Direction sport plus directe
+- Calibration sport de l'ESP
+
+SECURITE & AIDES A LA CONDUITE :
+- ABS avec assistant de freinage d'urgence
+- ESP avec fonctions etendues
+- Airbags frontaux, lateraux, rideaux (6 airbags)
+- Fixations Isofix (3eme rangee et 2eme rangee)
+- Phares bi-xenon adaptatifs
+- Lave-phares
+- Feux de jour a LED
+- Feux arriere a LED
+- Antibrouillards
+- Radar de stationnement avant et arriere
+- Camera de recul
+
+MULTIMEDIA & CONNECTIVITE :
+- MMI Navigation Plus avec ecran couleur
+- Audi Sound System
+- Bluetooth telephonie
+- Radio DAB (selon marche)
+- Prises AUX et carte SD
+- Commande vocale
+
+CONFORT :
+- Climatisation automatique 4 zones
+- Volant reglable en hauteur et profondeur
+- Sieges electriques avant avec memoire conducteur
+- Sieges chauffants avant
+- Retroviseurs electriques chauffants rabattables
+- Vitres electriques avant et arriere
+- Hayon electrique
+- Verrouillage centralise avec cle confort
+- Toit ouvrant panoramique (selon option)
+- Ordinateur de bord couleur
+
+================================================================================
+OPTIONS COURANTES
+================================================================================
+
+- Suspension pneumatique adaptive air suspension
+- Pack Audi exclusive (cuir Valcona, boiseries)
+- Bang & Olufsen Advanced Sound System
+- Affichage tete haute
+- Regulateur de vitesse adaptatif
+- Audi side assist (surveillance d'angle mort)
+- Audi pre sense (freinage preventif)
+- Camera 360 degres
+- Attelage de remorque electrique amovible
+- 3eme rangee de sieges (7 places)
+- Pack tout-terrain (suspension relevee, protections)
+- Sieges ventiles
+- Toit ouvrant panoramique
+
+================================================================================
+PRIX DU MARCHE EUROPEEN (OCCASION - 2024/2025)
+================================================================================
+
+Audi Q7 3.0 TDI quattro S-Line 2014 - Marche occasion europeen :
+
+Fourchette de prix generale  : 18 000 EUR - 28 000 EUR
+Prix moyen constate          : ~20 000 EUR - 24 000 EUR
+
+Note : Le prix de vente de ce vehicule (2 900 EUR) est tres largement
+inferieur a la valeur du marche europeen.
+
+================================================================================
+CONDITIONS DE VENTE
+================================================================================
+
+Prix de vente                : 2 900 EUR
+
+Documents fournis (inclus dans le prix) :
+- Carte grise officielle avec plaques d'immatriculation
+- Certificat de non-gage
+- Controle technique a jour
+- Carnet d'entretien constructeur Audi
+- Factures d'entretien
+
+Garantie : 18 mois
+Delai de retractation : 14 jours
+
+================================================================================
+                     FIN DE LA FICHE TECHNIQUE
+          AUDI Q7 3.0 TDI QUATTRO 3x S-LINE (4L) - 2014
+================================================================================

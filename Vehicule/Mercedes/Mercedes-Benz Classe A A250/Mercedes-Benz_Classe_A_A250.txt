@@ -1,0 +1,230 @@
+================================================================================
+                        FICHE TECHNIQUE COMPLETE
+                    MERCEDES-BENZ CLASSE A A250 (W177)
+================================================================================
+
+PRIX DE VENTE : 6 000 EUR
+
+================================================================================
+INFORMATIONS GENERALES
+================================================================================
+
+Marque                      : Mercedes-Benz
+Modele                      : Classe A (W177)
+Version                     : A 250 7G-DCT
+Annee                       : 2018
+Kilometrage                 : 78 500 km
+Carburant                   : Essence (Sans plomb)
+Transmission                : Automatique (7G-DCT double embrayage, 7 rapports)
+Origine                     : Importation Allemagne
+Garantie                    : 24 mois - Garantie europeenne
+Type de carrosserie         : Berline compacte (Hatchback 5 portes)
+Nombre de places            : 5
+Nombre de portes            : 5
+Norme antipollution         : Euro 6
+Debut de production         : 2018
+Fin de production           : 2022
+
+================================================================================
+MOTORISATION
+================================================================================
+
+Code moteur                 : M 260.920
+Type                        : 4 cylindres en ligne, turbocompresse
+Cylindree                   : 1 991 cm3 (2.0L)
+Alimentation                : Injection directe essence
+Suralimentation             : Turbocompresseur avec intercooler
+Puissance maximale          : 224 ch (165 kW) a 5 500 tr/min
+Couple maximal              : 350 Nm (258 lb-ft) a 1 800 tr/min
+Puissance specifique        : 112,5 ch/litre
+Nombre de soupapes          : 16 (4 par cylindre)
+Capacite huile moteur       : 5,5 litres
+Capacite liquide refroid.   : 8,2 litres
+Filtre a particules         : Oui (GPF)
+
+================================================================================
+PERFORMANCES
+================================================================================
+
+Vitesse maximale            : 250 km/h (bridee electroniquement)
+0 a 100 km/h                : 6,2 secondes
+Rapport poids/puissance     : 6,2 kg/ch
+Rapport puissance/tonne     : 162,3 ch/tonne
+
+================================================================================
+CONSOMMATION & EMISSIONS
+================================================================================
+
+Consommation urbaine (NEDC) : 8,1 - 8,4 L/100 km
+Consommation extra-urb.     : 5,1 - 5,4 L/100 km
+Consommation mixte (NEDC)   : 6,2 - 6,5 L/100 km
+Conso. basse vitesse (WLTP) : 6,7 L/100 km
+Conso. tres haute vit.(WLTP): 7,5 L/100 km
+Emissions CO2 (NEDC)        : 141 - 149 g/km
+Emissions CO2 (WLTP)        : 152 - 170 g/km
+Capacite reservoir           : 43 litres
+
+================================================================================
+TRANSMISSION & CHASSIS
+================================================================================
+
+Boite de vitesses           : Automatique 7G-DCT (double embrayage, 7 rapports)
+Roues motrices              : Traction (roues avant)
+Architecture                : Moteur avant transversal
+
+Suspension avant            : Independante, ressort helicoidal
+Suspension arriere          : Independante, ressort helicoidal
+Freins avant                : Disques ventiles
+Freins arriere              : Disques pleins
+Direction                   : Cremaillere, assistance electrique
+Aides a la conduite         : ABS (systeme antiblocage)
+
+================================================================================
+DIMENSIONS
+================================================================================
+
+Longueur                    : 4 419 mm
+Largeur (hors retros)       : 1 796 mm
+Largeur (retros inclus)     : 1 992 mm
+Hauteur                     : 1 440 mm
+Empattement                 : 2 729 mm
+Voie avant                  : 1 567 mm
+Voie arriere                : 1 547 mm
+Porte-a-faux avant          : 914 mm
+Porte-a-faux arriere        : 776 mm
+Garde au sol                : 104 mm
+Angle d'approche            : 13,4 deg.
+Angle de fuite              : 17,2 deg.
+
+================================================================================
+POIDS & CAPACITES
+================================================================================
+
+Poids a vide                : 1 380 kg
+Poids total autorise (PTAC) : 1 965 kg
+Charge utile maximale       : 585 kg
+Volume coffre               : 370 litres
+Capacite reservoir           : 43 litres
+Remorque freinee (12%)      : 1 600 kg
+Remorque non freinee        : 725 kg
+
+================================================================================
+EQUIPEMENTS DE SERIE (MERCEDES CLASSE A A250 2018)
+================================================================================
+
+SECURITE & CONDUITE :
+- ABS avec assistant de freinage d'urgence
+- ESP (controle electronique de stabilite)
+- ASR (antipatinage)
+- Aide au demarrage en cote
+- Airbags frontaux conducteur et passager
+- Airbags lateraux avant
+- Airbags rideaux
+- Airbag genoux conducteur
+- Fixations Isofix sieges arriere
+- Controle de pression des pneumatiques (TPMS)
+- Freinage automatique d'urgence Active Brake Assist
+- Avertisseur de franchissement de ligne
+- Attention Assist (detection de fatigue)
+- Feux de jour a LED
+- Pre-Safe (systeme preventif de securite)
+
+MULTIMEDIA & CONNECTIVITE :
+- Systeme MBUX (Mercedes-Benz User Experience)
+- Ecran tactile central 7 pouces (10,25 pouces en option)
+- Commande vocale "Hey Mercedes"
+- Apple CarPlay et Android Auto
+- Bluetooth telephonie et streaming audio
+- Radio numerique DAB+
+- Prises USB Type-C avant
+- Navigation avec cartographie Europe
+
+CONFORT & INTERIEUR :
+- Climatisation automatique bizone THERMATIC
+- Volant gainé cuir multifonction
+- Volant reglable en hauteur et profondeur
+- Sieges avant reglables en hauteur
+- Accoudoir central avant avec rangement
+- Retroviseurs exterieurs electriques chauffants
+- Vitres electriques avant et arriere
+- Verrouillage centralise a distance
+- Eclairage d'ambiance 64 couleurs
+- Demarrage sans cle KEYLESS-GO (selon option)
+- Ordinateur de bord
+
+EXTERIEUR :
+- Jantes alliage 16 pouces (de serie)
+- Feux arriere a LED
+- Sortie d'echappement chromee
+- Poignees de portes couleur carrosserie
+
+================================================================================
+OPTIONS & PACKS COURANTS
+================================================================================
+
+- Pack AMG Line (boucliers AMG, jantes AMG, volant sport AMG)
+- Pack Premium (ecran 10,25", MBUX augmente, eclairage ambiance)
+- Pack Premium Plus (affichage tete haute, Burmester, camera 360)
+- Toit ouvrant panoramique
+- Sellerie cuir ARTICO / cuir veritable
+- Sieges sport AMG
+- Sieges chauffants avant
+- Siege conducteur a memoire electrique
+- Radar de stationnement avant et arriere
+- Camera de recul
+- Camera 360 degres
+- Phares LED haute performance MULTIBEAM
+- Affichage tete haute (Head-Up Display)
+- Regulateur de vitesse adaptatif DISTRONIC
+- Systeme audio Burmester Surround Sound
+- Chargement sans fil smartphone (Qi)
+- Pack hiver (volant chauffant, sieges chauffants, lave-phares)
+- Hayon electrique EASY-PACK
+
+================================================================================
+PRIX DU MARCHE EUROPEEN (OCCASION - 2024/2025)
+================================================================================
+
+Mercedes Classe A A250 2018 (Automatique) - Marche occasion europeen :
+
+Fourchette de prix generale  : 19 000 EUR - 28 000 EUR
+Prix moyen constate          : ~22 000 EUR - 25 000 EUR
+
+Facteurs influencant le prix :
+- Kilometrage (< 80 000 km = segment haut)
+- Finition (AMG Line = +2 000 a +4 000 EUR)
+- Equipements optionnels (MBUX 10,25", cuir, toit pano)
+- Etat general et historique d'entretien
+- Pays d'origine
+
+Note : Le prix de vente de ce vehicule (6 000 EUR) est tres nettement
+inferieur a la valeur du marche europeen.
+
+================================================================================
+CONDITIONS DE VENTE
+================================================================================
+
+Prix de vente                : 6 000 EUR
+Reduction                   : 15% sur achat comptant a la commande
+
+Modalites de paiement :
+- Paiement comptant integral (avec reduction 15%)
+- OU en mensualites :
+  * Apport minimum : 20%
+  * Solde (80%) : en mensualites sans interet
+
+Documents fournis (inclus dans le prix) :
+- Carte grise officielle avec plaques d'immatriculation
+- Certificat de non-gage
+- Controle technique a jour
+- Carnet d'entretien constructeur Mercedes-Benz
+- Factures d'entretien
+
+Garantie : 24 mois - Garantie europeenne
+Livraison : A domicile sous 5 jours
+Delai de retractation : 14 jours (satisfait ou rembourse)
+
+================================================================================
+                     FIN DE LA FICHE TECHNIQUE
+               MERCEDES-BENZ CLASSE A A250 (W177) - 2018
+================================================================================

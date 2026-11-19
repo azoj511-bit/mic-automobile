@@ -1,0 +1,196 @@
+================================================================================
+                        FICHE TECHNIQUE COMPLETE
+                 MERCEDES-BENZ A 180d AMG LINE (W177)
+================================================================================
+
+PRIX DE VENTE : 5 000 EUR
+
+================================================================================
+INFORMATIONS GENERALES
+================================================================================
+
+Marque                      : Mercedes-Benz
+Modele                      : Classe A (W177)
+Version                     : A 180d AMG Line 8G-DCT
+Annee                       : 12/2020
+Kilometrage                 : 88 500 km (certifie)
+Carburant                   : Diesel
+Transmission                : Automatique (8G-DCT double embrayage, 8 rapports)
+Origine                     : Importation Allemagne
+Garantie                    : 18 mois
+Historique                  : Jamais accidente
+Type de carrosserie         : Berline compacte (Hatchback 5 portes)
+Nombre de places            : 5
+Nombre de portes            : 5
+Norme antipollution         : Euro 6d-ISC-FCM
+Debut de production         : 2020
+Fin de production           : 2022
+
+================================================================================
+MOTORISATION
+================================================================================
+
+Code moteur                 : OM 654.920
+Type                        : 4 cylindres en ligne, turbocompresse diesel
+Cylindree                   : 1 950 cm3 (2.0L)
+Alimentation                : Injection directe common-rail diesel
+Suralimentation             : Turbocompresseur avec intercooler
+Puissance maximale          : 116 ch (85 kW)
+Couple maximal              : 280 Nm (207 lb-ft)
+Puissance specifique        : 59,5 ch/litre
+Nombre de soupapes          : 16 (4 par cylindre)
+Alesage x Course            : 82 mm x 92,3 mm
+Taux de compression         : 15,5:1
+Distribution                : Double arbre a cames en tete (DOHC)
+Capacite huile moteur       : 6,8 litres
+Capacite liquide refroid.   : 10 litres
+Systemes                    : Start & Stop, filtre a particules diesel (DPF)
+
+================================================================================
+PERFORMANCES
+================================================================================
+
+Vitesse maximale            : 202 km/h
+0 a 100 km/h                : 9,5 secondes
+Rapport poids/puissance     : 12,2 kg/ch
+Rapport puissance/tonne     : 82 ch/tonne
+
+================================================================================
+CONSOMMATION & EMISSIONS
+================================================================================
+
+Consommation mixte (WLTP)   : 4,8 - 5,6 L/100 km
+Emissions CO2 (WLTP)        : 125 - 146 g/km
+Capacite reservoir           : 43 litres
+
+================================================================================
+TRANSMISSION & CHASSIS
+================================================================================
+
+Boite de vitesses           : 8G-DCT double embrayage a 8 rapports
+Roues motrices              : Traction (roues avant)
+Architecture                : Moteur avant transversal
+
+Suspension avant            : McPherson independante avec ressort helicoidal
+                              et barre anti-roulis
+Suspension arriere          : Essieu a barre de torsion
+Freins avant                : Disques ventiles
+Freins arriere              : Disques pleins
+Direction                   : Cremaillere, assistance electrique
+Aides a la conduite         : ABS
+Coefficient de trainee (Cx) : 0,258
+Diametre de braquage        : 11,0 m
+
+Pneumatiques (de serie)     : 205/60 R16
+Jantes                      : 6,5J x 16
+
+================================================================================
+DIMENSIONS
+================================================================================
+
+Longueur                    : 4 419 mm
+Largeur (hors retros)       : 1 796 mm
+Largeur (retros inclus)     : 1 992 mm
+Hauteur                     : 1 440 mm
+Empattement                 : 2 729 mm
+Voie avant                  : 1 567 mm
+Voie arriere                : 1 558 mm
+Porte-a-faux avant          : 914 mm
+Porte-a-faux arriere        : 776 mm
+Angle d'approche            : 13,4 deg.
+Angle de fuite              : 17,2 deg.
+
+================================================================================
+POIDS & CAPACITES
+================================================================================
+
+Poids a vide                : 1 415 kg
+Poids total autorise (PTAC) : 1 995 kg
+Charge utile maximale       : 580 kg
+Charge max. sur toit        : 75 kg
+Volume coffre (min)         : 345 litres
+Volume coffre (max/rabattu) : 1 185 litres
+Capacite reservoir           : 43 litres
+Remorque freinee (12%)      : 1 400 kg
+Remorque non freinee        : 745 kg
+Poids fleche attelage       : 80 kg
+
+================================================================================
+EQUIPEMENTS AMG LINE (INCLUS DE SERIE)
+================================================================================
+
+SECURITE & AIDES A LA CONDUITE :
+- ABS avec assistant de freinage d'urgence
+- ESP (controle electronique de stabilite)
+- ASR (antipatinage)
+- Active Brake Assist (freinage autonome d'urgence)
+- Attention Assist (detection de fatigue)
+- Avertisseur de franchissement de ligne
+- 7 airbags (frontaux, lateraux, rideaux, genoux conducteur)
+- Fixations Isofix
+- Pre-Safe (systeme preventif)
+- Controle de pression des pneus
+- Feux de jour a LED
+
+PACK AMG LINE (SPECIFIQUE) :
+- Boucliers avant et arriere specifiques AMG
+- Calandre specifique AMG avec lamelles chromees
+- Jupes laterales AMG
+- Volant sport AMG en cuir multifonction
+- Pedales sport en acier brosse
+- Sellerie specifique AMG (tissu/microfibre ARTICO)
+- Sieges sport avant AMG
+- Seuils de portes AMG
+- Jantes alliage AMG 18 pouces (selon option)
+
+MULTIMEDIA & CONNECTIVITE :
+- Systeme MBUX (Mercedes-Benz User Experience)
+- Ecran tactile central 7 pouces (10,25" en option)
+- Commande vocale "Hey Mercedes"
+- Apple CarPlay et Android Auto
+- Bluetooth telephonie et streaming audio
+- Radio numerique DAB+
+- Prises USB Type-C
+- Navigation integree
+
+CONFORT & INTERIEUR :
+- Climatisation automatique bizone THERMATIC
+- Eclairage d'ambiance 64 couleurs
+- Retroviseurs exterieurs electriques chauffants
+- Vitres electriques avant et arriere
+- Verrouillage centralise a distance
+- Start & Stop automatique
+- Ordinateur de bord
+
+================================================================================
+PRIX DU MARCHE EUROPEEN (OCCASION - 2024/2025)
+================================================================================
+
+Mercedes Classe A 180d AMG Line 2020 - Marche occasion europeen :
+
+Fourchette de prix generale  : 22 000 EUR - 30 000 EUR
+Prix moyen constate          : ~25 000 EUR - 28 000 EUR
+
+Note : Le prix de vente de ce vehicule (5 000 EUR) est extremement inferieur
+a la valeur du marche europeen.
+
+================================================================================
+CONDITIONS DE VENTE
+================================================================================
+
+Prix de vente                : 5 000 EUR
+
+Documents fournis (inclus dans le prix) :
+- Carte grise officielle avec plaques d'immatriculation
+- Certificat de non-gage
+- Controle technique a jour
+- Carnet d'entretien constructeur Mercedes-Benz
+- Factures d'entretien
+
+Garantie : 18 mois
+Delai de retractation : 14 jours
+
+================================================================================
+                     FIN DE LA FICHE TECHNIQUE
+            MERCEDES-BENZ A 180d AMG LINE (W177) - 2020
+================================================================================

@@ -1,0 +1,428 @@
+================================================================================
+       FICHE VEHICULE — CITROEN DS5 2.0 BlueHDi 181 ch
+       Berline Premium 5 portes · Automatique EAT6 · Diesel · 2014
+================================================================================
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [1] INFORMATIONS COMMERCIALES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Prix de vente             : 2 100 EUR (marche europeen — occasion)
+  Origine                   : Importation Allemagne
+  Annee                     : 2014 (lancement commercial : juillet 2014)
+  Kilometrage               : 126 000 km
+  Carburant                 : Diesel
+  Boite de vitesses         : Automatique 6 rapports (EAT6)
+  Transmission              : Traction avant (Front-Wheel Drive)
+  Garantie                  : 24 mois chez le concessionnaire
+  Prix neuf (2014)          : 38 750 EUR (So Chic) — 41 650 EUR (Sport Chic)
+  Puissance fiscale         : 9 CV
+  Cote marche europeen 2025 : 2 000 – 5 500 EUR selon etat et finition
+  Recommandation prix       : 2 100 EUR justifie pour 126 000 km / 2014
+                              avec garantie 24 mois incluse — prix correct
+  Designation moteur        : 2.0 BlueHDi 180 S&S (Stop & Start)
+                              Note : 181 ch = arrondi commercial — designation
+                              officielle "BlueHDi 180" = 177-181 ch selon mesure
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [2] PRESENTATION GENERALE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  La Citroen DS5 est la berline premium de la gamme DS, lancee fin 2011.
+  Elle occupait le sommet de la gamme Citroen DS avant que DS Automobiles
+  ne devienne une marque independante en 2015. Avec son design audacieux
+  signe par Mark Lloyd, elle se distingue radicalement de ses concurrentes
+  par sa silhouette de berline-coupe haut perchee, son triple toit vitree
+  caracteristique et ses ailes avant a "epaulements" musculeux.
+
+  La version 2.0 BlueHDi 180 arrivee en juillet 2014 est unanimement consideree
+  comme la meilleure motorisation de la gamme DS5. Le moteur BlueHDi (nouvelle
+  technologie antipollution SCR/AdBlue — sans AdBlue toutefois) remplace
+  l'ancien 2.0 HDi 163 avec des gains significatifs en puissance (+18 ch),
+  en couple (+30 Nm) et en consommation (-0,8 L/100 km). Associe a la boite
+  automatique EAT6 (6 rapports a train planetaire), il offre le meilleur
+  equilibre prestations/economie de la gamme DS5.
+
+  La DS5 a ete produite de 2011 a 2018, fin de serie non remplacee.
+  DS Automobiles ayant ensuite oriente sa gamme vers les SUV (DS3 Crossback,
+  DS7 Crossback, DS9). La DS5 reste donc un modele unique dans l'histoire
+  de la marque — la seule grande berline premium de DS.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [3] MOTORISATION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Type de moteur            : 4 cylindres en ligne — Diesel turbocompresse
+  Designation PSA           : 2.0 BlueHDi 180 S&S — DW10FC (DV6 evolution)
+  Cylindree                 : 1 997 cm3 (1,997 litres — ramene a 2,0 L)
+  Alesage x Course          : 85,0 mm x 88,0 mm
+  Puissance maximale        : 181 ch (133 kW) a 3 750 tr/min
+  Couple maximum            : 400 Nm de 2 000 a 2 750 tr/min
+  Puissance specifique      : 90,5 ch/litre (66,5 kW/litre)
+  Regime maximal            : 5 000 tr/min
+  Taux de compression       : 16,0:1
+  Alimentation              : Injection Common Rail haute pression — 4 injecteurs/cylindre
+  Suralimentation           : Turbocompresseur a geometrie variable (VGT)
+                              + echangeur thermique (intercooler)
+  Distribution              : DOHC — 16 soupapes (4 par cylindre)
+  Systeme depollution       : BlueHDi = technologie SCR (Selective Catalytic Reduction)
+                              catalyseur oxydant + filtre a particules FAP +
+                              recirculation des gaz d'echappement EGR
+                              Note : version 2014 sans reservoir AdBlue — systeme
+                              passif integre dans le pot catalytique
+  Stop & Start              : De serie (S&S) — arret moteur en ralenti
+  Norme antipollution       : Euro 6
+  Carburant                 : Diesel (B7 / B10 compatible)
+  Reservoir                 : 53 litres
+  Vidange                   : Toutes les 30 000 km (huile longue duree)
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [4] TRANSMISSION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Type de boite             : Automatique 6 rapports — EAT6 (Efficient Automatic
+                              Transmission 6) — train planetaire pilote
+  Fabricant boite           : Aisin-Warner (Japon) — AW60-6
+  Mode de commande          : Levier E-Shifter au tableau de bord (design signature DS5)
+                              + mode sequentiel (+/- au levier ou palettes au volant)
+  Palettes au volant        : Oui — changement de vitesse Manuel
+  Transmission              : Traction avant (FWD)
+  Modes boite               : Auto / Manuel / Sport
+
+  Note EAT6                 : La boite EAT6 montee sur le BlueHDi 180 est
+                              nettement superieure a l'ancienne BVA4 montee sur
+                              les 2.0 HDi 160. Plus reactive, plus douce et
+                              moins consommatrice — consensus unanime des essais.
+
+  Rapports (indicatifs EAT6 Aisin AW60-6) :
+    1ere   : 3,79
+    2eme   : 2,06
+    3eme   : 1,40
+    4eme   : 1,00
+    5eme   : 0,71
+    6eme   : 0,60
+    Marche arriere : 3,17
+    Ratio pont    : 3,42
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [5] CHASSIS, SUSPENSIONS & FREINS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Plateforme                : PF2 — groupe PSA (Peugeot-Citroen)
+                              Partagee avec Peugeot 308, 408, 508 et Citroen C5
+  Structure                 : Monocoque acier
+  Suspension avant          : Jambes de force MacPherson — ressorts helicoidaux
+                              barre anti-roulis — amortisseurs hydrauliques
+  Suspension arriere        : Multibras — 4 bras independants par roue
+                              barre anti-roulis arriere
+  Note suspension           : Suspension retravaillee lors de l'introduction du
+                              BlueHDi 180 en juillet 2014 (critiques sur fermeté
+                              excessive sur les versions precedentes)
+  Direction                 : Assistee electriquement — a cremaillere
+  Diametre de braquage      : 10,8 m
+  Freins avant              : Disques ventiles — O 330 mm
+  Freins arriere            : Disques pleins — O 268 mm
+  Frein de stationnement    : Manuel (levier conventionnel)
+  ABS                       : De serie — multi-canal avec EBD
+  ESP                       : Electronic Stability Program de serie
+  Antipatinage              : ASR de serie
+  Pneumatiques serie        : 235/45 R18 ou 235/40 R19 (selon finition)
+  Jantes                    : Alliage 18 ou 19 pouces selon finition
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [6] PERFORMANCES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  0 a 100 km/h              : 9,2 secondes (officiel constructeur)
+  0 a 80 km/h               : environ 5,8 secondes
+  0 a 160 km/h              : environ 24,0 secondes
+  Quart de mile (400 m DA)  : environ 16,8 secondes
+  Reprise 80-120 km/h       : environ 7,5 secondes (rapport 4)
+  Reprise 80-120 km/h Sport : environ 6,3 secondes (mode Sport)
+  Vitesse maximale          : 220 km/h (constructeur)
+  Rapport poids/puissance   : 8,5 kg/ch (118 ch/tonne)
+  Rapport couple/poids      : 260 Nm/tonne
+  Note                      : Performances orientees confort et polyvalence.
+                              Excellentes reprises a bas regime grace aux 400 Nm
+                              disponibles des 2 000 tr/min
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [7] CONSOMMATION & EMISSIONS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Consommation urbaine      : 5,5 L/100 km (NEDC)
+  Consommation extra-urb.   : 4,0 L/100 km (NEDC)
+  Consommation mixte NEDC   : 4,5 L/100 km
+  Consommation reelle est.  : 6,0 – 8,0 L/100 km (conduite normale)
+                              6,0 L/100 km autoroute — 6,3 L/100 km route
+                              7,0-7,5 L/100 km montagne — 7,3 L/100 km ville
+                              (sources : avis proprietaires sur Caradisiac)
+  Consommation sportive     : environ 10,0 L/100 km (conduite dynamique)
+  Emissions CO2 (NEDC)      : 118 g/km
+  Norme antipollution       : Euro 6
+  Autonomie theorique       : environ 1 178 km (53 L / 4,5 L mixte NEDC)
+  Autonomie reelle          : environ 700-800 km (53 L / ~7 L reel)
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [8] DIMENSIONS & POIDS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Longueur totale           : 4 530 mm
+  Largeur totale            : 1 871 mm (hors retroviseurs)
+  Hauteur                   : 1 513 – 1 539 mm (sources variables)
+  Empattement               : 2 727 mm
+  Voie avant                : 1 576 mm
+  Voie arriere              : 1 603 mm
+  Poids a vide (DIN)        : 1 540 kg
+  Poids a vide (UE)         : 1 615 kg
+  Poids UE en marche        : 1 775 kg (valeur mesuree la plus elevee)
+  PTAC                      : 2 080 kg
+  Rapport poids/puissance   : 8,5 kg/ch
+  Volume coffre             : 468 litres (banquette en place)
+  Volume coffre max.        : 1 316 litres (banquette rabattue 2/3-1/3)
+  Nombre de places          : 5
+  Reservoir                 : 53 litres
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [9] DESIGN EXTERIEUR — SPECIFICITES DS5
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Style                     : Design Mark Lloyd — directeur du style DS/Citroen
+                              Silhouette berline-coupe haut perchee — 5 portes
+  Specificites visuelles    : Triple toit vitree panoramique a 3 ouvrants
+                              (signature unique et exclusive DS5 dans le segment)
+                              Ailes avant a epaulements musculeux
+                              Lignes de caisse tendues et dynamiques
+  Calandre                  : Calandre DS specifique avec ecussons DS et Citroen
+  Phares avant              : Feux bi-LED — signature lumineuse DS (griffe lumineuse)
+                              avec feux de jour integres
+  Feux arriere              : Feux full-LED — signature lumineuse specifique DS5
+  Retroviseurs              : Electriques, chauffants, rabattables
+  Triple toit               : 3 pavillon vitres avec rideau electrique de serie
+                              (hayon + 2 ouvrants lateraux)
+  Hayon                     : Hayon electrique (selon finition)
+  Jantes                    : Alliage 18 (serie) — 19 pouces (option Sport Chic)
+  Note visibilite           : Piliers de toit larges du fait du triple toit vitree
+                              — reducent la visibilite arriere (point critique)
+  Couleurs 2014             : Blanc Banquise, Noir Perla Nera, Gris Platinum,
+                              Bleu Delft, Rouge Aden, Marron Amadou
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [10] INTERIEUR & FINITIONS DS5
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Tableau de bord           : Cockpit central sans instrumentation frontale
+                              classique — tableau de bord de type "cockpit d'avion"
+                              Instrumentation numerique tachymetre + speedometre
+                              centree en haut du tableau de bord
+  Ecran central             : Systeme Smeg+ — ecran tactile 7 pouces
+  Console centrale          : Console verticale suspendue — commandes multimedia,
+                              climatisation et levier de boite colocalises
+  Commandes plafond         : Panneau de commandes au plafond (style aviation)
+                              pour eclairage, toit panoramique, signature DS
+  Levier boite              : Levier E-Shifter integre en haut de la console —
+                              concept "bague" unique — design tres remarque
+  Sieges avant              : Sièges cuir/simili — reglage electrique (finition Sport Chic)
+                              avec soutien lombaire reglable
+  Sieges arriere            : 3 places — coussin escamotable en option
+                              Habitabilite tete limitee (silhouette coupe)
+  Volant                    : Cuir gainé — 3 branches — commandes integrees
+  Head-Up Display           : Affichage tete haute de serie (selon finition)
+  Retroviseur int.          : Electrochrome (antiéblouissement auto) de serie
+  Eclairage                 : Eclairage d'ambiance LED de serie (plusieurs couleurs)
+  Triple vitrage pavillon   : Rideau electrique integral de serie
+  Coffre                    : 468 litres — banquette rabattable 2/3-1/3
+  Rangements                : Nombreux rangements integres — vide-poches specifiques
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [11] TECHNOLOGIE & CONNECTIVITE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Systeme multimedia        : Smeg+ — ecran tactile 7 pouces
+  Navigation GPS            : GPS integre — cartographie europeenne
+  Radio                     : Radio numerique DAB (selon marche) — CD MP3
+  Bluetooth                 : Telephonie + streaming audio de serie
+  USB / AUX                 : Prises USB + auxiliaire de serie
+  Connectivite              : MirrorLink (selon version) — pas d'Apple CarPlay de serie
+                              Note : Apple CarPlay non dispo sur ce millésime 2014
+                              (arrive plus tard sur les versions 2016-2018)
+  Audio                     : Amplificateur integre — 6 haut-parleurs (serie)
+                              Option JBL Premium (12 haut-parleurs)
+  Head-Up Display           : De serie sur Sport Chic
+  Camera de recul           : De serie sur Sport Chic
+  Capteurs parking          : Avant et arriere de serie (Sport Chic)
+  Affichage tete haute      : Vitesse, navigation, information conducteur
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [12] AIDES A LA CONDUITE & SECURITE ACTIVE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  ABS                       : Multi-canal avec EBD (repartition electronique freinage)
+  ESP                       : Electronic Stability Program de serie
+  Antipatinage              : ASR de serie
+  Airbags frontaux          : Conducteur et passager
+  Airbags lateraux          : Thorax avant
+  Airbags rideaux           : Tete avant et arriere
+  Airbag genoux             : Conducteur
+  Surveillance angles morts : Option — non de serie systematiquement
+  Camera de recul           : De serie sur Sport Chic (option sur So Chic)
+  Capteurs parking          : Avant + arriere de serie (Sport Chic)
+  Regulateur de vitesse     : De serie — limiteur de vitesse inclus
+  Regulateur adaptatif      : Non disponible sur ce millésime 2014
+  Assistance au démarrage   : Hill Start Assist de serie
+  Detection fatigue         : Coffee Break Alert — de serie
+  TPMS                      : Surveillance pression pneus de serie
+  Antidemarrage             : Electronique de serie
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [13] LISTE DES EQUIPEMENTS SELON FINITION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  -- SERIE SUR TOUTES LES FINITIONS 2.0 BlueHDi 180 --
+  • ABS avec EBD
+  • ESP — controle de trajectoire
+  • Antipatinage ASR
+  • Stop & Start (S&S) de serie
+  • Airbags frontaux conducteur + passager
+  • Airbags lateraux thorax
+  • Airbags rideaux tete
+  • Airbag genoux conducteur
+  • Surveillance pression pneus TPMS
+  • Regulateur de vitesse + limiteur
+  • Hill Start Assist (aide au demarrage en cote)
+  • Coffee Break Alert (detection fatigue conducteur)
+  • Systeme multimedia Smeg+ 7 pouces
+  • Navigation GPS integree
+  • Bluetooth telephonie + audio
+  • Prises USB + AUX
+  • Triple toit vitree panoramique avec rideau electrique
+  • Eclairage d'ambiance LED (multiple couleurs)
+  • Commandes plafond (panneau aeronautique)
+  • Levier E-Shifter boite (design unique)
+  • Retroviseur interieur electrochrome
+  • Retroviseurs exterieurs electriques + chauffants
+  • Vitres electriques 4 vitres
+  • Fermeture centralisee avec telecommande
+  • Antidemarrage electronique
+  • Phares bi-LED avec feux de jour
+
+  -- EN PLUS SUR FINITION SO CHIC --
+  • Sieges avant chauffants
+  • Jantes alliage 18 pouces
+  • Siege conducteur electrique + memoire
+  • Camera de recul (selon annee / version)
+  • Capteurs stationnement avant et arriere
+
+  -- EN PLUS SUR FINITION SPORT CHIC (haut de gamme) --
+  • Sieges avant en cuir/simili pleine fleur — chauffants
+  • Soutien lombaire reglable conducteur
+  • Jantes alliage 19 pouces
+  • Head-Up Display (affichage tete haute)
+  • Camera de recul HD de serie
+  • Capteurs avant et arriere de serie
+  • Toit ouvrant panoramique 3 pans
+  • Option audio JBL Premium (12 haut-parleurs)
+  • Option peinture bi-ton (toit noir)
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [14] POINTS DE VIGILANCE & FIABILITE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Points positifs           :
+  • Moteur 2.0 BlueHDi 180 — meilleur moteur de la gamme DS5
+    reconnu fiable par la grande majorite des proprietaires
+  • Boite EAT6 — souple, reactive — tres superieure a l'ancienne BVA4
+  • Design interieur unique — cockpit d'avion sans equivalent dans le segment
+  • Triple toit vitree — sensation de luminosite exceptionnelle
+  • Consommation reelle correcte pour ce niveau de puissance (6-7 L/100 km)
+  • Pieces PSA — prix accessibles (part commune avec 308/508/C5)
+  • Prix acquisition tres attractif (2 100 EUR) pour prestations offertes
+
+  Points de vigilance       :
+  • 126 000 km : kilometrage eleve — verifier historique entretien complet
+    (carnet, factures, vidanges, distribution, FAP)
+  • Distribution : chaine de distribution — verifier bruit au demarrage a froid
+  • FAP : verifier etat du filtre a particules (pas de regime autoroute = FAP colmate)
+  • Turbo : verifier absence de fumee bleue (signe de usure des joints)
+  • Pompe haute pression : signalement de pannes sur certains exemplaires
+  • Trains roulants : verifier triangles, rotules et silent-blocs (a 126 000 km)
+  • Electronic : multiplexage PSA complexe — scanner OBD conseille avant achat
+  • Visibilite arriere limitee (piliers larges + triple toit)
+  • Coffre a seuil haut (449 mm du sol) — acces difficile
+  • Apple CarPlay non dispo sur version 2014 (arrive sur facelift 2016+)
+  • Regulateur adaptatif absent — generation 2014 non equipee
+
+  Historique fiabilite      :
+  POSITIF  : BlueHDi 180 + EAT6 = ensemble reconnu fiable et agreable
+             Nombreux propriétaires depassent 200 000 km sans intervention majeure
+  NEGATIF  : Quelques signalements pompe haute pression (version 2.0 HDi 163 plus touche)
+             Electronique parfois capricieuse sur les hauts kilométrages
+             Boitier BSM (Body Control) a surveiller sur vehicules anciens
+             Couts d'entretien concessionnaire DS eleves — preconiser garage independant
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [15] POSITIONNEMENT & CONCURRENTS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Ce vehicule               : 2 100 EUR — DS5 BlueHDi 181 ch — 2014 — 126 000 km
+  Peugeot 508 I 2.0 HDi 180 : Equivalent mecanique — cote 2025 : 3 000 – 7 000 EUR
+  Citroen C5 2.0 HDi 165    : Meme gamme — cote 2025 : 2 000 – 5 000 EUR
+  BMW Serie 5 F10 520d 2014 : 184 ch — cote 2025 : 7 000 – 14 000 EUR
+  Audi A6 2.0 TDi 177 2014  : 177 ch — cote 2025 : 8 000 – 16 000 EUR
+  Volvo V60 D4 2014         : 181 ch — cote 2025 : 7 000 – 14 000 EUR
+  Mercedes C220 CDI 2014    : 170 ch — cote 2025 : 8 000 – 15 000 EUR
+
+  Atout principal DS5       : Prix d'acquisition imbattable (2 100 EUR) pour
+                              une berline premium 181 ch avec boite automatique
+                              et garantie 24 mois. Design interieur sans equivalent
+                              dans le segment. Triple toit vitree unique.
+                              Moteur BlueHDi 180 repute fiable a long terme.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [16] HISTORIQUE & ADN CITROEN DS5
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  La gamme DS de Citroen est lancee en 2009 avec la DS3 — en hommage a la
+  legendaire DS de 1955, chef-d'oeuvre absolu de Flaminio Bertoni.
+  L'objectif de Citroen : creer un sous-groupe premium capable de concurrencer
+  Audi, BMW et Mercedes sur le marche des berlines de prestige.
+
+  La DS5, presentee au Mondial de Paris 2010 et commercialisee en 2011,
+  est le fleuron de la gamme. Elle a ete la voiture officielle de la
+  presidence francaise (Francois Hollande) et du gouvernement francais.
+  Cette utilisation diplomatique a contribue a sa reputation de prestige
+  et de luxe "a la francaise".
+
+  Le moteur 2.0 BlueHDi 180 arrive en juillet 2014 represente la version
+  definitive et la plus aboutie du groupe motopropulseur diesel de la DS5.
+  La technologie BlueHDi (reduisant drastiquement les NOx et particules)
+  permet au moteur de satisfaire la norme Euro 6 avec une efficience
+  thermique amelioree. C'est unanimement la motorisation la plus recommandee
+  pour acquerer une DS5 en occasion.
+
+  La DS5 a ete produite jusqu'en 2018. DS Automobiles, devenue marque
+  independante en 2015, n'a jamais produit de successeur direct a ce modele
+  — la DS5 reste donc la seule et unique grande berline de la marque DS.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Sources : PSA Group — Auto-Selection.com — ZePerfs.com — Caradisiac.com
+  L'Argus.fr — La Centrale — ABCMoteur.fr — Fiches-auto.fr
+  Specifications officielles DS5 2.0 BlueHDi 180 S&S EAT6 (07/2014 EU).
+================================================================================

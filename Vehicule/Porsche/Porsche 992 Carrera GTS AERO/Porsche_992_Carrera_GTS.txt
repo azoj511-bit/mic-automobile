@@ -1,0 +1,370 @@
+================================================================================
+       FICHE VEHICULE — PORSCHE 911 CARRERA GTS (992)
+       Millesime 2020 · 480 ch · Boite PDK · Propulsion · Essence
+================================================================================
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [1] INFORMATIONS COMMERCIALES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Prix de vente             : 80 000 EUR (marche europeen / occasion certifiee)
+  Localisation              : Allemagne — chez le concessionnaire
+  Kilometrage               : 32 000 km
+  Annee                     : 2020 (mise en circulation)
+  Certification             : Porsche Approved — Vehicule d'occasion certifie
+  Garantie                  : 12 mois chez le concessionnaire
+  Etat                      : Non-fumeur · Tres bon etat general
+  Formalites                : Immatriculation et controle technique pris en charge par le vendeur
+  Prix neuf estime (2021)   : Environ 150 000 – 160 000 EUR (selon options)
+  Cote marche europeen 2025 : 75 000 – 95 000 EUR selon kilometrage et options
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [2] PRESENTATION GENERALE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  La Porsche 911 Carrera GTS de type 992 est l'une des versions les plus
+  equilibrees et les plus desirables de la gamme 911. Positionnee au-dessus
+  de la Carrera S et en dessous de la GT3, elle cumule une puissance portee
+  a 480 chevaux, un chassis sport herite de la 911 Turbo, et un niveau
+  d'equipement de serie particulierement genereux.
+
+  GTS signifie Gran Turismo Sport, une appellation historique qui renvoie
+  a la legendaire 904 Carrera GTS de 1963. Sur la generation 992, la GTS
+  se decline en cinq variantes (coupe, cabriolet, Targa 4 GTS) et se
+  distingue par son esthetique en noir satine caracteristique.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [3] MOTORISATION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Type de moteur            : 6 cylindres a plat (Boxer) biturbo — Flat-6
+  Cylindree                 : 2 981 cm3
+  Alesage x Course          : 91,0 mm x 76,4 mm
+  Puissance maximale        : 480 ch (353 kW) a 6 500 tr/min
+  Couple maximal            : 570 Nm disponible de 2 300 a 5 000 tr/min
+  Puissance specifique      : 161 ch/litre (118 kW/l)
+  Regime maximum            : 7 500 tr/min
+  Taux de compression       : 10,2:1
+  Refroidissement           : Eau — gestion thermique cartographiee avec pompe a eau commutable
+  Distribution              : VarioCam Plus — calage variable admission/echappement
+                              + levee variable admission
+  Depollution               : Filtre a particules essence (GPF) — Norme Euro 6d ISC-FCM
+  Suralimentation           : Deux turbos avec pression renforcee a 1,3 bar (vs 1,1 bar Carrera S)
+  Carburant requis          : Super Plus 98 RON
+  Reservoir                 : 64 litres (option 90 litres)
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [4] TRANSMISSION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Type de boite             : Automatique double embrayage PDK — 8 rapports
+  Designation Porsche       : PDK (Porsche Doppelkupplung) avec volant bimasse
+  Transmission              : Propulsion (Rear-Wheel Drive)
+  Differentiel              : Porsche Torque Vectoring Plus (PTV Plus)
+                              verrouillage electronique diff. arriere a distribution variable
+  Option boite              : Boite manuelle 7 rapports disponible (levier raccourci de 10 mm)
+
+  Rapports de boite PDK :
+    1ere   : 4,89
+    2eme   : 3,17
+    3eme   : 2,15
+    4eme   : 1,56
+    5eme   : 1,18
+    6eme   : 0,94
+    7eme   : 0,76
+    8eme   : 0,61
+    Marche arriere : 3,99
+    Ratio pont arriere : 3,12
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [5] CHASSIS & SUSPENSIONS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Suspensions               : PASM sport abaisse de 10 mm (vs Carrera S) — derive 911 Turbo
+  Train avant               : Jambes de force MacPherson (design Porsche)
+                              avec triangles et bras longitudinaux
+  Train arriere             : Multi-bras leger 5 bras a roues independantes
+  Direction                 : Assistee electromecanique a rapport variable
+                              avec generateur d'impulsion de direction
+  Rapport direction         : 15,0:1 (tout droit) — 14,1:1 avec direction arriere optionnelle
+  Diametre volant           : 360 mm
+  Diametre braquage         : 11,2 m — 10,9 m avec direction arriere
+  Stabilite                 : PSM (Porsche Stability Management) + ABS etendu
+
+  Freins avant              : Etriers monobloc aluminium 6 pistons
+                              Disques composite fonte O 408 mm x 36 mm ventiles et perces
+  Freins arriere            : Etriers monobloc aluminium 4 pistons
+                              Disques composite fonte O 380 mm x 30 mm ventiles et perces
+  Frein a main              : Frein de stationnement electrique duo-servo
+  Option freinage           : Porsche Ceramic Composite Brake (PCCB) disponible
+
+  Pneus avant               : 245/35 ZR20 — Jantes 8,5 J x 20 ET 50
+  Pneus arriere             : 305/30 ZR21 — Jantes 11,5 J x 21 ET 67
+  Jantes                    : Alliage a verrouillage central peintes en noir (signature GTS)
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [6] PERFORMANCES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Vitesse maximale          : 311 km/h
+  0 a 100 km/h              : 3,4 secondes (PDK) — 3,6 s (boite manuelle)
+  0 a 60 mph (96 km/h)      : 3,2 secondes
+  0 a 160 km/h              : 7,6 secondes
+  0 a 200 km/h              : 11,6 secondes (0,5 s de mieux que la Carrera S)
+  400 m DA (quart de mile)  : Environ 11,2 secondes
+  Reprise 80-120 km/h       : Environ 2,8 secondes
+  Coefficient cx            : 0,31
+  Surface frontale (A)      : 2,07 m2
+  cx x A                    : 0,642 m2
+  Note                      : Avec Pack Sport Chrono : gain de 0,2 s au 0-100 km/h
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [7] CONSOMMATION & EMISSIONS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Norme d'homologation      : Euro 6d ISC-FCM (EU6 AP)
+  Consommation urbaine      : 13,4 L/100 km (NEDC)
+  Consommation extra-urb.   : 7,5 L/100 km (NEDC)
+  Consommation mixte NEDC   : 9,7 L/100 km
+  Consommation mixte WLTP   : 10,7 – 11,4 L/100 km
+  Emissions CO2 (NEDC)      : 221 g/km
+  Emissions CO2 (WLTP)      : 244 – 258 g/km
+  Classe d'efficacite (DE)  : G
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [8] DIMENSIONS & POIDS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Longueur totale           : 4 533 mm
+  Largeur (hors retro)      : 1 852 mm
+  Largeur (avec retro)      : 2 024 mm
+  Hauteur                   : 1 301 mm
+  Empattement               : 2 450 mm
+  Voie avant                : 1 595 mm
+  Voie arriere              : 1 557 mm
+  Volume coffre avant       : 132 litres
+  Poids a vide (DIN)        : 1 545 kg
+  Poids a vide (EU)         : 1 636 kg (avec options standards)
+  PTAC                      : 1 985 kg
+  Charge utile toit         : 75 kg (avec systeme de transport Porsche)
+  Places                    : 2+2 (2 sieges arriere appoint)
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [9] DESIGN EXTERIEUR & CARROSSERIE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Carrosserie               : Coupe 2 portes — structure acier et aluminium
+  Signature GTS             : Traitement noir satine sur levre de spoiler, lamelles capot,
+                              inscriptions GTS, cerclages phares
+  Phares                    : LED PDLS Plus (Porsche Dynamic Light System Plus) de serie
+  Feux arriere              : LED full-width signature 911
+  Spoiler arriere           : Actif a deploiement automatique
+  Kit aero (AERO)           : Spoiler avant profile specifique — inclus sur ce vehicule
+  Retroviseurs              : Electriques, degivrants, rabattables
+  Vitres                    : Teintees (Tinted windows)
+  Toit                      : Toit panoramique / ouvrant electrique
+  Couleur                   : A confirmer avec le vendeur
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [10] INTERIEUR & FINITIONS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Tableau de bord           : Combine 100% numerique 7 pouces centre
+                              + ecran central tactile PCM 10,9 pouces
+  Sieges                    : Sport a reglage electrique — sellerie cuir
+  Sellerie                  : Cuir — interieur non-fumeur
+  Volant                    : Sport multifonction en cuir
+  Volant chauffant          : Oui
+  Sieges chauffants         : Oui — avant
+  Accoudoir                 : Central
+  Eclairage ambiance        : LED interieur
+  Fermeture                 : Centralisee sans cle (KESSY)
+  Vitres                    : Electriques (4 vitres)
+  Isofix                    : Points d'ancrage presents (banquette arriere)
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [11] SYSTEMES EMBARQUES & CONNECTIVITE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Systeme info-loisirs      : Porsche Communication Management (PCM) 10,9 pouces
+  Navigation GPS            : Integre avec mises a jour
+  Radio                     : DAB (Digital Audio Broadcasting)
+  Sonorisation              : Systeme BOSE Premium Sound System
+  Telephonie                : Kit mains libres — Bluetooth
+  Apple CarPlay             : Integre
+  Port USB                  : Oui
+  Ordinateur de bord        : Multifonctions
+  Camera de recul           : Oui (KAMERA)
+  Capteurs stationnement    : Radar avant/arriere
+  Reconnaissance panneaux   : Systeme de reconnaissance des panneaux de signalisation
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [12] AIDES A LA CONDUITE & SECURITE ACTIVE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  ABS                       : Porsche ABS avec fonctions etendues
+  Controle trajectoire      : ESP (Electronic Stability Program)
+  Antipatinage              : ASR (Traction Control)
+  Antidemarrage             : Electronique
+  Freinage urgence          : Emergency Brake Assist
+  Feux intelligents         : Assistant feux de route — anti-eblouissement actif
+  Eclairage virage          : Adaptatif (feux directionnels)
+  Distance                  : Systeme d'avertissement de distance
+  Panneaux                  : Reconnaissance des panneaux de vitesse
+  Pression pneus            : TPMS — controle automatique en temps reel
+  Capteurs pluie/lumiere    : Oui — allumage auto des essuie-glaces et phares
+  Alarme                    : Volumetrique
+  Stop & Start              : Oui
+  Wet Mode                  : Adaptation automatique aux conditions pluvieuses
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [13] SYSTEMES DYNAMIQUES PORSCHE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  PASM                      : Porsche Active Suspension Management — amortissement actif variable
+  PSM                       : Porsche Stability Management
+  PTV Plus                  : Vectorisation couple + differentiel arriere electronique
+  PDK                       : Porsche Doppelkupplung 8 rapports
+  Dynamic Chassis Control   : DCC actif
+  Sport Chrono (opt.)       : Mode Sport Plus + chronometre tableau de bord
+  Sport Exhaust             : Echappement sport de serie sur GTS
+  Track Precision App       : Application analyse donnees circuit — de serie
+  Temperature pneus         : Affichage de serie
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [14] LISTE COMPLETE DES EQUIPEMENTS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  -- SECURITE & ASSISTANCE --
+  • ABS avec fonctions etendues (freinage d'urgence optimise)
+  • ESP — controle dynamique de trajectoire
+  • Systeme antipatinage (ASR / Traction Control)
+  • Antidemarrage electronique
+  • Airbags frontaux conducteur et passager
+  • Airbags lateraux (thorax/bassin)
+  • Airbags rideaux (tete)
+  • Assistance au freinage d'urgence (EBA)
+  • Assistant feux de route (activation automatique)
+  • Eclairage route non eblouissant (phares adaptatifs)
+  • Eclairage adaptatif de virage (feux directionnels)
+  • Systeme d'avertissement de distance
+  • Reconnaissance des panneaux de signalisation
+  • Controle automatique de la pression des pneus (TPMS)
+  • Systeme d'alarme volumetrique
+  • Systeme Stop & Start
+  • Isofix — points d'ancrage sieges enfants
+  • Wet Mode — adaptation automatique conditions pluvieuses
+
+  -- CONFORT & COMMODITES --
+  • Climatisation automatique bi-zone
+  • Sieges avant sport a reglage electrique
+  • Sieges chauffants avant
+  • Volant chauffant
+  • Fermeture centralisee sans cle (KESSY)
+  • Verrouillage centralise sans cle
+  • Vitres electriques 4 vitres
+  • Retrovoiseur interieur electrochrome
+  • Retroviseurs exterieurs electriques (reglage + degivrage)
+  • Accoudoir central
+  • Eclairage d'ambiance interieur
+  • Toit panoramique / Toit ouvrant electrique
+  • Direction assistee electromecanique a rapport variable
+  • Suspension sport PASM reglable (Normal / Sport / Sport+)
+  • Dynamic Chassis Control
+  • Capteur de pluie (essuie-glaces automatiques)
+  • Capteur de lumiere (allumage phares automatique)
+  • Carnet d'entretien complet
+  • Garantie : 12 mois concessionnaire
+  • Pneus ete montes (245/35 R20 av. — 305/30 R21 ar.)
+  • Jantes alliage GTS a verrouillage central
+
+  -- TECHNOLOGIE & CONNECTIVITE --
+  • Ecran tactile PCM 10,9 pouces
+  • Navigation GPS integree
+  • Radio DAB
+  • Systeme BOSE Premium
+  • Apple CarPlay
+  • Bluetooth
+  • Kit mains libres integre
+  • Port USB
+  • Ordinateur de bord multifonctions
+  • Camera de recul avec directives dynamiques
+  • Boite PDK 8 rapports
+  • Affichage temperature des pneumatiques
+  • Application Porsche Track Precision
+  • Pack Sport (modes de conduite)
+  • Phares LED PDLS Plus
+  • Feux de position LED
+  • Vitres teintees
+  • Systeme Rear Wheel Drive (propulsion)
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [15] OPTIONS NOTABLES SUR CE VEHICULE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Kit Aero (AERO)           : Pack aerodynamique — spoiler avant profile specifique GTS
+  BOSE Sound System         : Sonorisation premium montee
+  Toit Panoramique (PANO)   : Toit vitre panoramique electrique
+  Porsche Approved          : Certification d'occasion officielle Porsche
+  Camera (KAMERA)           : Camera de recul haute definition
+  Direction arriere (opt.)  : Disponible en option — maniabilite et stabilite ameliorees
+  Pack Sport Chrono (opt.)  : Chronometre + mode Sport Plus
+  Freins ceramique PCCB     : Porsche Ceramic Composite Brake — option disponible
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [16] POSITIONNEMENT & CONCURRENTS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Carrera S (dessous)       : 450 ch — environ 130 000 EUR neuf
+  Carrera GTS (ce vehicule) : 480 ch — environ 150 000 EUR neuf
+  Turbo / GT3 (dessus)      : 580 ch / 510 ch atmospherique
+
+  Ferrari Roma              : 620 ch — environ 240 000 EUR neuf
+  Aston Martin Vantage      : 510 ch — environ 145 000 EUR neuf
+  BMW M8 Competition Coupe  : 625 ch — environ 170 000 EUR neuf
+  Lamborghini Huracan EVO   : 640 ch — environ 230 000 EUR neuf
+  McLaren 720S               : 720 ch — environ 260 000 EUR neuf
+
+  Atout principal           : Meilleur rapport performances / polyvalence / fiabilite
+                              de la gamme 911 — rapport qualite/prix imbattable
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [17] HISTORIQUE & CONTEXTE GTS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  L'appellation GTS (Gran Turismo Sport) chez Porsche est nee en 1963 avec
+  la legendaire 904 Carrera GTS, premiere Porsche a remporter la Targa Florio.
+  Apres avoir figure sur les 928, Cayenne et Panamera, le sigle revient sur
+  la 911 avec la generation 997.2 (2011) avant de connaitre un immense succes
+  sur les generations suivantes.
+
+  Sur la 992, la GTS a ete presentee en 2021 en 5 variantes simultanement.
+  Elle s'est imposee comme le point ideal de la gamme : plus engageante que
+  la Carrera S, moins extreme que la GT3, mais bien mieux equipee de serie.
+  Le moteur developpe 30 ch de plus que la Carrera S grace a une pression
+  de turbo rehaussee (1,3 bar) et a des echangeurs renforces.
+  L'echappement sport est de serie.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Sources : Porsche AG Newsroom — Technical Data 911 Carrera GTS MY 09/2021
+  (EU/DE model) · Flat6mag · Motorlegend · Auto-Data · UltimateSpecs
+  Donnees a titre indicatif selon conditions d'homologation constructeur.
+================================================================================

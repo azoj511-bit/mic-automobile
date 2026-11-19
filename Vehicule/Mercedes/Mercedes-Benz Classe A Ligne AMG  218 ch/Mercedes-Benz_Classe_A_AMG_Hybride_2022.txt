@@ -1,0 +1,138 @@
+================================================================================
+                    FICHE TECHNIQUE COMPLETE
+                    MERCEDES-BENZ CLASSE A LIGNE AMG
+                    (HYBRIDE RECHARGEABLE)
+================================================================================
+
+PRIX DE VENTE : 3.500 Euros
+GARANTIE : 24 MOIS (constructeur 2-5 ans)
+ORIGINE : Importation Allemande
+
+================================================================================
+                    IDENTIFICATION DU VEHICULE
+================================================================================
+
+Marque                  : Mercedes-Benz
+Modele                  : Classe A Ligne AMG (A 250 e probable)
+Generation              : W177
+Annee                   : 2022
+Kilometrage             : 65.628 km
+Carburant               : Electricite + Essence (Hybride rechargeable)
+Boite de vitesses       : Automatique (8G-DCT)
+Puissance               : 218 CH (systeme combine)
+
+================================================================================
+                    MOTORISATION
+================================================================================
+
+MOTEUR THERMIQUE :
+Code moteur             : M 282 (1.33L turbo)
+Type                    : 4 cylindres en ligne turbocompresse
+Cylindree               : 1.332 cm3 (1.33L)
+Puissance thermique     : 160 ch
+Couple thermique        : 250 Nm
+
+MOTEUR ELECTRIQUE :
+Type                    : Moteur electrique synchrone a aimants permanents
+Puissance electrique    : 102 ch (75 kW)
+Couple electrique       : 300 Nm
+
+SYSTEME COMBINE :
+Puissance systeme       : 218 ch (160 kW)
+Couple systeme          : 450 Nm
+
+BATTERIE :
+Capacite                : 15,6 kWh
+Autonomie electrique    : 60-73 km (WLTP)
+Temps de charge (7,4kW) : ~1h45
+Temps de charge (2,3kW) : ~5h30
+
+Norme antipollution     : Euro 6d
+
+================================================================================
+                    TRANSMISSION
+================================================================================
+
+Boite de vitesses       : 8G-DCT (double embrayage 8 rapports)
+Transmission            : Traction avant (FWD)
+
+================================================================================
+                    PERFORMANCES
+================================================================================
+
+Vitesse max             : 235 km/h
+0-100 km/h              : 6,6 secondes
+Vitesse max electrique  : 140 km/h
+Consommation mixte WLTP : 1,4-1,6 L/100km (cycle PHEV)
+Consommation thermique  : ~6,5-7,0 L/100km (batterie vide)
+Emission CO2            : 32-36 g/km (WLTP)
+Capacite reservoir      : 35 litres
+
+================================================================================
+                    DIMENSIONS ET POIDS
+================================================================================
+
+Longueur                : 4.419 mm
+Largeur                 : 1.796 mm
+Hauteur                 : 1.440 mm
+Empattement             : 2.729 mm
+Coffre                  : 310 litres (reduit vs thermique)
+Poids a vide            : 1.605-1.660 kg
+PTAC                    : 2.100 kg
+
+================================================================================
+                    EQUIPEMENTS LIGNE AMG
+================================================================================
+
+EXTERIEUR :
+- Kit carrosserie AMG Line (boucliers sport, calandre etoilee)
+- Jantes AMG alliage 18" ou 19"
+- Diffuseur arriere sport
+- Double sortie d'echappement chromee
+- Phares LED High Performance
+
+INTERIEUR :
+- MBUX avec double ecran 10,25"
+- Ecran tactile + volant tactile
+- Volant sport AMG cuir/Alcantara
+- Sieges sport AMG
+- Eclairage d'ambiance 64 couleurs
+- Apple CarPlay / Android Auto sans fil
+- Navigation avec realite augmentee
+- Climatisation automatique bi-zone THERMATIC
+- Hey Mercedes (assistant vocal)
+- Chargement sans fil
+- Instrumentation digitale
+
+SECURITE :
+- Active Brake Assist
+- Attention Assist
+- Lane Keeping Assist
+- Active Lane Change Assist (option)
+- Camera de recul
+- Capteurs de stationnement
+
+================================================================================
+                    ANALYSE DU MARCHE EUROPEEN
+================================================================================
+
+Prix du marche europeen (Classe A 250e AMG Line 2022, ~65.000 km) :
+- Fourchette constatee     : 28.000 - 34.000 EUR
+- Prix moyen               : ~30.500 EUR
+
+Le prix propose de 3.500 EUR est extremement inferieur
+au marche europeen.
+
+================================================================================
+                    CONDITIONS DE VENTE
+================================================================================
+
+- Garantie : 24 mois (constructeur 2-5 ans)
+- Livraison a domicile sous 5 jours
+- Retour sans frais sous 21 jours
+- Paiement echelonnable sur 5 ans (apport initial obligatoire)
+- Tous documents en regle fournis
+- Reduction de 15% pour achat comptant
+- Livraison partout en Europe et DOM-TOM
+
+================================================================================

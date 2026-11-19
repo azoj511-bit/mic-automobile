@@ -1,0 +1,517 @@
+================================================================================
+        FICHE VEHICULE — LAMBORGHINI URUS S
+        Super Sport Utility Vehicle · 666 ch · V8 Biturbo · AWD · 2025
+================================================================================
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [1] INFORMATIONS COMMERCIALES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Prix de vente             : 230 000 EUR
+  Annee                     : 2025
+  Modele exact              : Lamborghini Urus S (2025)
+  Carburant                 : Essence — V8 Biturbo
+  Boite de vitesses         : Automatique 8 rapports (ZF 8HP)
+  Transmission              : AWD — 4 roues motrices permanentes
+
+  NOTE PUISSANCE :
+    L'annonce indique "660 ch" — la puissance officielle Lamborghini est :
+    666 ch (490 kW) pour l'Urus S
+    "660 ch" est un arrondi commercial couramment utilise — il s'agit bien
+    de l'Urus S dont la puissance officielle de serie est 666 ch.
+
+  Prix neuf Urus S (2025)   : 218 000 EUR (tarif de base hors options)
+                              Avec options : facilement 250 000 – 350 000 EUR
+  Malus ecologique (France) : 50 000 EUR (vehicule > 290 g CO2/km)
+  Prix neuf tout compris Fr : environ 268 000 EUR minimum (base + malus)
+  Note prix annonce         : 230 000 EUR est dans la fourchette attendue
+                              pour un Urus S 2025 bien equipe
+  Cote marche europeen 2025 : 210 000 – 280 000 EUR (neuf / quelques km)
+
+  GAMME URUS 2025 :
+    Urus S         : 666 ch V8 biturbo atmospherique — 218 000 EUR de base
+    Urus Performante: 666 ch — version sport (-47 kg carbone) — 251 000 EUR
+    Urus SE        : 789 ch V8 + moteur electrique PHEV — 285 000 EUR
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [2] PRESENTATION GENERALE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  L'Urus S est la version de reference de la famille Urus 2025 — le Super SUV
+  (SSUV) de Lamborghini. Ne en 2018, l'Urus est devenu le vehicule le plus
+  vendu de la marque au Taureau, representant aujourd'hui plus de 54% des
+  ventes mondiales de Lamborghini. Avec 20 000 exemplaires produits en moins
+  de 7 ans, il est le SUV de supercar le plus populaire au monde.
+
+  L'Urus S (2022-actuel) est l'evolution directe de l'Urus original.
+  Il apporte +17 ch supplementaires (666 vs 649 ch), une pedalier d'accelerateur
+  plus reactif, de nouveaux boucliers, un capot en fibre de carbone peinte,
+  des passages de roues revises et des pneumatiques Pirelli P Zero Sport
+  specifiques pour une meilleure adherence. Sa suspension pneumatique adaptative
+  le rend aussi bien a l'aise en mode grand tourisme qu'en conduite sportive
+  sur circuit.
+
+  Construit sur la plateforme MLB Evo du groupe Volkswagen (partagee avec
+  l'Audi Q8, le Bentley Bentayga et le Porsche Cayenne), l'Urus beneficie
+  d'une base technique ultra-eprouvee tout en affichant une personnalite
+  radicalement italienne. Lamborghini y integre son savoir-faire en
+  aerodynamique, en dynamique de chassis et en personnalisation Ad Personam
+  qui lui est propre.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [3] MOTORISATION — V8 4.0L BITURBO
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Type de moteur            : V8 a 90° — Essence biturbo
+  Designation               : 4.0 V8 Biturbo — EA825 (derive groupe VW/Audi)
+  Cylindree                 : 3 996 cm3 (3,996 litres — ramene a 4,0 L)
+  Alesage x Course          : 86,0 mm x 86,0 mm (carre — alesage = course)
+  Nombre de soupapes        : 32 (4 par cylindre)
+  Puissance maximale        : 666 ch (490 kW) a 6 000 tr/min  (note annonce : 660 ch)
+  Couple maximum            : 850 Nm de 2 300 a 4 500 tr/min
+  Puissance specifique      : 166,5 ch/litre
+  Regime maximal            : 6 500 tr/min
+  Taux de compression       : 9,5:1 (bas — moteur suralimente)
+  Suralimentation           : 2 turbocompresseurs en configuration biturbo
+                              avec echangeurs thermiques eau-eau
+  Injection                 : Directe haute pression (FSI) + indirecte (MPI)
+                              double injection combinee
+  Distribution              : DOHC — 32 soupapes — calage variable (AVCS)
+  Refroidissement           : Eau — gestion thermique avancee
+  Systeme depollution       : Catalyseur + filtre a particules essence (GPF)
+  Norme antipollution       : Euro 6d
+  Stop & Start              : De serie
+  Carburant                 : Super Plus 98 RON minimum
+  Reservoir                 : 85 litres
+  Huile moteur              : Lamborghini Approved (VW 502.00/505.01)
+  Vidange                   : Tous les 15 000 km chez Lamborghini
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [4] TRANSMISSION & SYSTEME AWD
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Boite de vitesses         : Automatique 8 rapports — ZF 8HP (train planetaire)
+  Palettes au volant        : Aluminium — de serie
+  Transmission              : AWD integrale permanente
+  Repartition couple        : Bias arriere 40/60 (40% avant / 60% arriere)
+                              en usage normal — comportement proche propulsion
+  Torque Vectoring          : Actif a l'arriere — repartition variable
+                              entre roue gauche et droite (via differentiel actif)
+                              Ameliore la rotation en virage et la stabilite
+  Differentiel arriere      : TVA — Torque Vectoring Arriere actif
+                              electronique et hydraulique — full variable
+  Modes conduite            : Selecteur ANIMA (6 modes)
+
+  Rapports (ZF 8HP indicatifs) :
+    1ere          : 4,71
+    2eme          : 3,14
+    3eme          : 2,10
+    4eme          : 1,67
+    5eme          : 1,29
+    6eme          : 1,00
+    7eme          : 0,84
+    8eme          : 0,67
+    Marche arriere : 3,32
+    Ratio pont    : 3,70
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [5] CHASSIS, SUSPENSIONS & FREINS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Plateforme                : MLB Evo (Modularer Langsbaukasten Evolution)
+                              Groupe Volkswagen — partagee avec Audi Q8,
+                              Bentley Bentayga, Porsche Cayenne
+  Structure                 : Monocoque aluminium et acier haute resistance
+  Suspension avant          : Double triangulation aluminium
+                              + amortisseurs pneumatiques adaptatifs
+  Suspension arriere        : Multibras — 5 bras aluminium
+                              + amortisseurs pneumatiques adaptatifs
+  Suspension pneumatique    : Adaptative a hauteur variable — standard Urus S
+                              5 positions : Standard / Haut / Sport (bas) /
+                              Off-Road (max haut) / Performance (tres bas)
+                              Baisse automatiquement a haute vitesse (cx optimise)
+  Stabilisation de roulis   : PCCB actif — systeme anti-roulis a reponse continue
+                              (Predictive Active Roll Stabilization — PDRS)
+                              Annule le roulis dans les virages pour comportement sportif
+  Direction                 : Electronique a 4 roues directrices (4WS)
+                              Roues arriere braquent en opposition (agilite en ville)
+                              Roues arriere braquent en meme sens (stabilite autoroute)
+  Diametre de braquage      : 11,8 m (tres compact pour 5,1 m de long)
+  Garde au sol              : 240 mm (standard) — jusqu'a 265 mm (mode Off-Road)
+
+  FREINS CARBONE-CERAMIQUE DE SERIE (Urus S) :
+  Freins avant              : Disques carbone-ceramique (PCCB)
+                              Diametre : 440 mm — Etriers : 10 pistons
+  Freins arriere            : Disques carbone-ceramique (PCCB)
+                              Diametre : 370 mm — Etriers : 6 pistons
+  Matiere disques           : Carbone-ceramique — -50% de poids vs fonte
+                              Resistance a la temperature : jusqu'a 1 400°C
+                              Duree de vie : 3x superieure aux disques acier
+                              Note : couleur caracteristique jaune Lamborghini
+  ABS                       : Haute performance — multi-canal
+  ESP                       : ESC — Electronic Stability Control
+
+  Pneumatiques              : 285/45 ZR 21 (avant) — 315/40 ZR 21 (arriere)
+  Option jantes 23"         : 285/40 ZR 23 (av) — 315/35 ZR 23 (ar) — +4 200 EUR
+  Marque pneus              : Pirelli P Zero Sport — homologation Lamborghini
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [6] PERFORMANCES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  0 a 100 km/h              : 3,5 secondes (officiel Lamborghini)
+  0 a 60 mph (96 km/h)      : 3,5 secondes
+  0 a 200 km/h              : 12,1 secondes
+  Vitesse maximale          : 305 km/h
+  Freinage 100-0 km/h       : environ 31 metres (PCCB carbone-ceramique)
+  Rapport poids/puissance   : 3,41 kg/ch (293 ch/tonne)
+  Rapport couple/poids      : 374 Nm/tonne
+  Note comportement         : Malgre 2 272 kg, comportement proche d'une supercar
+                              Torque Vectoring actif arriere = precision chirurgicale en virage
+                              Freins PCCB 440 mm = puissance de freinage supercar
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [7] CONSOMMATION & EMISSIONS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Consommation mixte WLTP   : 11,2 – 12,5 L/100 km
+  Consommation urbaine      : 14,0 – 16,0 L/100 km (usage reel)
+  Consommation autoroute    : 10,0 – 12,0 L/100 km (stabilise)
+  Consommation sportive     : 20,0 – 25,0 L/100 km (conduite a fond)
+  Emissions CO2 (WLTP)      : 255 – 291 g/km
+  Norme antipollution       : Euro 6d
+  Malus ecologique France   : 50 000 EUR (CO2 > 290 g/km)
+  Autonomie theorique       : environ 680 – 760 km (85 L / mixte WLTP)
+  Reservoir                 : 85 litres
+  Carburant                 : Super Plus 98 RON minimum obligatoire
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [8] DIMENSIONS & POIDS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Longueur totale           : 5 112 mm
+  Largeur (hors retroviseurs): 2 018 mm
+  Largeur (avec retroviseurs): 2 181 mm
+  Hauteur                   : 1 638 mm (variable selon suspension pneumatique)
+  Empattement               : 3 003 mm
+  Voie avant                : 1 695 mm
+  Voie arriere              : 1 710 mm
+  Garde au sol              : 240 mm (standard) — 265 mm (mode Off-Road max)
+  Diametre de braquage      : 11,8 m (4 roues directrices)
+  Poids a vide              : 2 272 kg
+  PTAC                      : 2 956 kg
+  Charge utile              : 684 kg
+  Remorquage freine         : 3 500 kg
+  Volume coffre             : 616 litres (5 passagers)
+  Volume coffre max.        : 1 596 litres (sieges arriere rabattus)
+  Nombre de places          : 5 (option 4 places VIP — fauteuils individuels arriere)
+  Reservoir                 : 85 litres
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [9] DESIGN EXTERIEUR — URUS S
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Style                     : Mitja Borkert (responsable design Lamborghini)
+                              Lignes angulaires et musclees — ADN supercar
+                              Flancs sculptes a nervures tendues
+                              Proportions imposantes et agressives
+  Nouveautes Urus S vs Urus : Nouveau bouclier avant plus agressif
+                              Capot en fibre de carbone peinte de serie
+                              Nouveaux passages de roues
+                              Nouvelles jantes specifiques (21 pouces de serie)
+                              Diffuseur arriere retravaille
+                              Logos "URUS S" specifiques
+  Phares avant              : LED matriciels adaptatifs (PDLS+)
+                              — 6 projecteurs independants par cote
+  Feux arriere              : LED — signature lumineuse hexagonale Lamborghini
+  Echappements              : 4 sorties rectangulaires integrees au diffuseur
+                              (Titanium en option sur Performante)
+  Prises d'air              : Fonctionnelles — refroidissement moteur et freins
+  Capot                     : Fibre de carbone peinte — de serie Urus S
+  Programme Ad Personam     : Personnalisation quasi infinie :
+                              100+ teintes exterieures disponibles
+                              16 teintes de jantes
+                              5 teintes d'etriers (rouge de serie)
+                              Peinture mate, satin, nacree
+                              Livraisonhervee par un artisan a Sant'Agata Bolognese
+  Couleurs signature Lamborghini :
+                              Giallo Orion (jaune), Verde Mantis (vert),
+                              Arancio Borealis (orange), Blu Astraeus (bleu),
+                              Nero Noctis (noir), Bianco Monocerus (blanc),
+                              Verde Scandal (vert electrique)...
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [10] INTERIEUR & LUXE LAMBORGHINI
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Architecture habitacle    : Cockpit oriente conducteur — console centrale haute
+                              creant une separation visuelle conducteur/passager
+                              Design inspire des cockpits de supercar Lamborghini
+  Ecrans                    : 3 ecrans de serie :
+                              Instrumentation numerique 12,3 pouces
+                              + Ecran tactile central LIS 10,1 pouces (multimedia)
+                              + Ecran tactile de confort 8,4 pouces (climatisation/options)
+  Confort avant             : Sieges sport a reglage electrique complet
+                              Chauffage + ventilation + massage de serie
+  Cuir                      : Sellerie cuir Nero Ade (ou au choix Ad Personam)
+                              Extension cuir sur tableau de bord, portes, plafond
+  Finitions                 : Carbone de serie sur la console centrale et garnitures
+                              Aluminium brosse et decoratifs specifiques Urus S
+  Volant                    : 3 branches aluminium — commandes integrees
+                              Selecteur ANIMA sur branche gauche
+  Console centrale          : Sureleve — format coupure visuelle "super sport"
+                              Sélecteur ANIMA + frein parking + commandes modes
+  Sieges arriere            : 3 places (ou 2 places VIP en option)
+                              Chauffage arriere en option
+  Toit                      : Toit panoramique ouvrant en option (+3 500 EUR)
+  Plafond                   : Alcantara ou cuir — au choix Ad Personam
+  Programme Ad Personam     : Interieur bicolore, capitonnage diamant, broderies,
+                              tapis sur mesure, ceintures colorees
+                              chaque exemplaire est unique — fabrique a la main
+  Coffre                    : 616 litres — trappe de coffre motorisee
+                              banquette 40/20/40 — 1 596 L max
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [11] SELECTEUR ANIMA — 6 MODES DE CONDUITE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  ANIMA = Adaptive Network Intelligent Management
+
+  Mode STRADA               : Route — usage quotidien confort
+                              Suspension souple — moteur doux — boite progressives
+  Mode SPORT                : Route sportive — suspension ferme — boite reactive
+                              Reponse accelerateur directe — son plus present
+  Mode CORSA                : Mode piste — suspension maximale — ESC assoupli
+                              Passages de rapports ultra-rapides — full attack
+  Mode NEVE                 : Neige/verglas — demarrage doux en 2eme rapport
+                              AWD privilegié a l'avant — ESC renforcé — suspension haute
+  Mode TERRA                : Tout-terrain — suspension pneumatique haute (265 mm)
+                              AWD full — reponse moteur douce et progressive
+                              Franchissement de terrain meuble optimise
+  Mode SABBIA               : Sable — mode desert/dune
+                              Distribution couple specifique — anti-ensablement
+                              Passages automatiques rapides pour ne pas s'embourber
+
+  Note ANIMA                : Chaque mode adapte SIMULTANEMENT :
+                              Cartographie moteur + reponse PDK + gestion AWD
+                              + hauteur suspension + fermeté amortisseurs
+                              + assistance direction + seuils ESC/ESP
+                              + sonoritee echappement
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [12] TECHNOLOGIE & CONNECTIVITE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  LIS                       : Lamborghini Infotainment System — 10,1 pouces
+  Instrumentation           : Numerique 12,3 pouces — affichages specifiques Lamborghini
+  Ecran confort             : 8,4 pouces — climatisation + options passager
+  Navigation GPS            : Integree avec mises a jour en ligne
+  Apple CarPlay             : De serie — sans fil
+  Android Auto              : De serie
+  Bluetooth                 : Multipoint
+  USB-C                     : Avant + arriere
+  Audio                     : Bang & Olufsen 3D Premium de serie
+                              (17 haut-parleurs — 1 700 W)
+  Commande vocale           : Reconnaissance vocale langue naturelle
+  Wi-Fi                     : Hotspot integre
+  Application               : Lamborghini Unica — suivi vehicule a distance
+                              (localisation, statut charge, deverrouillage)
+  Camera 360°               : Systeme de vision peripherique — de serie
+  Vision nocturne           : Systeme de vision nocturne — option
+  Head-Up Display           : Option disponible
+  OTA                       : Mises a jour logicielles a distance
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [13] AIDES A LA CONDUITE & SECURITE ACTIVE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  ABS                       : Haute performance avec EBD
+  ESC                       : Electronic Stability Control + Torque Vectoring
+  Antipatinage              : Multi-mode — adapte selon ANIMA
+  ACC                       : Regulateur de vitesse adaptatif radar avec Stop & Go
+  Lane Keeping              : Assistant de maintien de voie actif
+  Angle mort                : Surveillance des angles morts (BSM)
+  Urgence freinage          : Freinage autonome d'urgence — detection pietons
+  Cameras 360°              : Vue peripherique complete de serie
+  Capteurs parking          : Avant + arriere ultrasoniques
+  TPMS                      : Surveillance pression pneus temps reel
+  Eclairage adaptatif       : PDLS+ — phares LED matriciels adaptatifs
+                              Detection humidite — feux anti-eblouissement
+  Airbags                   : Frontaux + lateraux + rideaux + genoux
+  Systeme anti-roulis       : PDRS — systeme actif predictif
+  Depart cote               : Hill Start Assist
+  Descente pente            : Hill Descent Control (modes Terra/Neve)
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [14] LISTE COMPLETE DES EQUIPEMENTS DE SERIE URUS S
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  -- MOTORISATION & TRANSMISSION --
+  • V8 4.0L Biturbo 666 ch / 850 Nm
+  • Boite automatique ZF 8HP 8 rapports
+  • AWD integrale permanente avec bias 40/60
+  • Torque Vectoring actif arriere (TVA)
+  • Selecteur ANIMA — 6 modes de conduite
+  • Freins PCCB carbone-ceramique 440/370 mm
+
+  -- CHASSIS & SUSPENSIONS --
+  • Suspension pneumatique adaptative 5 positions
+  • Anti-roulis actif PDRS (Predictive Active Roll)
+  • Direction 4 roues directrices (4WS)
+  • Pneumatiques Pirelli P Zero Sport homologues Lamborghini
+  • Jantes alliage 21 pouces specifiques Urus S
+
+  -- SECURITE & AIDES --
+  • ABS + ESC + Torque Vectoring
+  • ACC radar avec Stop & Go
+  • Lane Keeping Assist actif
+  • Blind Spot Monitoring
+  • Freinage autonome d'urgence
+  • Camera 360° peripherique
+  • Capteurs stationnement avant + arriere
+  • TPMS temps reel
+  • Airbags complets
+  • PDLS+ — phares LED matriciels adaptatifs
+  • Hill Start + Hill Descent
+
+  -- CONFORT & LUXE --
+  • Sieges sport electriques complets — chauffage + ventilation + massage
+  • Sellerie cuir artisanale (coutures mains)
+  • Volant cuir 3 branches aluminium
+  • Climatisation automatique 4 zones
+  • Fermeture centralisee sans cle (Keyless)
+  • Vitres electriques 4 vitres
+  • Retroviseurs electriques, chauffants, rabattables
+  • Capot fibre de carbone peinte de serie
+  • Hayon electrique motorise
+
+  -- TECHNOLOGIE & CONNECTIVITE --
+  • LIS ecran tactile 10,1 pouces
+  • Instrumentation numerique 12,3 pouces
+  • Ecran de confort 8,4 pouces
+  • Navigation GPS
+  • Apple CarPlay sans fil
+  • Android Auto
+  • Bluetooth
+  • USB-C avant + arriere
+  • Bang & Olufsen 3D — 17 haut-parleurs 1 700 W
+  • Commande vocale
+  • Wi-Fi hotspot integre
+  • Application Lamborghini Unica
+  • OTA (mises a jour a distance)
+
+  -- OPTIONS COURANTES SUPPLEMENTAIRES --
+  • Toit panoramique ouvrant           : +3 500 EUR
+  • Pack carbone exterieur             : +12 000 EUR
+  • Jantes forgees 23 pouces           : +4 200 EUR
+  • Pack carbone interieur             : +8 000 EUR
+  • Sièges arriere VIP individuels     : +5 800 EUR
+  • Vision nocturne                    : +3 200 EUR
+  • Head-Up Display                    : +2 100 EUR
+  • Etriers colores (rouge = serie)    : inclus
+  • Programme Ad Personam peinture     : +3 000 – 15 000 EUR
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [15] COUTS D'ENTRETIEN & PROPRIETE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Entretien annuel          : 3 000 EUR (concessionnaire agree)
+  Revision 15 000 km        : 1 200 EUR
+  Revision 30 000 km        : 2 800 EUR (filtres + liquides)
+  Train de pneus Pirelli P0 : 2 200 EUR (jantes 21") — 2 800 EUR (jantes 23")
+  Plaquettes frein avant    : 1 800 EUR (PCCB)
+  Disques PCCB avant        : 6 000 – 8 000 EUR (duree vie 3x acier)
+  Assurance annuelle        : 4 000 – 8 000 EUR (conducteur experimente)
+  Carburant                 : 0,15 – 0,20 EUR/km (base 12 L/100 km)
+  Taxe annuelle France      : TVS/malus annuel selon usage
+  Maintenance garantie      : Garantie constructeur 3 ans / kilométrage illimite
+  Extension garantie        : Porsche/Lamborghini Approved disponible
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [16] COMPARATIF GAMME URUS 2025
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+                            URUS S          URUS PERFORMANTE   URUS SE (PHEV)
+  Puissance                : 666 ch         666 ch (-47 kg)    789 ch
+  Couple                   : 850 Nm         850 Nm             950 Nm
+  0-100 km/h               : 3,5 s          3,3 s              3,3 s
+  Vitesse max              : 305 km/h       306 km/h           312 km/h
+  Suspension               : Pneumatique    Ressorts helicoidaux Pneumatique
+  Mode Rally               : Non            OUI (exclusif)     Non
+  Mode electrique          : Non            Non                OUI (60 km)
+  Prix de base             : 218 000 EUR    251 000 EUR        285 000 EUR
+  Profil                   : Quotidien luxe Sport/track        Hybride/ville
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [17] POSITIONNEMENT & CONCURRENTS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Ce vehicule               : 230 000 EUR — Lamborghini Urus S 666 ch — 2025
+  Aston Martin DBX707 2025  : 707 ch — 235 000 EUR — concurrent direct
+  Bentley Bentayga S 2025   : 635 ch — 240 000 EUR — plus luxueux — moins sport
+  Porsche Cayenne Turbo GT  : 640 ch — 200 000 EUR — plus accessible — polyvalent
+  Ferrari Purosangue 2025   : 725 ch — 390 000 EUR — V12 — presque le double
+  Rolls-Royce Cullinan 2025 : 600 ch — 380 000 EUR — ultra-luxe pur
+  Mercedes GLE63 AMG 2025   : 612 ch — 180 000 EUR — plus accessible
+  BMW X5 M Competition      : 625 ch — 130 000 EUR — moins exclusif
+  BRABUS G900 (voir fiche)  : 900 ch — 280 000 EUR — super SUV prepare
+
+  Specificite Urus S        : Le seul Super SUV a combiner :
+                              666 ch + 305 km/h + 0-100 en 3,5 s
+                              + freins PCCB carbone-ceramique 440 mm de serie
+                              + 4 roues directrices + Torque Vectoring actif
+                              + 6 modes ANIMA (dont 3 off-road)
+                              + personnalisation Ad Personam illimitee
+                              = aucun autre SUV ne rassemble ce package en 2025
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [18] HISTORIQUE & ADN LAMBORGHINI URUS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Lamborghini est fondee en 1963 a Sant'Agata Bolognese, Italie, par Ferruccio
+  Lamborghini — un fabricant de tracteurs qui voulait battre Ferrari.
+  La marque au taureau (le logo represente le signe astrologique du Taureau,
+  signe de Ferruccio) est rachetee par Audi AG (groupe VW) en 1998, ce qui
+  lui donne acces aux ressources techniques du groupe tout en preservant
+  son independance stylistique et dynamique.
+
+  L'Urus est le 2e SUV de Lamborghini apres le LM002 des annees 80 — le
+  fameux "Rambo Lambo" equipe d'un V12 de Countach. L'Urus est presente
+  en concept au Salon de Beijing 2012, puis definitif au CES de Las Vegas
+  en janvier 2018. Il est produit dans le nouvel atelier de Sant'Agata
+  Bolognese dedie — une usine de 70 millions d'euros construite pour lui.
+
+  Chaque Urus est assemble a la main par des artisans italiens. Le processus
+  de fabrication inclut 4 jours de controle qualite exhaustif avant livraison.
+  L'Urus S (2022) apporte +17 ch, un pedalier d'accelerateur redesigne,
+  un capot carbone, de nouveaux boucliers et des pneumatiques Pirelli dediés.
+
+  En 2024, l'Urus represente 55% des ventes mondiales de Lamborghini — preuve
+  qu'un SUV peut porter l'image d'une marque de supercars sans la diluer.
+  Lamborghini produit environ 7 000-8 000 exemplaires par an (tous modeles).
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Sources : Lamborghini.com — L'Argus.fr — Caradisiac.com — Univers-mecanique.fr
+  RapidAuto.fr — AutoPieces22.fr — EncyCARpedia.com — AutomobileDimension.com
+  Lamborghini Charlotte (specs officielles US) — World Car Awards
+  Specifications officielles Lamborghini Urus S (2022-2025 EU/FR).
+================================================================================

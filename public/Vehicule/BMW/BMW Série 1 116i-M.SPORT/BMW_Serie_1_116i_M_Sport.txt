@@ -1,0 +1,115 @@
+================================================================================
+                    FICHE TECHNIQUE COMPLETE
+                    BMW SERIE 1 116i M.SPORT (F20)
+================================================================================
+
+PRIX DE VENTE : 4.000 Euros
+GARANTIE : 12 MOIS
+ORIGINE : Importation Allemande
+
+================================================================================
+                    IDENTIFICATION DU VEHICULE
+================================================================================
+
+Marque                  : BMW
+Modele                  : Serie 1 116i M.Sport
+Generation              : F20 LCI
+Annee                   : 2015
+Kilometrage             : 125.600 km
+Carburant               : Essence
+Boite de vitesses       : Automatique (Steptronic 8 rapports)
+Puissance               : 136 CH
+Moteur                  : 1,6 L
+Emission CO2            : 134 g/km
+Transmission            : Propulsion arriere
+Nombre de places        : 5
+Nombre de portes        : 5
+Couleur                 : Gris
+
+================================================================================
+                    MOTORISATION
+================================================================================
+
+Code moteur             : N13B16A
+Type                    : 4 cylindres en ligne turbocompresse
+Cylindree               : 1.598 cm3 (1.6L)
+Puissance max           : 136 ch (100 kW) a 4.400-6.450 tr/min
+Couple max              : 220 Nm a 1.350-4.300 tr/min
+Alimentation            : Injection directe essence (TGDI)
+Suralimentation         : Turbocompresseur Twin-Scroll
+Distribution            : Chaine de distribution
+Technologie             : Valvetronic + Double VANOS
+Norme antipollution     : Euro 6
+
+================================================================================
+                    TRANSMISSION
+================================================================================
+
+Boite de vitesses       : Steptronic 8 rapports (ZF 8HP)
+Transmission            : Propulsion arriere (RWD)
+
+================================================================================
+                    PERFORMANCES
+================================================================================
+
+Vitesse max             : 210 km/h
+0-100 km/h              : 8,5 secondes
+Consommation mixte      : 5,5-6,2 L/100km
+Capacite reservoir      : 52 litres
+Autonomie estimee       : ~840-950 km
+
+================================================================================
+                    DIMENSIONS ET POIDS
+================================================================================
+
+Longueur                : 4.324 mm
+Largeur                 : 1.765 mm
+Hauteur                 : 1.421 mm
+Empattement             : 2.690 mm
+Coffre                  : 360 litres (1.200 litres banquette rabattue)
+Poids a vide            : 1.320-1.370 kg
+PTAC                    : 1.810 kg
+
+================================================================================
+                    EQUIPEMENTS M SPORT (DE SERIE)
+================================================================================
+
+EXTERIEUR :
+- Kit aerodynamique M Sport
+- Jantes alliage 17" ou 18" style M
+- Suspension sport M (abaissee 10 mm)
+- Couleur Gris
+
+INTERIEUR :
+- Volant sport M cuir
+- Sieges sport tissu/Alcantara
+- Pedalier aluminium M
+- iDrive avec ecran
+- Climatisation automatique bi-zone
+- Bluetooth
+- Radio Professional
+
+SECURITE :
+- 6 airbags
+- ABS / DSC (ESP)
+- Aide au demarrage en cote
+
+================================================================================
+                    ANALYSE DU MARCHE EUROPEEN
+================================================================================
+
+Prix du marche europeen (116i M Sport 2015, ~125.000 km, BVA) :
+- Fourchette constatee     : 11.000 - 14.500 EUR
+- Prix moyen               : ~12.500 EUR
+
+Le prix propose de 4.000 EUR est tres nettement inferieur
+au marche europeen.
+
+================================================================================
+                    CONDITIONS DE VENTE
+================================================================================
+
+- Garantie : 12 mois
+- Documents fournis avec plaques
+
+================================================================================

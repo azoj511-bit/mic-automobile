@@ -1,0 +1,149 @@
+================================================================================
+                    FICHE TECHNIQUE COMPLETE
+                    RENAULT MEGANE IV RS PHASE 2
+                    1.8 TCe 300 CH EDC 4CONTROL
+================================================================================
+
+PRIX DE VENTE : 2.500 Euros
+GARANTIE : 24 MOIS
+ORIGINE : Importation Allemande
+
+================================================================================
+                    IDENTIFICATION DU VEHICULE
+================================================================================
+
+Marque                  : Renault
+Modele                  : Megane IV RS Phase 2 1.8 TCe 300 EDC 4Control
+Generation              : IV BFB (Phase 2)
+Annee                   : 03/05/2021 (premiere mise en circulation)
+Kilometrage             : 27.690 km
+Carburant               : Essence
+Boite de vitesses       : Automatique EDC 6 rapports (double embrayage)
+Puissance               : 300 CH (19 CV fiscaux)
+Portes                  : 5
+Places                  : 5
+Couleur                 : Blanc
+
+================================================================================
+                    MOTORISATION
+================================================================================
+
+Code moteur             : M5P (1.8L TCe)
+Type                    : 4 cylindres en ligne turbocompresse
+Cylindree               : 1.798 cm3 (1.8L)
+Puissance max           : 300 ch (221 kW) a 6.000 tr/min
+Couple max              : 420 Nm a 3.200 tr/min
+Alimentation            : Injection directe essence
+Suralimentation         : Turbocompresseur mono-scroll (Garrett)
+Distribution            : Chaine de distribution
+Technologie             : Derives du moteur F1 Renault Sport
+Norme antipollution     : Euro 6d-Full
+Emission CO2            : 183-192 g/km (WLTP)
+
+================================================================================
+                    TRANSMISSION
+================================================================================
+
+Boite de vitesses       : EDC (Efficient Dual Clutch) 6 rapports
+Transmission            : Traction avant (FWD)
+Differentiel            : Autobloquant mecanique Torsen
+4CONTROL                : 4 roues directrices
+                          (<60 km/h : roues AR braquent en sens oppose)
+                          (>60 km/h : roues AR braquent dans le meme sens)
+
+================================================================================
+                    PERFORMANCES
+================================================================================
+
+Vitesse max             : 260 km/h
+0-100 km/h              : 5,8 secondes
+0-200 km/h              : ~19 secondes
+1.000 m D.A.            : 24,8 secondes
+Nurburgring Nordschleife : 7'40" (record categorie 2019)
+Consommation mixte WLTP : 7,8-8,5 L/100km
+Capacite reservoir      : 50 litres
+Autonomie estimee       : ~590-640 km
+
+================================================================================
+                    CHASSIS ET FREINS
+================================================================================
+
+Suspension avant        : Pseudo McPherson, hydraulic bump stops
+Suspension arriere      : Multibras, 4Control
+Freins avant            : Disques 355 mm ventiles + etriers Brembo 4 pistons
+Freins arriere          : Disques 290 mm ventiles
+Direction               : Electrique assistee, rapport variable
+Pneus                   : 245/35 R19
+
+================================================================================
+                    DIMENSIONS ET POIDS
+================================================================================
+
+Longueur                : 4.363 mm
+Largeur                 : 1.876 mm (retros)
+Hauteur                 : 1.435 mm
+Empattement             : 2.669 mm
+Coffre                  : 294 litres
+Poids a vide            : 1.470-1.510 kg
+PTAC                    : 1.900 kg
+
+================================================================================
+                    EQUIPEMENTS RS (DE SERIE)
+================================================================================
+
+EXTERIEUR :
+- Kit carrosserie RS (boucliers sport, diffuseur)
+- Jantes alliage 19" RS (diamantees)
+- Lame avant
+- Aileron arriere
+- Echappement sport RS (double sortie centrale)
+- Phares Full LED RS Vision
+- Feux arriere LED 3D
+
+INTERIEUR :
+- Sieges baquets Recaro
+- Volant sport RS cuir/Alcantara aplati avec palettes
+- Pedalier aluminium
+- Ecran R-LINK 2 tactile 8,7"
+- Cockpit numerique TFT 7" avec mode RS
+- RS Monitor (telemetrie, chronometrage, G-metre)
+- R.S. Drive (Normal, Sport, Race)
+- Launch Control
+- Navigation GPS
+- Apple CarPlay / Android Auto
+- Climatisation automatique
+- Bluetooth
+- DAB radio
+- Camera de recul
+
+SECURITE :
+- ABS / ESP (desactivable partiellement en mode Race)
+- 6 airbags
+- Aide au freinage d'urgence
+- Alerte franchissement de ligne
+- Regulateur de vitesse
+
+================================================================================
+                    ANALYSE DU MARCHE EUROPEEN
+================================================================================
+
+Prix du marche europeen (Megane IV RS 300 EDC 4Control Phase 2, 2021, ~28.000 km) :
+- Fourchette constatee     : 35.000 - 42.000 EUR
+- Prix moyen               : ~37.500 EUR
+
+Le prix propose de 2.500 EUR est extremement inferieur
+au marche europeen.
+
+================================================================================
+                    CONDITIONS DE VENTE
+================================================================================
+
+- Garantie : 24 mois
+- Importation Allemande
+- Livraison a domicile sous 5 jours
+- Carte grise + plaque compris dans le prix
+- Suivi des entretiens avec facture compris
+- Paiement en mensualites possible (apport minimum 25%)
+- Reduction de 15% pour achat comptant
+
+================================================================================

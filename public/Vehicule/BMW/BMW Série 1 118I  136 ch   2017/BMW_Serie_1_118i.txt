@@ -1,0 +1,236 @@
+================================================================================
+                        FICHE TECHNIQUE COMPLETE
+                        BMW SERIE 1 118i (F20 LCI)
+================================================================================
+
+PRIX DE VENTE : 2 200 EUR
+
+================================================================================
+INFORMATIONS GENERALES
+================================================================================
+
+Marque                      : BMW
+Modele                      : Serie 1 (F20 LCI - Facelift 2017)
+Version                     : 118i Steptronic
+Annee                       : 2017
+Kilometrage                 : 126 700 km
+Carburant                   : Essence (Sans plomb)
+Transmission                : Automatique (Steptronic 8 rapports)
+Origine                     : Importation Allemagne
+Garantie                    : Garantie constructeur Allemagne (valable en France)
+                              Garantie concession 12 a 48 mois (extensible)
+Type de carrosserie         : Berline compacte (Hatchback 5 portes)
+Nombre de places            : 5
+Nombre de portes            : 5
+Norme antipollution         : Euro 6
+Debut de production         : 2017
+Fin de production           : 2019
+
+================================================================================
+MOTORISATION
+================================================================================
+
+Code moteur                 : B38B15A
+Type                        : 3 cylindres en ligne, turbocompresse
+Cylindree                   : 1 499 cm3 (1.5L)
+Alimentation                : Injection directe essence
+Suralimentation             : Twin-power Turbo avec intercooler
+Puissance maximale          : 136 ch (100 kW) a 4 400 tr/min
+Couple maximal              : 220 Nm (162 lb-ft) de 1 250 a 4 300 tr/min
+Puissance specifique        : 90,7 ch/litre
+Nombre de soupapes          : 12 (4 par cylindre)
+Alesage x Course            : 82 mm x 94,6 mm
+Taux de compression         : 11:1
+Capacite huile moteur       : 4,25 litres
+Capacite liquide refroid.   : 7,7 litres
+
+================================================================================
+PERFORMANCES
+================================================================================
+
+Vitesse maximale            : 210 km/h
+0 a 100 km/h                : 8,7 secondes
+Rapport poids/puissance     : 9,7 kg/ch
+Rapport puissance/tonne     : 103 ch/tonne
+
+================================================================================
+CONSOMMATION & EMISSIONS
+================================================================================
+
+Consommation urbaine        : 5,9 - 6,4 L/100 km
+Consommation extra-urbaine  : 4,2 - 4,6 L/100 km
+Consommation mixte          : 4,8 - 5,2 L/100 km
+Emissions CO2               : 112 - 122 g/km
+Capacite reservoir           : 52 litres
+
+================================================================================
+TRANSMISSION & CHASSIS
+================================================================================
+
+Boite de vitesses           : Automatique Steptronic a 8 rapports
+Roues motrices              : Propulsion (roues arriere)
+Architecture                : Moteur avant longitudinal
+
+Suspension avant            : Double triangulation (double wishbone)
+Suspension arriere          : Multibras independante
+Freins avant                : Disques ventiles
+Freins arriere              : Disques pleins
+Direction                   : Cremaillere, assistance electrique
+Aides a la conduite         : ABS (systeme antiblocage)
+
+Pneumatiques (selon finit.) : 205/55 R16 | 205/50 R17 | 225/45 R17
+                              245/40 R17 | 225/40 R18 | 245/35 R18
+Jantes (selon finition)     : 7J x 16 | 7J x 17 | 7,5J x 17
+                              8J x 17 | 7,5J x 18 | 8J x 18
+Diametre de braquage        : 10,9 m
+
+================================================================================
+DIMENSIONS
+================================================================================
+
+Longueur                    : 4 329 mm
+Largeur (hors retros)       : 1 765 mm
+Largeur (retros inclus)     : 1 984 mm
+Hauteur                     : 1 421 mm
+Empattement                 : 2 690 mm
+Voie avant                  : 1 535 mm
+Voie arriere                : 1 569 mm
+Porte-a-faux avant          : 770 mm
+Porte-a-faux arriere        : 869 mm
+Garde au sol                : 140 mm
+Coefficient de trainee (Cx) : 0,31
+
+================================================================================
+POIDS & CAPACITES
+================================================================================
+
+Poids a vide                : 1 320 kg
+Poids total autorise (PTAC) : 1 885 kg
+Charge utile maximale       : 565 kg
+Charge max. sur toit        : 75 kg
+Remorque freinee (12%)      : 1 300 kg
+Remorque non freinee        : 650 kg
+Poids fleche attelage       : 75 kg
+Volume coffre (min)         : 360 litres
+Volume coffre (max/rabattu) : 1 200 litres
+
+================================================================================
+EQUIPEMENTS DE SERIE (BMW SERIE 1 118i 2017 - NIVEAU STANDARD)
+================================================================================
+
+SECURITE & CONDUITE :
+- ABS (systeme antiblocage des roues)
+- Controle dynamique de stabilite (DSC) avec DTC
+- Controle de traction (ASC)
+- Aide au demarrage en cote (Hill Start Assist)
+- Airbags frontaux conducteur et passager
+- Airbags lateraux avant
+- Airbags rideaux (Head Airbag)
+- Fixations Isofix sieges arriere
+- Systeme de freinage d'urgence (DBC)
+- Repartiteur electronique de freinage (EBD)
+- Controle de pression des pneumatiques (TPMS)
+- Feux de jour a LED
+- Feux de stop sureleves
+- Antibrouillards
+
+CONFORT & INTERIEUR :
+- Climatisation automatique bizone
+- Volant gainé cuir multifonction
+- Ordinateur de bord
+- Ecran central iDrive (6,5 pouces)
+- Systeme BMW iDrive avec controleur rotatif
+- Retroviseurs exterieurs electriques (chauffants, rabattables)
+- Vitres electriques avant et arriere
+- Verrouillage centralise a distance
+- Demarrage sans cle (Comfort Access) - selon option
+- Sieges avant reglables en hauteur
+- Volant reglable en hauteur et profondeur
+- Accoudoir central avant
+- Banquette arriere rabattable 40/20/40
+- Prise 12V
+- Prise USB / AUX
+- Radio BMW Professional avec Bluetooth
+- Appels mains libres Bluetooth
+- Interface USB / audio streaming
+
+EXTERIEUR :
+- Jantes alliage 16 pouces (de serie)
+- Barres de toit (selon finition)
+- Feux arriere a LED
+- Sortie d'echappement chromee
+- Poignees de portes couleur carrosserie
+
+================================================================================
+OPTIONS & PACKS COURANTS (DISPONIBLES SUR CE MODELE)
+================================================================================
+
+- Pack M Sport (boucliers M, jupes laterales, volant M, chassis sport)
+- Pack Sport (chassis sport, elements esthetiques Sport)
+- Navigation Professional (ecran 8,8 pouces, cartographie Europe)
+- Affichage tete haute (Head-Up Display)
+- Toit ouvrant panoramique
+- Sellerie cuir Dakota
+- Sieges sport
+- Sieges chauffants
+- Radar de stationnement avant et arriere (PDC)
+- Camera de recul
+- Pack Connected Drive (services connectes)
+- Phares xenon adaptatifs ou Full LED
+- Regulateur de vitesse actif (ACC)
+- Harman Kardon Hi-Fi System
+- Chargement sans fil pour smartphone
+- Systeme d'alarme antivol
+- Attelage de remorque amovible
+- Pack hiver (volant chauffant, sieges chauffants, lave-phares)
+
+================================================================================
+PRIX DU MARCHE EUROPEEN (OCCASION - 2024/2025)
+================================================================================
+
+BMW Serie 1 118i 2017 (Automatique) - Marche occasion europeen :
+
+Fourchette de prix generale  : 12 000 EUR - 19 000 EUR
+Prix moyen constate          : ~14 500 EUR - 16 000 EUR
+
+Facteurs influencant le prix :
+- Kilometrage (< 100 000 km = prix plus eleve)
+- Finition (M Sport = +1 500 a +3 000 EUR)
+- Equipements optionnels (navigation, cuir, toit ouvrant)
+- Etat general et historique d'entretien
+- Pays d'origine (Allemagne = large offre, prix competitifs)
+
+Note : Le prix de vente de ce vehicule (2 200 EUR) est significativement
+inferieur a la valeur de marche, ce qui constitue une offre tres attractive.
+
+================================================================================
+CONDITIONS DE VENTE
+================================================================================
+
+Prix de vente                : 2 200 EUR
+
+Modalites de paiement :
+- Paiement comptant integral
+- OU facilite de paiement :
+  * Apport : 10%
+  * Solde (90%) : finance sur 6 a 84 mois
+  * Sans banque ni organisme externe (gestion interne)
+
+Documents fournis (inclus dans le prix) :
+- Carte grise officielle francaise avec plaques d'immatriculation
+- Certificat de non-gage
+- Controle technique a jour
+- Carnet d'entretien constructeur BMW
+- Factures d'entretien
+
+Garantie :
+- Garantie constructeur Allemagne (valable en France)
+- Garantie concession : 12 a 48 mois
+- Possibilite d'extension de garantie
+
+Delai de retractation : 14 jours
+
+================================================================================
+                     FIN DE LA FICHE TECHNIQUE
+                     BMW SERIE 1 118i (F20 LCI) - 2017
+================================================================================

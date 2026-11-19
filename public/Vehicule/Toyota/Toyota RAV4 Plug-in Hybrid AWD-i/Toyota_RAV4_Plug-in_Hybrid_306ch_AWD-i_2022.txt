@@ -1,0 +1,562 @@
+================================================================================
+     FICHE VEHICULE — TOYOTA RAV4 PLUG-IN HYBRID (PHEV) AWD-i 306 ch
+     SUV PHEV 4x4 · 306 ch · e-CVT · Hybride Rechargeable · 2022 · Active Tech
+================================================================================
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [1] INFORMATIONS COMMERCIALES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Prix de vente             : 14 900 EUR
+  Annee                     : 2022
+  Kilometrage               : 48 550 km (tres faible — ~8 000 km/an)
+  Carburant                 : Hybride Rechargeable (Essence + Electrique)
+  Boite de vitesses         : e-CVT (variation continue electronique)
+  Transmission              : AWD-i — 4 roues motrices intelligentes (electrique)
+  Finition                  : Active Tech (2e niveau de gamme)
+  Couleur                   : Gris metallise
+  Interieur                 : Tissu et similicuir noir
+  Puissance systeme         : 306 ch (225 kW)
+  Batterie                  : 18,1 kWh Li-ion
+  Autonomie EV (WLTP)       : 75 km
+  Emissions CO2             : 22 g/km (WLTP)
+  Poids a vide              : 1 910 kg
+  Volume coffre             : 490 litres
+  Jeux de roues             : Ete + hiver inclus (valeur ~1 500-2 000 EUR)
+  Prix neuf (2022)          : 52 650 EUR (Active Tech) — 57 400 EUR (Collection)
+  Cote marche europeen 2025 : 28 000 – 38 000 EUR selon etat et km
+  Economie vs neuf          : -37 750 EUR (72% sous le prix neuf)
+
+  GAMME RAV4 PHEV 2022 (pour reference) :
+    Design                  : 50 650 EUR
+    Active Tech (ce vehicule): 52 650 EUR
+    Collection              : 57 400 EUR
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [2] PRESENTATION GENERALE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Le Toyota RAV4 Plug-in Hybrid (PHEV) — appele RAV4 Prime sur le marche
+  nord-americain — est la version rechargeable du SUV le plus vendu au monde.
+  Lance en Europe en 2020 et mis a jour en 2022, il represente le sommet
+  technologique de la gamme RAV4 : 306 ch combines, 75 km en tout-electrique,
+  4x4 electronique sans liaison mecanique entre les essieux, et consommation
+  theorique d'1 L/100 km (WLTP batterie pleine).
+
+  Sa specificite technique majeure est son systeme AWD-i :
+  le moteur thermique et le moteur electrique avant propulsent l'essieu avant,
+  tandis qu'un moteur electrique INDEPENDANT propulse l'essieu arriere.
+  Il n'y a AUCUN arbre de transmission mecanique entre l'avant et l'arriere —
+  le 4x4 est 100% electronique et instantane (quelques millisecondes pour
+  redistribuer le couple, vs plusieurs dixiemes pour un 4x4 mecanique).
+
+  La finition Active Tech (2022) propose de serie le Toyota Safety Sense complet,
+  la navigation connectee, le JBL audio premium, les sieges chauffants avant
+  et arriere, le volant chauffant, la pompe a chaleur et la charge AC 6,6 kW
+  — un niveau d'equipement remarquable. Ce vehicule est en outre complete
+  par deux jeux de roues (ete + hiver), ce qui represente une economie
+  immediate de 1 500 a 2 000 EUR.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [3] GROUPE MOTOPROPULSEUR — HYBRID SYNERGY DRIVE PHEV
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Technologie               : Toyota Hybrid Synergy Drive 4e generation — PHEV
+  Configuration             : 1 moteur thermique + 2 moteurs electriques (3 au total)
+
+  --- MOTEUR THERMIQUE ---
+  Type                      : 4 cylindres en ligne — Cycle Atkinson / Miller
+  Designation               : A25A-FXS — 2.5L Dynamic Force
+  Cylindree                 : 2 487 cm3 (2,5 litres)
+  Puissance thermique seule : 186 ch (137 kW) a 6 000 tr/min
+  Couple thermique          : 221 Nm a 3 600 tr/min
+  Taux de compression       : 14,0:1 (tres eleve pour cycle Atkinson)
+  Rendement thermique       : 41% — record mondial moteur de serie (2019-2022)
+  Alimentation              : Injection directe + indirecte (dual injection)
+  Distribution              : DOHC — calage variable (VVT-iW admission / VVT-i echappement)
+
+  --- MOTEUR ELECTRIQUE AVANT (MG2) ---
+  Puissance                 : 182 ch (134 kW)
+  Type                      : Synchrone a aimants permanents (PSM)
+  Role                      : Propulsion avant + freinage regeneratif + demarrage moteur
+
+  --- MOTEUR ELECTRIQUE ARRIERE ---
+  Puissance                 : 54 ch (40 kW)
+  Type                      : Synchrone a aimants permanents (PSM)
+  Role                      : Propulsion arriere independante (AWD-i)
+                              Pas de liaison mecanique avec le moteur avant
+                              4x4 electronique pur — reaction instantanee
+
+  --- PUISSANCE SYSTEME TOTALE ---
+  Puissance nette officielle: 306 ch (225 kW) — homologuee Toyota/EU
+  Couple systeme            : environ 580 Nm (combine — dont 370 Nm electriques AV)
+  Boite de vitesses         : e-CVT — variation continue electronique
+                              (gestion via train epicycloidal — pas de rapports classiques)
+  Recuperation d'energie    : Freinage regeneratif — 3 niveaux (via palettes au volant)
+
+  --- BATTERIE ---
+  Type                      : Lithium-Ion (Li-ion) — cellules prismatiques
+  Capacite brute            : 18,1 kWh
+  Capacite utile            : environ 14,4 kWh (79% utilisable)
+  Tension                   : 355,2 V
+  Poids batterie            : environ 196 kg
+  Garantie batterie         : 10 ans / 240 000 km (Toyota — au-dela du minimum EU)
+                              (note : l'une des meilleures garanties batterie du marche)
+  Sante batterie            : A 48 550 km — capacite estimee a 95%+ de l'origine
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [4] RECHARGE — MODES ET TEMPS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Chargeur embarque         : 6,6 kW AC (de serie sur RAV4 PHEV 2022)
+                              Avantage vs Peugeot 3008 PHEV (3,7 kW) ou Prius IV (3,3 kW)
+  Charge DC rapide          : NON disponible — AC uniquement
+  Connecteur                : Type 2 (standard europeen)
+
+  Temps de recharge :
+    Prise domestique 230V / 2,3 kW  : environ 7 h 30 min
+    Borne Type 2 / 6,6 kW (optimal) : environ 2 h 30 min
+    Wallbox 7,4 kW (limitee a 6,6)  : environ 2 h 30 min (auto-limitee)
+
+  Recharge en roulant :
+    Freinage regeneratif — 3 niveaux via palettes au volant
+    Mode "Battery Charge" — recharge via thermique en roulant
+    Mode "Battery Hold" — preserve le niveau actuel de charge
+    Apport solaire (toit solaire optionnel non mentionne sur ce vehicule)
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [5] AUTONOMIE & PERFORMANCES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Autonomie EV (WLTP mixte) : 75 km — officiel Toyota 2022
+  Autonomie EV (WLTP ville) : Jusqu'a 98 km (cycle urbain exclusivement)
+  Autonomie EV reelle       : 50 – 70 km (conditions normales)
+                              40 – 55 km (hiver / froid / climatisation)
+  Vitesse max en mode EV    : 135 km/h (maintien electrique a 130 km/h autoroute)
+  Autonomie totale          : >850 km (batterie pleine + reservoir 55 L + hybride)
+  Reservoir essence         : 55 litres
+
+  Consommation WLTP batt. pl.: 1,0 L/100 km (officiel — cycle mixte)
+  Consommation hybride seul : 5,5 – 6,5 L/100 km (batterie vide)
+  Consommation reelle moy.  : 2,0 – 4,0 L/100 km si branchement quotidien
+                              6,0 – 7,5 L/100 km si jamais branche
+  Emissions CO2 (WLTP)      : 22 g/km (officiel — batt. pleine)
+  Vignette CRIT'Air         : CRIT'Air 1 (France)
+  Norme antipollution       : Euro 6d
+
+  0 a 100 km/h              : 6,0 secondes (officiel Toyota)
+  0 a 100 km/h mode Sport   : 5,8 s (estimé avec launch control electrique)
+  0 a 80 km/h               : environ 3,8 secondes (couple electrique immediat)
+  Vitesse maximale          : 180 km/h (bride — SUV familial)
+  Note performances         : Couple electrique instantane = relances tres vives
+                              Demarrage silencieux + acceleration supercar aux feux
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [6] TRANSMISSION AWD-i — 4x4 ELECTRONIQUE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Type AWD                  : AWD-i — All-Wheel Drive intelligent (electrique)
+  Principe                  : Moteur electrique arriere INDEPENDANT
+                              Aucune liaison mecanique avant-arriere
+                              4x4 virtuel 100% electronique
+  Avantage vs 4x4 mecanique : Reaction en quelques MILLISECONDES (vs dixiemes de sec)
+                              Pas de perte energie dans les arbres de transmission
+                              Vrai vectorisation possible electroniquement
+  Boite avant               : e-CVT — gestion electronique pure (pas de rapports)
+  Mode AWD disponible       : Sous 70 km/h (le moteur arriere s'efface au-dela)
+  Traction pur EV           : Moteur avant seul (dans certaines conditions)
+  Repartition electronique  : Variable en temps reel — 0 a 100% vers l'arriere
+                              selon adherence, vitesse, acceleration, conditions
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [7] CHASSIS, SUSPENSIONS & FREINS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Plateforme                : TNGA-K (Toyota New Global Architecture — K)
+                              Architecture specifique SUV — rigidite +60% vs gen prec.
+  Structure                 : Monocoque acier haute resistance — renforts specifiques PHEV
+  Suspension avant          : MacPherson — ressorts helicoidaux + amortisseurs
+                              + barre anti-roulis avant
+  Suspension arriere        : Double triangles independants — amortisseurs a gaz
+                              + barre anti-roulis arriere
+                              Note : double triangulation arriere = superieure a poutre
+  Direction                 : Electromecanique — cremaillere — rapport variable
+  Diametre de braquage      : 10,8 m
+  Garde au sol              : 175 mm (inferieur aux Duster/Forester — SUV routier)
+
+  Freins avant              : Disques ventiles — O 320 mm + etriers 2 pistons
+  Freins arriere            : Disques — O 307 mm
+  Freinage regeneratif      : 3 niveaux — palettes gauche (more regen) / droite (less)
+  Frein de stationnement    : Electronique + Auto-Hold
+  ABS                       : Multi-canal avec EBD
+  VSC                       : Vehicle Stability Control (Toyota ESP)
+  TSC                       : Traction and Stability Control (Toyota ASR)
+
+  Pneumatiques              : 225/60 R18 (Active Tech de serie)
+  Jantes                    : Alliage 18 pouces bi-ton de serie
+  2 jeux de roues inclus    : Ete (18") + Hiver (montes sur jantes — a confirmer)
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [8] DIMENSIONS & POIDS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Longueur totale           : 4 600 mm
+  Largeur totale            : 1 855 mm (hors retroviseurs) — 2 095 mm (avec retro)
+  Hauteur                   : 1 685 mm
+  Empattement               : 2 690 mm
+  Voie avant                : 1 590 mm
+  Voie arriere              : 1 595 mm
+  Garde au sol              : 175 mm
+  Poids a vide (DIN)        : 1 910 kg (donne dans l'annonce — coherent officiel)
+  Surcout poids PHEV        : +265 kg vs RAV4 HEV 2WD (batterie = ~196 kg)
+  PTAC                      : 2 515 kg
+  Remorquage freine         : 1 500 kg (donne dans l'annonce — limite Toyota PHEV)
+  Remorquage non freine     : 750 kg
+  Volume coffre             : 490 litres (donne dans l'annonce — coffre PHEV)
+                              Note : RAV4 HEV = 580 L — PHEV = 490 L (-90 L batterie)
+  Volume coffre max.        : 1 604 litres (sieges arriere rabattus)
+  Nombre de places          : 5
+  Nombre de portes          : 5
+  Reservoir essence         : 55 litres
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [9] DESIGN EXTERIEUR — RAV4 PHEV 2022
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Style                     : Design Centre Toyota — lignes angulaires et musclees
+                              Ailes elargies prononcees — profil dynamique
+  Specificites PHEV         : Trappe de recharge cote arriere gauche
+                              Badges "Plug-in Hybrid" sur les ailes
+                              Couleurs specifiques disponibles (dont bi-ton toit noir)
+  Phares avant              : Full LED avec signature lumineuse specifique RAV4
+  Antibrouillards           : LED integres dans le bouclier
+  Feux arriere              : LED — signature angulaire Toyota
+  Retroviseurs              : Electriques, chauffants, rabattables
+                              Camera integree (BSM)
+  Couleur ce vehicule       : Gris metallise (Gris Magnetique / Gris Acier)
+  Antenne                   : Antenne requin sur le toit
+  Jantes                    : Alliage 18 pouces bi-ton specifiques Active Tech
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [10] INTERIEUR & FINITION ACTIVE TECH
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Tableau de bord           : Architecture moderne RAV4 V — qualite de finition elevee
+                              2 ecrans : instrumentation 7 po + ecran central 10,5 po
+  Ecran central             : Toyota Multimedia 10,5 pouces tactile haute resolution
+  Instrumentation           : Numerique 7 pouces — + informations hybride/PHEV
+  Sieges avant              : Tissu et similicuir — chauffants de serie
+                              Conducteur : reglage electrique complet (hauteur +
+                              inclinaison + longueur + lombaires) — mentionne annonce
+  Sieges arriere            : Chauffants de serie (Active Tech) — 3 places
+  Volant                    : Chauffant de serie — multifonctions — palettes regeneration
+  Climatisation             : Bi-zone automatique + pompe a chaleur de serie
+                              (pompe a chaleur = efficacite heating +50% vs resistances)
+  Console centrale          : Commandes modes hybride + mode EV + charge
+  Coffre                    : 490 L — 2 zones (accès sous plancher pour cables recharge)
+  Banquette arriere         : Rabattable 40/20/40 — 1 604 L max
+  Interieur annonce         : Tissu et similicuir noir — finition Active Tech soignee
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [11] MODES DE CONDUITE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Mode EV                   : 100% electrique — thermique coupe — silencieux
+                              Autonomie : 50-75 km — Vmax : 135 km/h
+  Mode Auto / HV            : Hybride automatique — gestion optimale moteur/batterie
+                              Thermique demarre si besoin (acceleration, montee, batterie faible)
+  Mode Sport                : 306 ch disponibles — thermique + electrique en simultane
+                              Reponse accelerateur directe — passage electronique sport
+  Mode AWD                  : Force l'engagement du moteur electrique arriere
+                              Ideal : neige, boue, depart sur revêtement glissant
+  Charge / Battery Charge   : Recharge active de la batterie via le moteur thermique
+  Battery Hold              : Preserve le niveau actuel de charge (arrivee en ville)
+  Regen palettes            : 3 niveaux de recuperation au freinage via palettes gauche/droite
+
+  Eco conduite conseillée :
+    Recharger quotidiennement → 50-70 km EV → thermique peu sollicite
+    En mode HV sur autoroute → ~5,5-6,5 L/100 km
+    Total annuel 15 000 km (60% EV) → environ 2-3 L/100 km moyen reel
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [12] TECHNOLOGIE & CONNECTIVITE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Systeme multimedia        : Toyota Multimedia — ecran 10,5 pouces
+  Navigation                : GPS connecte Toyota — trafic + meteo temps reel
+  Apple CarPlay             : De serie — sans fil
+  Android Auto              : De serie — sans fil (sur Active Tech 2022)
+  Bluetooth                 : Multipoint telephonie + audio
+  USB                       : 2 prises USB-C + 1 USB-A
+  Audio                     : JBL Premium Sound — 9 haut-parleurs de serie
+                              (standard de serie sur Active Tech — valeur +1 200 EUR)
+  Commande vocale           : "Hey Toyota" — reconnaisance vocale naturelle
+  Wi-Fi                     : Hotspot 4G integre
+  Application               : Toyota App — programmation recharge, preclimatisation,
+                              localisation, sante batterie
+  OTA                       : Mises a jour logicielles a distance (Over-The-Air)
+  Affichage tete haute      : De serie sur Active Tech 2022 (HUD)
+  Charge induction          : Chargeur Qi sans fil smartphones
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [13] TOYOTA SAFETY SENSE — PACK SECURITE COMPLET
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Pre-Collision System      : Detection pietons + cyclistes + vehicules + intersections
+                              Freinage autonome d'urgence de serie
+  Regulateur adaptatif ACC  : Full range — 0 km/h a vmax — avec Stop & Go complet
+                              (suivi de file et arret complet en bouchon — de serie)
+  Lane Departure Alert      : Alerte franchissement de voie + correction active (LTA)
+  Automatic High Beam       : Gestion automatique pleins phares
+  Lane Tracing Assist (LTA) : Maintien actif dans la voie (semi-conduite autonome)
+  Radar Speed Assist        : Adaptation vitesse aux panneaux de limitation (ISA)
+  Road Sign Assist          : Lecture + affichage des panneaux (RSA)
+  Attention Assist           : Detection fatigue conducteur
+  Camera de recul           : HD avec lignes de guidage dynamiques
+  Capteurs parking av + ar  : Ultrasoniques + auto-freinage si obstacle
+  Blind Spot Monitor (BSM)  : Surveillance angles morts (via cameras retroviseurs)
+  RCTA                      : Rear Cross Traffic Alert — alerte trafic transversal arriere
+  ABS / EBD                 : Multi-canal
+  VSC                       : Vehicle Stability Control (ESP Toyota)
+  HAC                       : Hill Start Assist (demarrage en cote)
+  DAC                       : Downhill Assist Control (controle descente pente)
+  7 airbags                 : Frontaux x2 + lateraux x2 + rideaux x2 + genou conducteur
+  Isofix                    : 2 points d'ancrage sieges enfants (+ ancrage central)
+  Frein parking             : Electronique + Auto-Hold
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [14] LISTE COMPLETE DES EQUIPEMENTS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  -- MOTORISATION & CHARGE PHEV --
+  • Moteur 2.5L Atkinson 186 ch + moteur elec. avant 182 ch + moteur elec. ar. 54 ch
+  • Puissance systeme : 306 ch (225 kW)
+  • Batterie Li-ion 18,1 kWh — garantie 10 ans / 240 000 km Toyota
+  • AWD-i electronique — moteur electrique arriere independant
+  • Autonomie EV : 75 km WLTP (50-70 km reel)
+  • Chargeur embarque 6,6 kW AC (Type 2)
+  • Connecteur Type 2 inclus
+  • Pompe a chaleur (heating efficace en hiver — preserves autonomie EV)
+  • Preclimatisation programmable (via Toyota App)
+  • 3 niveaux de regeneration au freinage (palettes au volant)
+  • Modes : EV / HV / Sport / AWD / Battery Charge / Battery Hold
+
+  -- PACK TOYOTA SAFETY SENSE (complet) --
+  • Pre-Collision System (pietons + cyclistes + intersections)
+  • Regulateur adaptatif full range avec Stop & Go (0-Vmax)
+  • Lane Departure Alert + Lane Tracing Assist (maintien voie actif)
+  • Automatic High Beam
+  • Road Sign Assist + Radar Speed Assist
+  • Attention Assist (fatigue)
+  • Blind Spot Monitor (BSM)
+  • Rear Cross Traffic Alert (RCTA)
+  • Camera de recul HD avec lignes dynamiques
+  • Radars parking avant + arriere + auto-freinage
+  • 7 airbags complets
+  • ABS + VSC + HAC + DAC
+  • Isofix (3 points)
+  • Frein de stationnement electronique + Auto-Hold
+
+  -- CONFORT & EQUIPEMENTS --
+  • Sieges avant chauffants
+  • Sieges arriere chauffants
+  • Reglage electrique siege conducteur (hauteur/inclinaison/longueur/lombaires)
+  • Volant chauffant
+  • Climatisation bi-zone automatique + pompe a chaleur
+  • Head-Up Display (affichage tete haute)
+  • Vitres electriques avant + arriere avec fonction auto
+  • Retroviseurs electriques, chauffants, rabattables
+  • Hayon electrique a ouverture mains libres (kick sensor)
+  • Fermeture centralisee sans cle (Smart Entry + Push Start)
+  • 2 jeux de roues inclus (ete 18" + hiver — a confirmer montes sur jantes)
+  • Coffre 490 L + banquette 40/20/40
+
+  -- TECHNOLOGIE & CONNECTIVITE --
+  • Ecran tactile Toyota Multimedia 10,5 pouces
+  • Navigation GPS connectee (trafic + meteo temps reel)
+  • Apple CarPlay sans fil
+  • Android Auto sans fil
+  • Bluetooth multipoint
+  • 2 USB-C + 1 USB-A
+  • JBL Premium — 9 haut-parleurs de serie
+  • "Hey Toyota" — commande vocale
+  • Wi-Fi hotspot 4G
+  • Toyota App (iOS / Android)
+  • OTA — mises a jour a distance
+  • Affichage tete haute (HUD)
+  • Chargeur induction Qi smartphones
+  • Phares Full LED avant + arriere
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [15] AVANTAGES PHEV AU QUOTIDIEN
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Couts si branche quotidien :
+    60% trajets en EV : environ 1,5 – 2,5 L/100 km moyen (avis proprietaires)
+    Economie vs essence pur 8 L/100 km : -70% sur le poste carburant
+    Charge domicile 6,6 kW : recharge complete en 2 h 30 min
+    Cout recharge complete  : environ 2,30 EUR (14,4 kWh x 0,16 EUR/kWh nuit)
+  Vignette CRIT'Air         : CRIT'Air 1 — acces libre toutes ZFE France
+  Fiscalite France (societe): TVS = 0 EUR / CO2 penalty nul (22 g/km)
+  Garantie batterie         : 10 ans / 240 000 km — tranquillite incomparable
+  Entretien reduit          : Freinage regeneratif = plaquettes peu usees
+                              Moteur thermique peu sollicite si branche = huile longue duree
+  Entretien Toyota          : Tous les 15 000 km ou 1 an
+  2 jeux de roues inclus    : Economie directe 1 500 – 2 000 EUR
+
+  COMPARAISON COTE MARCHE 2025 :
+    Cote L'Argus estimee     : 28 000 – 38 000 EUR (bon etat, 48 550 km)
+    Prix demande             : 14 900 EUR
+    Difference               : -13 100 a -23 100 EUR sous la cote
+    → Ce vehicule est TRES largement en dessous de la cote Argus
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [16] RAPPELS CONSTRUCTEUR — A VERIFIER AVANT ACHAT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  D'apres L'Argus et sources Toyota officielles, plusieurs rappels ont ete
+  effectues sur le RAV4 PHEV (2020-2022) :
+
+  Rappel 1 — CONVERTISSEUR DC/DC (source : L'Argus)
+    Dysfonctionnement possible du convertisseur electrique DC/DC
+    Risque de court-circuit — environ 4 000 vehicules concernes en France
+    Action : remplacement du convertisseur — GRATUIT Toyota
+    Modeles concernes : RAV4 PHEV + Lexus NX450h+ + Suzuki Across
+
+  Rappel 2 — SYSTEME eCALL
+    Possible defaillance systeme d'appel d'urgence automatique eCall
+    Environ 37 500 vehicules Toyota en France concernes
+    Action : correction logicielle ou remplacement module — GRATUIT
+
+  Rappel 3 — BATTERIE 12V (signalement proprietaires)
+    Decharge prematuree de la batterie 12V auxiliaire — blackout complet
+    Largement signale sur forums et avis proprietaires
+    Action : remplacement batterie 12V sous garantie
+
+  IMPERATIF AVANT ACHAT :
+    → Verifier via le VIN aupres d'un concessionnaire Toyota
+       que tous les rappels ont ete effectues
+    → Demander le rapport de service officiel Toyota
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [17] POINTS DE VIGILANCE & FIABILITE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Points positifs majeurs   :
+  • Garantie batterie 10 ans / 240 000 km — la meilleure du marche PHEV
+  • Batterie Li-ion de 18,1 kWh — la plus grande du segment SUV compact PHEV
+  • 75 km WLTP — meilleure autonomie EV de sa categorie en 2022
+  • 306 ch — le plus puissant des SUV PHEV compacts de serie
+  • Moteur Atkinson 2.5L — rendement 41% record mondial — robuste et fiable
+  • Chargeur 6,6 kW embarque — recharge 2x plus rapide que les PHEV concurrents
+  • Toyota Safety Sense 3.0 complet — le meilleur pack ADAS de serie en 2022
+  • JBL Premium 9 haut-parleurs + HUD + CarPlay/Android sans fil de serie
+  • AWD-i electronique — 4x4 instantane sans arbre de transmission
+  • 2 jeux de roues inclus — economie immediate
+  • Kilometrage tres faible (48 550 km) — vehicule quasi neuf
+  • Reseau Toyota dense — SAV accessible dans toute l'Europe
+
+  ⚠️ POINTS DE VIGILANCE :
+
+  BATTERIE 12V AUXILIAIRE — POINT CONNU
+    Decharge prematuree signalee par plusieurs proprietaires
+    (blackout complet — vehicule immobilise)
+    La version 2022 a normalement beneficie d'une amelioration
+    Verifier que le rappel batterie 12V a ete effectue (via VIN)
+    Si non effectue : gratuit chez Toyota
+
+  ELECTRONIQUE COMPLEXE
+    Systeme hybride rechargeable = electronique plus complexe qu'un HEV simple
+    En cas de panne electronique hors garantie : reparation uniquement Toyota/agree
+    Cout module PHEV hors garantie : peut etre eleve (1 000 – 5 000 EUR)
+    La garantie batterie 10 ans couvre le pack batterie HV mais pas tout l'electronique
+
+  COFFRE REDUIT vs HEV
+    490 L (PHEV) vs 580 L (HEV simple) — 90 L de moins a cause de la batterie
+    Pour les usages intensifs de coffre = point a noter
+
+  CONSOMMATION SI NON BRANCHE
+    Si jamais recharge : consommation 6,5-7,5 L/100 km avec 1 910 kg a tracter
+    Pire que le RAV4 HEV simple (5,5 L) — la batterie pese 196 kg "inutiles"
+    Acheter un RAV4 PHEV sans le recharger = contre-productif
+
+  COUT ASSURANCE
+    Assurances elevees : 590 – 900 EUR/an selon profil (signalement proprietaires)
+    A comparer avec budget assurance habituel avant achat
+
+  BUDGET ENTRETIEN INITIAL :
+    Verification rappels constructeur (gratuit Toyota) : 0 EUR
+    Vidange moteur + filtres (si non fait recemment) : 150 EUR
+    Inspection sante batterie (via Toyota diagnostic) : 80 – 120 EUR
+    Total preventif recommande : 250 – 350 EUR seulement
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [18] POSITIONNEMENT & CONCURRENTS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Ce vehicule               : 14 900 EUR — RAV4 PHEV 306 ch 2022 — 48 550 km
+  Cote Argus estimee 2025   : 28 000 – 38 000 EUR → vehicule 13 a 23 k sous cote
+  Toyota RAV4 HEV 2022      : 218 ch — 48 000 km — cote 2025 : 24 000-32 000 EUR
+  Peugeot 3008 Hybrid4 300  : 300 ch PHEV — voir fiche dediee — cote : 18-28 000 EUR
+  Ford Escape PHEV 2022     : 225 ch — cote 2025 : 20 000-28 000 EUR
+  Volvo XC60 T8 AWD 2022    : 390 ch PHEV — cote 2025 : 40 000-55 000 EUR
+  Mitsubishi Outlander PHEV : 306 ch — cote 2025 : 25 000-35 000 EUR
+  Hyundai Tucson PHEV 2022  : 265 ch — cote 2025 : 22 000-32 000 EUR
+
+  Specificite RAV4 PHEV     : Seul SUV PHEV compact avec :
+                              75 km EV + 306 ch + 4x4 electronique + batt. 18,1 kWh
+                              + garantie batterie 10 ans + chargeur 6,6 kW
+                              + Toyota Safety Sense 3.0 complet de serie
+                              + JBL Premium + HUD + CarPlay/AA sans fil de serie
+                              = le package le plus complet de sa categorie en 2022
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [19] HISTORIQUE & ADN RAV4 PLUG-IN HYBRID
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Le Toyota RAV4 est produit depuis 1994 — il est le SUV compact le plus vendu
+  au monde avec plus de 11 millions d'exemplaires (toutes generations). La 5e
+  generation (TNGA-K — 2018) inaugure la plateforme New Global Architecture
+  qui apporte +60% de rigidite structurelle et un design largement renouvele.
+
+  Toyota, longtemps reticent au PHEV (preferant l'hybride simple), lance
+  enfin le RAV4 PHEV en 2020 au Canada et en Europe (appele RAV4 Prime en
+  Amerique du Nord). Le moteur 2.5L Atkinson Dynamic Force — avec son rendement
+  thermique de 41% record mondial — combine a la batterie de 18,1 kWh offre
+  l'une des propositions PHEV les plus coherentes du marche.
+
+  Le RAV4 PHEV AWD-i a ete elu "Best PHEV SUV" par plusieurs publications
+  europeennes en 2021 et 2022, et se distingue par sa combinaison unique
+  d'autonomie electrique (75 km WLTP) et de polyvalence familiale.
+
+  La garantie batterie Toyota de 10 ans / 240 000 km est la plus longue
+  du secteur PHEV en Europe — tres au-dela de l'obligation legale EU (8 ans).
+  Elle temoigne de la confiance de Toyota dans la durabilite de sa technologie
+  Li-ion, dont plusieurs flottes de taxis (Prius, Camry Hybrid) ont demontre
+  la robustesse au-dela de 400 000-500 000 km sans intervention majeure.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Sources : Toyota Motor Europe — Automobile-Propre.com — L'Argus.fr (rappels)
+  Caroom.fr — Fiches-auto.fr (avis proprietaires) — U.S. News RAV4 Prime review
+  Specifications officielles Toyota RAV4 PHEV AWD-i Active Tech (2022 EU/FR).
+================================================================================

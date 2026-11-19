@@ -1,0 +1,546 @@
+================================================================================
+       FICHE VEHICULE — PEUGEOT 3008 HYBRID4 300 GT e-EAT8 (II)
+       SUV PHEV 4x4 · 300 ch · Automatique e-EAT8 · Hybride Rechargeable · 2022
+================================================================================
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [1] INFORMATIONS COMMERCIALES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Prix de vente             : 13 000 EUR (marche europeen — occasion certifiee)
+  Origine                   : Importation Allemagne
+  Annee                     : Avril 2022 (04/2022)
+  Kilometrage               : 31 600 km (certifie) — tres faible kilometrage
+  Carburant                 : Hybride Rechargeable (Essence + Electrique)
+  Boite de vitesses         : Automatique e-EAT8 — 8 rapports + mode electrique
+  Transmission              : 4x4 integrale (AWD) — 2 essieux moteurs
+  Finition                  : GT (niveau superieur gamme 3008)
+  Etat accident             : Jamais accidente
+  Garantie                  : 18 mois chez le concessionnaire
+  Puissance fiscale         : 11 CV (France)
+  Prix neuf (11/2022)       : 55 500 EUR (Argus) — 57 920 EUR (Auto-Selection)
+  Prix neuf indicatif       : 55 000 – 58 000 EUR selon source et date
+  Cote marche europeen 2025 : 22 000 – 32 000 EUR selon etat et kilometrage
+  Economie vs neuf          : -42 500 EUR (77% de moins que le prix neuf)
+  Remarque kilometrage      : 31 600 km pour une 2022 = vehicule quasi neuf
+                              (~10 000 km/an — utilisation tres modeste)
+  Carrosserie               : SUV / Break 5 portes
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [2] PRESENTATION GENERALE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Le Peugeot 3008 Hybrid4 300 GT est le sommet de la gamme 3008 deuxieme
+  generation (lancee en 2016). Cette version PHEV (Plug-in Hybrid Electric
+  Vehicle) represente la version la plus puissante jamais produite par Peugeot
+  en serie au moment de sa sortie — 300 ch pour une berline de grande serie
+  etait une premiere absolue pour la marque au lion.
+
+  La denomination "Hybrid4" designe le systeme hybride rechargeable a 4 roues
+  motrices : un moteur thermique PureTech 200 ch a l'avant (couple a la boite
+  e-EAT8), plus un moteur electrique de 110 ch a l'avant, plus un second
+  moteur electrique independant de 112 ch a l'arriere. Ce dernier actionne
+  l'essieu arriere sans liaison mecanique avec le moteur avant — creant
+  ainsi un vrai 4x4 electrique dont chaque essieu est independant.
+
+  La finition GT est le seul niveau de gamme disponible pour l'Hybrid4 300.
+  Elle embarque de serie la sellerie Alcantara Gris Greval (exclusivite Hybrid4),
+  les decors en vrai bois de chene vieilli "Grey Oak", le i-Cockpit avec
+  instrumentation HD 12,3 pouces, la pompe a chaleur, les phares matriciels
+  Full LED avec balayage directionnel et l'ensemble des aides a la conduite
+  issues de la 508 (regulateur adaptatif + maintien de voie).
+
+  Avec 31 600 km en 2022, ce vehicule a ete tres peu utilise — il conserve
+  vraisemblablement l'essentiel de sa capacite de batterie d'origine.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [3] GROUPE MOTOPROPULSEUR — HYBRID4 300
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  PUISSANCE SYSTEME TOTALE  : 300 ch (220 kW) — puissance cumulee officielles
+  COUPLE SYSTEME TOTAL      : 520 Nm (couple combine des 3 moteurs)
+  Note                      : La puissance de 300 ch est la puissance nette
+                              officielle homologuee — pas la somme mathematique
+                              des 3 moteurs (qui donnerait 422 ch)
+
+  --- MOTEUR THERMIQUE (avant) ---
+  Type                      : 4 cylindres en ligne — PureTech — Turboessence
+  Cylindree                 : 1 598 cm3 (1,6 litres)
+  Designation               : EP6FDTX / EB2ADTS — PureTech 200
+  Puissance thermique       : 200 ch (147 kW) a 5 500 tr/min
+  Couple thermique          : 300 Nm de 1 900 a 4 000 tr/min
+  Distribution              : DOHC — 16 soupapes — chaine de distribution
+  Compression               : 10,5:1
+  Injection                 : Directe haute pression
+  Norme                     : Euro 6d
+  Note importante           : Ce moteur PureTech 1.6 a ete sujet a de nombreux
+                              rappels de batterie PHEV (voir section vigilance)
+                              La version 2022 beneficie des corrections apportees
+                              apres les rappels 2020-2021 (courroie d'accessoires
+                              revue et joint de culasse ameliore sur facelift 2021+)
+
+  --- MOTEUR ELECTRIQUE AVANT (couple a la boite e-EAT8) ---
+  Puissance electrique av.  : 110 ch (81 kW)
+  Type                      : Moteur synchrone a aimants permanents (PSM)
+  Position                  : Integre a la boite e-EAT8 — essieu avant
+  Fonction                  : Propulsion + recuperation d'energie au freinage
+                              + demarrage moteur thermique (mode ISG)
+
+  --- MOTEUR ELECTRIQUE ARRIERE (independant) ---
+  Puissance electrique ar.  : 112 ch (83 kW)
+  Type                      : Moteur synchrone a aimants permanents (PSM)
+  Position                  : Essieu arriere — independant du moteur avant
+                              (pas de liaison mecanique axe avant-arriere)
+  Fonction                  : Propulsion arriere independante + vectorisation +
+                              recuperation d'energie au freinage arriere
+  Avantage 4x4              : 4x4 "virtuel" — chaque essieu commande electroniquement
+                              Meilleure repartition selon les conditions (traction)
+                              Torque Vectoring electronique entre AV et AR
+
+  --- BATTERIE ---
+  Type                      : Lithium-Ion (Li-ion) — cellules pouch
+  Capacite brute            : 13,2 kWh
+  Capacite utile            : environ 10,5 kWh (79% utilisable)
+  Tension                   : 400 V
+  Position                  : Sous le plancher (coffre a hauteur de plancher conservee)
+  Poids batterie            : environ 150 kg
+  Garantie batterie         : 8 ans / 160 000 km (obligation legale EU pour PHEV)
+  Note sante batterie       : A 31 600 km, la batterie devrait conserver 90%+
+                              de sa capacite d'origine (degradation tres faible)
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [4] RECHARGE — MODES ET TEMPS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Puissance de charge AC    : 3,7 kW de serie (connecteur Type 2)
+  Option charge rapide      : Chargeur embarque 7,4 kW (option +1 200 EUR)
+  Charge DC rapide          : NON disponible — AC uniquement
+  Connecteur                : Type 2 (standard europeen)
+
+  Temps de recharge complets :
+    Prise domestique 230V / 2,3 kW  : environ 5 h 30 min
+    Borne Type 2 / 3,7 kW (serie)   : environ 3 h 45 min
+    Borne Wallbox / 7,4 kW (option) : environ 1 h 45 min
+
+  Recharge en roulant       :
+    Freinage regeneratif — 2 niveaux de regeneration (regen normale / regen forte)
+    Mode "Battery Charge" — recharge via le moteur thermique (deconseille sauf urgence)
+    Recuperation maximale : environ 100 kW lors des decelerations brusques
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [5] AUTONOMIE & PERFORMANCES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Autonomie EV (WLTP)       : 59 km (tout electrique — cycle WLTP officiel)
+  Autonomie EV (NEDC)       : 65 km
+  Autonomie EV reelle       : 35 – 50 km (selon temperature et style conduite)
+  Vitesse max en mode EV    : 135 km/h (mode 100% electrique maintenu jusqu'a 135)
+  Note autonomie            : A 31 600 km et -3 ans, la batterie devrait donner
+                              50-55 km d'autonomie reelle — proche du neuf
+
+  Consommation WLTP batterie pleine : 1,2 – 1,3 L/100 km (officiel)
+  Consommation WLTP batterie vide   : environ 7,5 – 8,5 L/100 km (mode hybride)
+  Consommation reelle mixte         : 2,5 – 5,0 L/100 km (usage maison PHEV)
+  Emissions CO2 (WLTP)      : 29 – 33 g/km (avec batterie chargee)
+  Emissions CO2 (batt. vide): environ 170 – 200 g/km (mode thermique seul)
+  Vignette CRIT'Air         : CRIT'Air 1 (France)
+  Norme                     : Euro 6d
+  Reservoir essence         : 43 litres
+  Autonomie totale          : >800 km (batterie pleine + reservoir 43 L)
+
+  0 a 100 km/h              : 5,9 secondes (officiel Peugeot)
+  0 a 100 km/h (estimé)     : 6,0 – 6,2 s en conditions normales
+  Vitesse maximale          : 235 km/h
+  Couple systeme            : 520 Nm — disponible immediatement (electrique)
+  Note dynamique            : Couple electrique instantane + moteur 200 ch = relances
+                              vives a tout regime — comportement surprenant pour 1 853 kg
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [6] TRANSMISSION & BOITE e-EAT8
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Type de boite             : e-EAT8 — Boite automatique electronique 8 rapports
+                              avec moteur electrique integre (ISG/moteur av.)
+  Fabricant                 : Aisin-Warner (Japon) — adaptee Stellantis PHEV
+  Transmission              : AWD integrale — 2 essieux independants
+  Essieu avant              : Moteur thermique + moteur electrique avant (e-EAT8)
+  Essieu arriere            : Moteur electrique arriere independant (eAxle)
+  Distribution couple       : Variable electroniquement en temps reel
+                              entre essieu avant et arriere
+  Torque Vectoring          : Electronique AV/AR — repartition continue
+  Modes transmission        : EV (electrique pur) / Hybrid / AWD / Regen
+  Rapport e-EAT8 :
+    1ere          : 4,35
+    2eme          : 2,53
+    3eme          : 1,64
+    4eme          : 1,15
+    5eme          : 0,86
+    6eme          : 0,69
+    7eme          : 0,57
+    8eme          : 0,48
+    Marche arriere : 3,32
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [7] CHASSIS, SUSPENSIONS & FREINS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Plateforme                : EMP2 (Efficient Modular Platform 2) — groupe Stellantis
+                              Partagee avec Peugeot 508, Citroen C5 Aircross,
+                              DS 7 Crossback, Opel Grandland
+  Structure                 : Monocoque acier haute resistance
+  Suspension avant          : Jambes de force MacPherson — ressorts helicoidaux
+                              + barre anti-roulis
+  Suspension arriere        : Multibras — 4 bras (independante) — ressorts helicoidaux
+                              + barre anti-roulis
+                              Note : suspension arriere independante — superieure
+                              a la poutre de torsion des versions de base
+  Direction                 : Electromecanique — a cremaillere
+                              Assistance variable selon vitesse et mode
+  Diametre de braquage      : 10,9 m
+  Garde au sol              : 219 mm (avec transmission 4x4 et batterie)
+  Angle d'attaque           : 20,0 degres
+  Angle de fuite            : 29,0 degres
+
+  Freins avant              : Disques ventiles — O 330 mm + etriers 2 pistons
+  Freins arriere            : Disques + etriers 1 piston
+  Freinage regeneratif      : 2 niveaux — contribue a la recharge batterie
+                              Plaquettes arriere moins sollicitees (regeneration)
+  Frein de stationnement    : Electronique (bouton console)
+  ABS                       : Multi-canal avec EBD
+  ESP                       : Controle electronique de trajectoire + antipatinage
+  Pneus                     : 225/55 R18 (serie) — 225/55 R19 (option)
+  Jantes                    : Alliage 18 pouces (serie GT) — 19 pouces option
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [8] DIMENSIONS & POIDS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Longueur totale           : 4 447 mm
+  Largeur totale            : 1 841 mm (hors retroviseurs) — 1 906 mm (avec retro)
+  Hauteur                   : 1 622 – 1 624 mm
+  Empattement               : 2 675 mm
+  Voie avant                : 1 579 mm
+  Voie arriere              : 1 587 mm
+  Porte-a-faux avant        : 923 mm
+  Porte-a-faux arriere      : 849 mm
+  Garde au sol              : 219 mm
+  Poids a vide (DIN)        : 1 853 kg (Argus) — 1 928 kg (UE)
+  Surcout poids PHEV        : +250 kg vs 3008 PureTech 130 (batterie = 150 kg)
+  PTAC                      : 2 339 kg
+  PTRA                      : 3 569 kg
+  Remorquage freine         : 1 230 kg (limité par la transmission PHEV)
+  Volume coffre min.        : 395 litres (plancher sureleve par batterie)
+  Volume coffre max.        : 1 357 litres (sieges arriere rabattus)
+  Note coffre               : Plancher du coffre est a 30 mm plus haut que version
+                              thermique (batterie sous plancher mais impacte la hauteur)
+  Nombre de places          : 5
+  Reservoir essence         : 43 litres
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [9] DESIGN EXTERIEUR — 3008 GT 2022
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Restylage                 : 3008 II facelift 2020 (en production jusqu'en 2023)
+                              Nouvelle calandre, nouveaux phares matriciels Full LED
+  Phares avant              : Full LED matriciels avec balayage adaptatif directionnel
+                              (technologie issue de la 508)
+                              Feux de jour a signature lumineuse "griffes du lion"
+  Feux arriere              : LED full-width — signature lumineuse specifique 3008
+  Calandre                  : Specifique GT — fond noir mat + encadrements chrome
+  Boucliers                 : Design sport specifique GT
+  Retroviseurs              : Electriques, chauffants, rabattables
+  Toit                      : Toit panoramique disponible en option
+  Jantes                    : Alliage 18 pouces specifiques GT
+  Couleurs proposees        : Blanc Nacre, Noir Perla Nera, Gris Platinium,
+                              Gris Artense, Bleu Vertigo, Rouge Elixir, Brun Palaos
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [10] INTERIEUR i-COCKPIT & FINITION GT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  i-Cockpit                 : Concept Peugeot — instrumentation haute (12,3 po)
+                              + petit volant (acces visuel direct aux instruments)
+                              + ecran central tactile 10 pouces (sans commandes physiques)
+  Instrumentation           : i-Cockpit 3D — ecran HD 12,3 pouces — affichage 3D
+                              Personnalisable : sport / classique / navigation
+  Ecran central             : 10 pouces tactile — sans boutons physiques
+  Sellerie GT               : EXCLUSIVITE HYBRID4 — Alcantara Gris Greval
+                              (tissage micro-fibres suedine haute gamme)
+                              Decors en VRAI BOIS chene vieilli "Grey Oak"
+                              (pas d'imitation — vrai bois certifie)
+  Sieges avant              : Chauffants de serie — reglage electrique
+  Sieges arriere            : Chauffants de serie sur GT
+  Volant                    : 3 branches aplati en haut et en bas — cuir
+                              Commandes integrees multimedia, telephone, ADAS
+  Console centrale          : Commandes modes de conduite + frein de park elec.
+  Aide acoustique           : Pompe a chaleur de serie (isolation thermique habitable)
+  Vitres                    : Electriques 4 vitres
+  Fermeture                 : Sans cle (Keyless — en option ou serie selon config)
+  Hayon                     : Electrique de serie
+  Eclairage ambiance        : LED interieur
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [11] MODES DE CONDUITE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Mode ELECTRIC             : 100% electrique — moteur thermique coupe
+                              Silence absolu — 0 emission locale
+                              Vitesse max : 135 km/h
+                              Autonomie : 35-50 km (reel) / 59 km (WLTP)
+  Mode HYBRID               : Gestion automatique thermique/electrique
+                              Bascule intelligente selon vitesse, charge, batterie
+  Mode SPORT                : Moteur thermique + electrique en simultane = 300 ch
+                              Boite en mode sport — passages rapides
+                              Freinage regen maximise
+  Mode AWD                  : 4x4 force — thermique avant + electrique arriere
+                              Distribution couple variable electroniquement
+                              Mode recommande : neige, boue, revêtement glissant
+  Mode BATTERY CHARGE       : Recharge batterie via le moteur thermique en roulant
+                              (augmente conso — usage deconseille sauf si besoin)
+  Mode BATTERY MAINTAIN     : Maintien du niveau de charge actuel
+                              (preserve l'autonomie EV pour plus tard)
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [12] TECHNOLOGIE & CONNECTIVITE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Systeme multimedia        : Peugeot i-Connect Advanced
+  Ecran central             : 10 pouces tactile — sans commandes physiques
+  Instrumentation           : i-Cockpit 3D — 12,3 pouces HD personnalisable
+  Navigation GPS            : Connected Navigation — en temps reel
+  Apple CarPlay             : De serie — sans fil (facelift 2022)
+  Android Auto              : De serie
+  Bluetooth                 : Multipoint — telephonie + streaming
+  USB                       : 2 prises USB-C de serie
+  Audio                     : Focal Premium Sound de serie (GT)
+                              — 10 haut-parleurs — 515 W
+  Commande vocale           : "OK Peugeot" — reconnaissance vocale continue
+  Wi-Fi hotspot             : Integre — 4G
+  Application               : MyPeugeot App — programmation recharge,
+                              localisation, preclimatisation, historique
+  Camera de recul           : De serie — HD
+  Capteurs parking          : Avant + arriere de serie
+  Vue a 360°                : Disponible en option (4 cameras)
+  Affichage tete haute      : Non de serie sur ce millésime
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [13] AIDES A LA CONDUITE & SECURITE ACTIVE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  ABS / EBD                 : De serie
+  ESP                       : Controle electronique de stabilite
+  Antipatinage              : ASR + Torque Vectoring AV/AR
+  ACC                       : Regulateur adaptatif radar avec Stop & Go
+                              (reprise technologie 508 — mention Peugeot officiel)
+  Lane centering            : Aide au maintien de la position dans la voie
+                              (Active Lane Centering — maintien actif au centre)
+  Alerte franchissement     : Detection et alerte franchissement de voie
+  Angle mort                : Surveillance angles morts
+  Freinage urgence          : Freinage d'urgence autonome anti-collision
+  Detection fatigue         : Alerte fatigue conducteur
+  Reconnaissance panneaux   : Lecture et affichage panneaux vitesse/stop
+  TPMS                      : Surveillance pression pneus
+  Camera recul              : HD avec lignes dynamiques
+  Capteurs parking          : Avant + arriere
+  Airbags                   : Frontaux + lateraux + rideaux — 6 au total
+  Frein stationnement       : Electronique avec Auto-Hold
+  Hill Start Assist         : Aide demarrage en cote
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [14] LISTE COMPLETE DES EQUIPEMENTS DE SERIE — GT HYBRID4
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  -- GROUPE MOTOPROPULSEUR PHEV 4x4 --
+  • Moteur PureTech 200 ch + moteur elec. avant 110 ch + moteur elec. arriere 112 ch
+  • Puissance systeme : 300 ch / 520 Nm
+  • Batterie Li-ion 13,2 kWh — autonomie EV 59 km (WLTP)
+  • Boite e-EAT8 automatique 8 rapports
+  • AWD 4x4 integrale electronique (2 eAxle independants)
+  • 6 modes de conduite (Electric / Hybrid / Sport / AWD / Charge / Maintain)
+  • Freinage regeneratif 2 niveaux
+  • Chargeur AC 3,7 kW de serie (Type 2)
+  • Connecteur de recharge Type 2
+  • Preclimatisation programmable (via MyPeugeot App)
+  • Pompe a chaleur de serie
+
+  -- SECURITE & AIDES --
+  • ABS + EBD + ESP
+  • Antipatinage + Torque Vectoring
+  • Regulateur adaptatif ACC avec Stop & Go (radar)
+  • Active Lane Centering (maintien centre voie)
+  • Lane Departure Warning
+  • Blind Spot Monitoring
+  • Freinage autonome d'urgence
+  • Detection fatigue
+  • Reconnaissance des panneaux
+  • Camera de recul HD
+  • Capteurs parking avant + arriere
+  • TPMS temps reel
+  • Airbags frontaux + lateraux + rideaux (6)
+  • Frein de stationnement electronique + Auto-Hold
+  • Hill Start Assist
+
+  -- CONFORT & LUXE GT --
+  • Sellerie Alcantara Gris Greval (exclusivite Hybrid4 GT)
+  • Decors vrai bois de chene vieilli "Grey Oak"
+  • Sieges avant electriques — chauffants
+  • Sieges arriere chauffants
+  • Volant cuir aplati 3 branches
+  • Climatisation automatique bi-zone
+  • Pompe a chaleur (optimise consommation EV en hiver)
+  • Vitres electriques 4 vitres
+  • Retroviseurs electriques, chauffants, rabattables
+  • Hayon electrique
+  • Frein de stationnement electronique
+  • Eclairage interieur LED
+
+  -- TECHNOLOGIE & CONNECTIVITE --
+  • i-Cockpit 3D — instrumentation 12,3 pouces HD
+  • Ecran tactile 10 pouces i-Connect Advanced
+  • Navigation GPS connected (temps reel)
+  • Apple CarPlay sans fil
+  • Android Auto
+  • Bluetooth multipoint
+  • 2 prises USB-C
+  • Focal Premium Sound — 10 hp / 515 W
+  • Commande vocale "OK Peugeot"
+  • Wi-Fi hotspot 4G
+  • Application MyPeugeot
+  • Phares Full LED matriciels adaptatifs avec balayage
+  • Feux de jour "griffes du lion"
+  • Feux arriere LED full-width
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [15] AVANTAGES HYBRIDE PHEV AU QUOTIDIEN
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Couts carburant (si branche) :
+    Usage domicile/travail <40 km  : ~0,10-0,15 EUR/km (electricite)
+    Usage thermique batterie vide  : ~0,08-0,10 EUR/km (7,5 L/100 km @ 1,75 EUR)
+    Economie vs thermique pur      : 50-70% si branchement regulier
+  Vignette CRIT'Air         : 1 — acces zones ZFE (lundi-vendredi zones a restrictions)
+  Fiscalite France          : TVS 0 EUR (vehicule de societe — vehicule PHEV)
+                              Exoneration CO2 (29 g/km WLTP officiel)
+  Bonus ecologique 2022     : 1 000 EUR (PHEV > 50 km autonomie — eligible en 2022)
+  Entretien reduit          : Plaquettes arriere preservees par regeneration
+                              Embrayage moins sollicite (demarrage electrique)
+  Recharge domicile         : Wallbox 7,4 kW = 1 h 45 min de recharge complete
+                              Installation wallbox : 500 – 1 500 EUR
+  Programmation recharge    : Via app MyPeugeot — heure pleine nuit (tarif reduit)
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [16] POINTS DE VIGILANCE & FIABILITE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Points positifs           :
+  • 300 ch + 4x4 + PHEV + 59 km EV — combinaison unique dans ce segment de prix
+  • Faible kilometrage (31 600 km) — vehicule quasiment neuf
+  • Batterie Li-ion protegee par garantie legale EU 8 ans / 160 000 km
+  • Vrai bois de chene (pas imitation) + Alcantara — prestige interieur rare
+  • i-Cockpit 3D 12,3 po + Focal Premium — technologie haut de gamme
+  • Phares Full LED matriciels adaptatifs — les meilleurs du segment
+  • Apple CarPlay sans fil + Android Auto de serie — connectivite moderne
+  • Prix 13 000 EUR pour un vehicule neuf a 55 500 EUR = -42 500 EUR
+
+  ⚠️ POINTS DE VIGILANCE IMPORTANTS :
+
+  BATTERIE PHEV — RAPPELS MULTIPLES (Source : Argus, Caradisiac)
+    4 campagnes de rappel batterie entre 2020 et 2022 sur le 3008 PHEV
+    concernant risque de corrosion et surchauffe de batterie
+    IMPERATIF : verifier que toutes les campagnes de rappel ont ete effectuees
+    (controle via le numero de chassis VIN aupres d'un concessionnaire Peugeot)
+    La version 2022 beneficie normalement des corrections — a confirmer
+
+  AUTONOMIE EV REELLE vs ANNONCEE
+    Signalement proprietaires : 24 km d'autonomie reel (vs 59 km WLTP)
+    surtout en hiver ou si batterie partiellement degradee
+    A 31 600 km, l'autonomie reelle devrait etre 40-55 km —
+    RECOMMANDE : test autonomie EV lors de l'essai avant achat
+
+  MOTEUR PURETECH 1.6 200 ch
+    Ce moteur a connu des problemes de joint de culasse et courroie
+    d'accessoires sur les versions pre-facelift (avant 2021)
+    La version 2022 devrait beneficier des ameliorations (chaine de distribution
+    remplacant la courroie sur certaines versions + joint ameliore)
+    IMPERATIF : verifier historique entretien + carnet de garantie
+
+  BOITE e-EAT8 PHEV
+    Quelques signalements de nervosites/a-coups a basse vitesse en mode hybride
+    — caracteristique connue et acceptee par les proprietaires
+    Pas de panne mecanique majeure signalee a ce kilometrage
+
+  SAV PEUGEOT
+    Delais de rendez-vous souvent longs (1 mois signale par certains)
+    Certains composants PHEV specifiques (module batterie, eAxle arriere)
+    disponibles uniquement chez Peugeot — eviter garages independants
+    pour les interventions sur la partie electrique
+
+  COFFRE
+    395 litres (vs 520 L version thermique) — planche de coffre plus haute
+    a prendre en compte si besoin de volume important
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [17] POSITIONNEMENT & CONCURRENTS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Ce vehicule               : 13 000 EUR — 3008 Hybrid4 300 GT 2022 — 31 600 km
+  Toyota RAV4 PHEV 2022     : 306 ch — 4x4 — cote 2025 : 30 000-40 000 EUR
+  Ford Escape PHEV 2022     : 225 ch — cote 2025 : 18 000-25 000 EUR
+  Citroen C5 Aircross H4    : 300 ch — plateforme identique — cote 2025 : 18 000 EUR
+  DS 7 Crossback E-Tense 4x4: 300 ch — identique mecanique — cote 2025 : 18 000-26 000 EUR
+  Volkswagen Tiguan eHybrid : 245 ch — cote 2025 : 22 000-30 000 EUR
+  Volvo XC60 T8 AWD PHEV    : 390 ch — cote 2025 : 35 000-50 000 EUR
+
+  Specificite 3008 Hybrid4  : Seul PHEV 4x4 300 ch du segment a ce prix (13 000 EUR)
+                              Autonomie EV 59 km WLTP — parmi les meilleures du segment
+                              Vrai bois + Alcantara + i-Cockpit 3D — niveau premium
+                              ACC radar + Lane centering — derives de la 508 GT
+                              Faible kilometrage (31 600 km) pour une 2022
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [18] HISTORIQUE & ADN PEUGEOT 3008 HYBRID4
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Le Peugeot 3008 II est le vehicule le plus primé de l'histoire de Peugeot :
+  Voiture de l'Annee 2017 (World Car of the Year), Voiture de l'Annee Europe 2017
+  (European Car of the Year) — deux titres remportes simultanement pour la premiere
+  fois par Peugeot depuis 1988 (405).
+
+  La version Hybrid4 est presentee en 2019 et commercialisee fin 2019.
+  Elle represente la premiere voiture hybride rechargeable 4x4 300 ch de Peugeot
+  — un record de puissance pour la marque. Le systeme hybride Hybrid4 utilise
+  deux moteurs electriques independants (un par essieu), ce qui elimine le besoin
+  d'un arbre de transmission mecanique central — une solution plus efficiente
+  et plus precise pour la distribution du couple.
+
+  Plus de 700 000 exemplaires du 3008 II ont ete vendus depuis 2016 (toutes
+  motorisations), ce qui en fait l'un des SUV compacts les plus vendus d'Europe.
+  La version Hybrid4 represente environ 15-20% des ventes du 3008 sur les
+  marches ou les aides a l'achat PHEV etaient significatives (France, Norvege,
+  Pays-Bas, Allemagne).
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Sources : Stellantis Media (communique officiel Peugeot 3008 Hybrid4)
+  L'Argus.fr — Automobile-Propre.com — Caradisiac.com (rappels batterie)
+  ZePerfs.com — Auto-Selection.com — La Revue Automobile
+  Specifications officielles Peugeot 3008 II Hybrid4 300 GT e-EAT8 (2022 FR/EU).
+================================================================================

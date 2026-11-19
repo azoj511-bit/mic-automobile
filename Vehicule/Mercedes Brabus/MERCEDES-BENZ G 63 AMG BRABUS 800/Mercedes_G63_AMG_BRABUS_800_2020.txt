@@ -1,0 +1,435 @@
+================================================================================
+     FICHE VEHICULE — MERCEDES-BENZ G 63 AMG BRABUS 800
+     Edition Haut de Gamme · 800 ch · 2020 · Blanc Nacre · Cuir Orange
+================================================================================
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [1] INFORMATIONS COMMERCIALES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Prix de vente             : 130 000 EUR (marche europeen — occasion)
+  Annee                     : 2020
+  Kilometrage               : 76 000 km
+  Carburant                 : Essence — V8 Bi-Turbo
+  Boite de vitesses         : Automatique 9 rapports (SPEEDSHIFT TCT 9G-TRONIC)
+  Transmission              : 4MATIC+ — 4 roues motrices permanentes
+  Couleur exterieure        : Blanc Nacre (Designo Pearl White)
+  Interieur                 : Cuir Orange BRABUS personnalise — surpiquures diamantees
+  Prix neuf estime BRABUS 800: 350 000 – 500 000 EUR (selon version et options)
+  Cote marche europeen 2025 : 150 000 – 280 000 EUR selon version et etat
+  Base vehicule             : Mercedes-AMG G 63 W464 (2018-2024)
+
+  DIFFERENCE BRABUS 800 vs BRABUS 900 :
+  • BRABUS 800 : cylindree conservee a 4,0 L — turbos remplaces + remappage
+                 Pas d'intervention sur les organes internes moteur
+                 Gain : +215 ch / +150 Nm vs AMG G63 de serie
+  • BRABUS 900 : cylindree portee a 4,5 L — vilebrequin billet, pistons forges
+                 Intervention complete sur les organes internes moteur
+                 Gain : +315 ch / +400 Nm vs AMG G63 de serie
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [2] PRESENTATION GENERALE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Le Mercedes-Benz G63 AMG prepare par BRABUS en version "800" est l'une des
+  interpretations les plus prestigieuses et les plus exclusives du legendaire
+  G-Wagen. Contrairement au BRABUS 900 qui touche aux organes internes du moteur,
+  le BRABUS 800 conserve la cylindree d'origine de 4,0 litres mais remplace
+  entierement le systeme de turbocompression et reprogramme integralement la
+  gestion moteur pour extraire 800 ch (800 ch PS / 789 ch SAE).
+
+  Ce vehicule precis se distingue par une combinaison chromatique audacieuse et
+  exclusive : exterieur blanc nacre (Designo Pearl White) et interieur cuir orange
+  BRABUS avec surpiquures diamantees — l'une des personnalisations les plus
+  frappantes et les plus valorisantes de la gamme BRABUS Masterpiece Interior.
+
+  Chaque BRABUS 800 est produit individuellement a la main dans les ateliers de
+  Bottrop (Allemagne). Ce vehicule est numérote et accompagne de son certificat
+  d'authenticite BRABUS.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [3] MOTORISATION — BASE MERCEDES-AMG G63 (avant preparation)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Type de moteur            : V8 biturbo — AMG M177 (4,0 litres)
+  Cylindree d'origine       : 3 982 cm3 (conservee sur BRABUS 800)
+  Puissance d'origine       : 585 ch (430 kW) a 6 000 tr/min
+  Couple d'origine          : 850 Nm a 2 500 – 3 500 tr/min
+  Architecture              : V8 a 90° — injection directe AMG
+  Refroidissement           : Eau — gestion thermique AMG
+  0-100 km/h (AMG serie)    : 4,5 secondes
+  Vitesse max (AMG serie)   : 220 km/h (limitee electroniquement)
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [4] MOTORISATION — PREPARATION BRABUS 800
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Designation BRABUS        : BRABUS 800 — V8 Bi-Turbo (base 4,0 litres)
+  Cylindree                 : 3 982 cm3 (inchangee — pas d'alesage supplementaire)
+  Puissance maximale        : 800 ch PS / 789 ch SAE / 588 kW a 6 600 tr/min  *** +215 ch ***
+  Couple maximum            : 1 000 Nm (737 lb-ft) a 3 600 tr/min              *** +150 Nm ***
+  Couple bride              : 1 000 Nm (limite electronique de protection boite)
+  Regime de puissance max   : 6 600 tr/min
+  Signification "800"       : 800 ch metriques (chevaux vapeur — PS)
+                              = 789 ch SAE (mesure anglo-saxonne)
+                              = 588 kW (mesure internationale SI)
+
+  Interventions BRABUS 800 sur le moteur :
+  • Remplacement complet des deux turbocompresseurs par des turbos BRABUS
+    de plus grande capacite (pression de suralimentation accrue)
+  • Nouveau radiateur de refroidissement plus grand (capacite augmentee)
+  • Systeme d'echappement inox BRABUS haute performance a vannes actives
+  • Downpipes 76 mm (vs 50 mm d'origine) pour meilleure evacuation gaz
+  • Remappage ECU complet : injection directe, allumage, suralimentation,
+    gestion couple/puissance (nouvelles cartographies BRABUS)
+  • Admission d'air renforcee — filtres haute capacite
+  • Pompes carburant haute pression renforcees (debit augmente)
+  • Cache moteur specifique BRABUS (capot avec dome de puissance)
+
+  Ce que BRABUS 800 ne touche PAS (contrairement au 900) :
+  • Vilebrequin — conserve d'origine
+  • Pistons — conserves d'origine
+  • Bielles — conservees d'origine
+  • Alesage et course — inchanges (raison pour laquelle prix < BRABUS 900)
+
+  Carburant requis          : Super Plus 98 RON minimum
+  Reservoir                 : 100 litres
+  Consommation urbaine      : environ 17-19 L/100 km
+  Consommation autoroute    : environ 12-14 L/100 km
+  Consommation mixte        : environ 14-16 L/100 km
+  Emissions CO2             : environ 310-340 g/km
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [5] PERFORMANCES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  0 a 100 km/h              : 4,1 secondes                               *** OFFICIEL BRABUS ***
+  0 a 60 mph                : 4,1 secondes
+  Vitesse maximale          : 240 km/h (149 mph) — limitee electroniquement
+  Vitesse max deplombee     : Superieure a 280 km/h (potentiel moteur)
+  Quart de mile (400 m DA)  : Environ 12,0 secondes (estime)
+  Gain vs AMG G63 de serie  : 0,4 seconde au 0-100 km/h (4,5 s → 4,1 s)
+                              20 km/h de vitesse max supplementaire
+  Couple disponible         : Des 1 500 tr/min — plein couple a 3 600 tr/min
+  Rapport poids/puissance   : env. 3,2 kg/ch (malgre 2 560 kg a vide)
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [6] TRANSMISSION & SYSTEME 4x4
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Boite de vitesses         : Automatique 9 rapports — AMG SPEEDSHIFT TCT 9G-TRONIC
+  Palettes au volant        : Palettes de vitesse aluminium ou carbone BRABUS
+  Transmission              : 4MATIC+ — 4 roues motrices permanentes
+  Repartition couple        : 40% avant / 60% arriere (bias arriere)
+  Differentiel central      : Blocage 100% (multiplaques electrohydraulique)
+  Differentiel avant        : Blocage 100% (crabot electromecanique)
+  Differentiel arriere      : Blocage 100% (crabot electromecanique)
+  Reducteur                 : Boite de transfert 2 gammes (LOW RANGE / HIGH RANGE)
+  Engagement blocages       : Sequence centre → arriere → avant
+  Launch Control            : Depart lance BRABUS — 0-100 optimise a 4,1 s
+  Note                      : 3 blocages de differentiel mecaniques —
+                              capacite tout-terrain exceptionnelle
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [7] CHASSIS, SUSPENSIONS & FREINS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Structure                 : Chassis echelle (ladder frame) — acier haute resistance
+  Suspension avant          : Double triangulation (wishbones) aluminium
+  Suspension arriere        : 4 bras longitudinaux + barre Panhard — essieu rigide
+  Amortisseurs              : AMG RIDE CONTROL+ — amortissement adaptatif reglable
+  Abaissement BRABUS        : Ressorts sport BRABUS — abaissement de 20 a 40 mm possible
+  Stabilisateurs            : Barres anti-roulis avant et arriere renforcees
+  Direction                 : Assistee electriquement — a cremaillere
+  Freins avant              : Disques ventiles multi-pistons — O 402 mm (base AMG)
+  Freins arriere            : Disques ventiles — O 360 mm
+  Freinage d'urgence        : PRE-SAFE Brake — freinage autonome preventif
+  ABS / ESP                 : Haute performance + ESP mode Sport/Sport+
+  Jantes BRABUS 800         : Monoblock forges — 23 ou 24 pouces selon version
+  Version Black & Gold      : Jantes 23 pouces BRABUS Monoblock Platinum Edition
+  Pneus                     : 305/35 R23 Advan Sport (selon version jantes)
+  Garde au sol              : 241 mm (base G63 W464)
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [8] DIMENSIONS & POIDS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Longueur totale           : 4 873 mm (base G63 W464)
+  Largeur base G63          : 1 931 mm (hors retroviseurs)
+  Elargissement BRABUS      : +100 mm avec kit Widestar (soit env. 2 031 mm)
+  Hauteur                   : 1 969 mm
+  Empattement               : 2 890 mm
+  Garde au sol              : 241 mm
+  Poids a vide              : environ 2 560 kg (avec preparation BRABUS)
+  PTAC                      : 3 175 kg
+  Capacite remorquage       : 3 500 kg
+  Places                    : 5 (2 avant + 3 arriere)
+  Volume coffre             : 688 litres — 1 941 litres (sieges rabattus)
+  Roue de secours           : Montee a l'arriere avec couvercle carbone BRABUS
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [9] CARROSSERIE & DESIGN EXTERIEUR BRABUS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Couleur exterieure        : Blanc Nacre — Designo Pearl White
+                              Peinture Designo triple couche nacree exclusive Mercedes
+  Kit carrosserie           : BRABUS Widestar — extensions d'ailes carbone
+                              +50 mm par cote (avant + arriere)
+  Capot                     : Dome de puissance BRABUS (Power Dome Hood)
+                              avec double bosse carbone — prises d'air RAM integrees
+  Bouclier avant            : Specifique BRABUS avec intakes RAM carbone
+  Fenders avant/arriere     : Ailes elargies carbone avec LEDs integrees —
+                              s'allument a l'ouverture des portes (Light Carpet)
+  Diffuseur arriere         : Carbone BRABUS avec sorties d'echappement laterales
+                              et terminaisons en acier inox poli
+  Aileron de toit           : Aileron sur le toit (selon version)
+  Marchepieds               : Retro-eclaires LED avec logo BRABUS
+  Jantes                    : BRABUS Monoblock forges 23 ou 24 pouces
+  Calandre                  : AMG specifique avec insignes BRABUS
+  Phares                    : LED High Performance de serie MULTIBEAM
+  Sorties echappement       : Laterales inox avec terminaisons chrome/carbone
+  Roue de secours           : Couvercle carbone BRABUS avec logo grave
+  Badges                    : Emblemes BRABUS — plaque numerotee individuelle
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [10] INTERIEUR — CUIR ORANGE BRABUS MASTERPIECE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Sellerie principale       : Cuir Nappa pleine fleur orange BRABUS
+  Surpiquures               : Surpiquures diamantees BRABUS — motif coquille
+                              (Shell quilting — signature exclusive Masterpiece)
+  Extension cuir            : Cuir orange etendu a l'integralite de l'habitacle :
+                              tableau de bord, panneaux de porte, console centrale,
+                              volant, plafond, plancher, coffre
+  Perforations              : Perforations microprecises sur sieges et portes —
+                              avec tissu colore (contrastant) visible sous les trous
+  Motif                     : Capitonnage coquille (Shell quilting) sur surfaces assises
+                              et panneaux de porte
+  Sieges avant              : Sport BRABUS a reglage electrique multipositions
+                              Chauffage + ventilation + massage
+  Sieges arriere            : Chauffants — cuir orange assortis
+  Volant                    : Sport AMG 3 branches cuir Nappa et fibre de carbone
+                              Palettes de vitesse carbone BRABUS
+  Compteurs                 : Cadran BRABUS echelle 300 km/h — logo central BRABUS
+  Pedalier                  : Aluminium/carbone BRABUS sport
+  Plaquettes de seuil       : Inox retro-eclaire avec logo BRABUS lumineux
+  Console BRABUS Touch      : Panneau tactile 4,3 pouces (versions arriere VIP)
+                              controle sieges/audio/liseuses/ciel etoile depuis l'arriere
+  Ciel etoile               : Headliner Starlight — plafond parseme de LED etoilees
+  Eclairage ambiance        : Multicolore LED — personnalisable (50+ couleurs)
+  Tapis de sol              : Velourssuédine sur mesure avec broderies BRABUS
+  Ceintures                 : Colorees en harmonie avec l'interieur orange
+  Mémoire positions         : Conducteur et passager
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [11] TECHNOLOGIE, CONNECTIVITE & MULTIMEDIA
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Ecran central             : Ecran tactile MBUX haute definition 12,3 pouces
+  Instrumentation           : Tableau de bord numerique 12,3 pouces
+  Navigation                : GPS integre haute definition — trafic temps reel
+  Apple CarPlay             : Oui — compatible
+  Android Auto              : Oui — compatible
+  Bluetooth                 : Multipoint — telephonie + streaming audio
+  USB                       : Ports USB avant + arriere
+  Audio                     : Systeme audio surround premium
+                              (Burmester 590W / 16 haut-parleurs en option AMG)
+  Cameras 360°              : Systeme 4 cameras (avant, arriere, cotes)
+  Capteurs parking          : Ultrasoniques avant + arriere
+  Regulateur adaptatif      : DISTRONIC PLUS — avec suivi de distance automatique
+  Commande vocale           : "Hey Mercedes" — MBUX
+  Demarrage                 : KEYLESS GO — demarrage sans cle
+  Toit ouvrant              : Panoramique electrique de serie
+  Pression pneus            : TPMS temps reel
+  App BRABUS                : BRABUS Connected Car App — controle a distance
+  Console BRABUS            : BRABUS Touch Control Panel 4,3 pouces (VIP arriere)
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [12] AIDES A LA CONDUITE & PACK SECURITE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  ABS                       : Haute performance — multi-canal avec EBD
+  ESP                       : Dynamic Stability Control + modes Sport/Sport+
+  Antipatinage              : ASR Traction Control adaptatif
+  Airbags                   : Frontaux conducteur/passager + lateraux thorax
+                              + rideaux tete avant et arriere
+  Freinage urgence          : PRE-SAFE Brake — detection pietons/vehicules
+                              + freinage d'urgence autonome
+  Freinage descente         : Assistance au freinage en descente
+  Depart cote               : Hill Start Assist
+  Angle mort                : Active Blind Spot Assist
+  Maintien voie             : Active Lane Keeping Assist
+  Regulateur adaptatif      : DISTRONIC PLUS avec Stop & Go
+  Surveillance fatigue      : ATTENTION ASSIST
+  Feux auto                 : Highbeam Assist — pleins phares auto
+  Alarme                    : Systeme d'alarme volumetrique
+  Antidemarrage             : Electronique AMG
+  TPMS                      : Surveillance pression pneus temps reel
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [13] MODES DE CONDUITE & SYSTEMES AMG
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  AMG Dynamic Select        : 5 modes — Comfort / Sport / Sport+ / Individual / Slippery
+  Mode Off-Road             : Off-Road Pro — gestion TT avancee
+  LOW RANGE                 : Rapport court pour franchissement extreme
+  Blocages 4x4              : 3 blocages mecaniques independants
+                              (centre → arriere → avant — engagement sequentiel)
+  Echappement actif         : 3 modes sonores — Quiet / Sport / Race
+  Launch Control            : 0-100 km/h optimise a 4,1 s
+  Overboost                 : Surpuissance temporaire disponible a plein gaz
+  Mode echappement          : Commande via console — sonoritee V8 biturbo personnalisable
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [14] LISTE COMPLETE DES EQUIPEMENTS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  -- SECURITE ACTIVE --
+  • ABS haute performance avec EBD
+  • ESP — Dynamic Stability Control
+  • Antipatinage ASR
+  • PRE-SAFE Brake — freinage autonome d'urgence
+  • Assistance au freinage en descente
+  • Active Blind Spot Assist — angles morts
+  • Active Lane Keeping Assist — maintien de voie
+  • DISTRONIC PLUS — regulateur adaptatif
+  • ATTENTION ASSIST — detection somnolence
+  • Highbeam Assist — phares automatiques
+  • Cameras 360° — 4 cameras exterieures
+  • Capteurs stationnement avant + arriere
+  • Surveillance pression pneus TPMS
+  • Airbags frontaux conducteur et passager
+  • Airbags lateraux thorax
+  • Airbags rideaux tete
+  • Antidemarrage electronique
+  • Alarme volumetrique
+  • PRE-SAFE — precharge ceintures en danger imminent
+
+  -- CONFORT & EQUIPEMENTS INTERIEURS BRABUS --
+  • Sellerie cuir Nappa pleine fleur orange BRABUS
+  • Surpiquures diamantees (Shell quilting) — motif coquille exclusif
+  • Extension cuir orange sur tableau de bord, portes, console, plancher
+  • Sieges avant sport electriques multipositions (chauffage + ventilation + massage)
+  • Sieges arriere chauffants
+  • Volant sport AMG cuir Nappa + fibre de carbone — commandes integrees
+  • Palettes de vitesse carbone BRABUS
+  • Fermeture centralisee sans cle KEYLESS GO
+  • Vitres electriques 4 vitres
+  • Retroviseurs electriques chauffants rabattables
+  • Accoudoir central cuir BRABUS
+  • Climatisation automatique multizone (Thermotronic — av + ar)
+  • Ciel etoile (Starlight headliner — LEDs plafond)
+  • Eclairage d'ambiance LED 64 couleurs multizone
+  • Toit ouvrant panoramique electrique
+  • Marchepieds retro-eclaires LED (Light Carpet BRABUS)
+  • Compteurs BRABUS — echelle 300 km/h
+  • Ceintures colorees orange assorties
+  • Tapis de sol sur mesure avec broderies BRABUS
+  • Memoire positions conducteur et passager
+  • Plaquettes de seuil inox retro-eclairees BRABUS
+
+  -- TECHNOLOGIE & CONNECTIVITE --
+  • Ecran tactile MBUX 12,3 pouces haute definition
+  • Tableau de bord numerique 12,3 pouces
+  • Navigation GPS integree
+  • Bluetooth telephonie + audio
+  • Apple CarPlay
+  • Android Auto
+  • Ports USB avant + arriere
+  • Systeme audio surround haut de gamme
+  • Commande vocale "Hey Mercedes" (MBUX)
+  • BRABUS Touch Control Panel 4,3 pouces (arriere)
+  • BRABUS Connected Car App
+  • Wi-Fi hotspot integre
+
+  -- SPECIFIQUE BRABUS 800 --
+  • Moteur 800 ch (588 kW) — 1 000 Nm — turbocompresseurs BRABUS
+  • Remappage ECU complet (injection + allumage + suralimentation)
+  • Systeme echappement inox BRABUS a vannes actives
+  • Sorties echappement laterales inox poli
+  • Downpipes 76 mm haute performance
+  • Radiateur de refroidissement renforce
+  • Capot Power Dome BRABUS avec prises d'air RAM
+  • Kit Widestar — ailes carbone +100 mm de largeur totale
+  • Bouclier avant BRABUS carbone avec intakes RAM
+  • Diffuseur arriere carbone + inserts LED
+  • Jantes BRABUS Monoblock forges 23 ou 24 pouces
+  • LEDs dans les passages de roues — s'activent a l'ouverture des portes
+  • Pedalier aluminium/carbone BRABUS
+  • Plaque de numerotation individuelle (numero de serie unique)
+  • Certificat BRABUS d'authenticite
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [15] COMPARATIF BRABUS 800 vs BRABUS 900
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+                            BRABUS 800          BRABUS 900
+  Cylindree                : 3 982 cm3          4 497 cm3 (+515 cm3)
+  Puissance                : 800 ch / 588 kW    900 ch / 662 kW
+  Couple                   : 1 000 Nm           1 250 Nm (bride a 1 050 Nm)
+  0-100 km/h               : 4,1 s              3,7 s
+  Vitesse max              : 240 km/h           280 km/h
+  Internals moteur         : Inchanges          Vilebrequin + pistons + bielles
+  Prix neuf (indicatif)    : 350 000-450 000 EUR  400 000-600 000 EUR
+  Niveau intervention      : Turbos + ECU       Reconstruction moteur complète
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [16] POSITIONNEMENT & CONCURRENTS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Ce vehicule               : 130 000 EUR — BRABUS 800 G63 — 2020 — 76 000 km
+  Mercedes-AMG G63 serie    : 585 ch — 140 000 EUR neuf
+  BRABUS 900 G63 2019       : 900 ch — 280 000 EUR (voir autre fiche)
+  Mansory G63 800+          : 800-900 ch — 350 000+ EUR
+  Lamborghini Urus Perf.    : 666 ch — 280 000 EUR neuf
+  Porsche Cayenne Turbo GT  : 640 ch — 230 000 EUR neuf
+  Bentley Bentayga Speed    : 635 ch — 270 000 EUR neuf
+
+  Atout de ce vehicule      : Combinaison unique blanc nacre + cuir orange BRABUS
+                              rarissime sur le marche de l'occasion.
+                              Prix tres attractif par rapport au neuf (130 000 vs 350 000+)
+                              800 ch certifies BRABUS avec garantie.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [17] BRABUS — HISTORIQUE & LEGITIMITE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  BRABUS a ete fonde en 1977 par Bodo Buschmann a Bottrop, Allemagne.
+  C'est le plus grand preparateur officiel Mercedes-Benz au monde — unique a
+  disposer d'un agrement constructeur permettant de conserver la garantie
+  d'origine Mercedes sur les vehicules modifies.
+
+  Chaque vehicule BRABUS est entierement demonte, prepare et ré-assemble a la
+  main a Bottrop. Un BRABUS 800 necessite plusieurs semaines de travail
+  impliquant plus de 40 artisans specialistes. BRABUS est present dans 70 pays
+  via 700 points de vente officiels dans le monde entier.
+
+  La combinaison chromatique orange/blanc nacre de ce vehicule est l'une des
+  personnalisations les plus exclusives du catalogue BRABUS Masterpiece Interior.
+  Chaque commande de ce type est unique — aucun autre BRABUS 800 ne possede
+  exactement la meme combinaison de couleurs, de surpiquures et de finitions.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Sources : BRABUS GmbH (brabus.com) — Motor1.com — Autoblog.com
+  Supercars.net — TopSpeed.com — AlainClass.com — HypeBeast.com
+  Specifications officielles BRABUS 800 Widestar (base W464 2020).
+  Tolerances performances : +/- 5% (donnees constructeur BRABUS).
+================================================================================

@@ -1,0 +1,486 @@
+================================================================================
+       FICHE VEHICULE — TOYOTA PRIUS PLUG-IN HYBRID (PHV/PHEV)
+       Generation IV Restylage 2019 · Hybride Rechargeable · Automatique e-CVT
+================================================================================
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [1] INFORMATIONS COMMERCIALES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Prix de vente             : 8 700 EUR
+  Cote marche europeen 2025 : 10 000 – 18 000 EUR selon finition, etat et km
+                              (references Argus : min 6 900 EUR / moy 15 000 EUR)
+  Prix neuf (2019)          : 36 900 – 40 650 EUR (France, selon finition)
+                              37 550 EUR (standard) / 39 600 EUR (avec toit solaire)
+  Recommendation prix       : Entre 12 000 et 16 000 EUR pour 59 000 km / 2019
+                              en tres bon etat avec garantie 18 mois
+  Origine                   : Importation Allemagne
+  Annee                     : Juillet 2019 (07/2019)
+  Kilometrage               : 59 000 km (certifie)
+  Etat accident             : Jamais accidente
+  Garantie                  : 18 mois chez le concessionnaire
+  Carburant                 : Hybride rechargeable (Essence + Electrique)
+  Boite de vitesses         : Automatique e-CVT (variation continue electronique)
+  Transmission              : Traction avant (Front-Wheel Drive)
+  Formalites                : Immatriculation et documents inclus dans le prix
+  Generation                : Prius IV facelift 2019 (ZVW52 / XW50 — Phase 2)
+  Designation annonce       : "El-Essence" = Electrique + Essence (PHEV)
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [2] POINT IMPORTANT — CLARIFICATION PUISSANCE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Puissance annoncee        : 201 CH dans l'annonce
+  Puissance reelle 2019     : 122 CH (systeme hybride cumule : moteur thermique
+                              98 ch + moteur(s) electrique(s) 92 ch en EV)
+
+  EXPLICATION :
+  La puissance de 201 ch correspond a la 5e generation de la Prius PHEV
+  (lancee en 2023), et non a la generation 2019.
+
+  La Prius Plug-in Hybrid IV (2019) developpe :
+    - Moteur essence 1.8 L     : 98 ch (72 kW)
+    - Moteur electrique MG1    : dédié a la gestion de puissance
+    - Moteur electrique MG2    : dédié a la propulsion
+    - Puissance EV combinee    : 92 ch (en mode tout electrique)
+    - Puissance systeme HSD    : 122 ch (puissance nette systeme — officielle Toyota)
+
+  La puissance systeme de 122 ch est la reference homologuee officielle.
+  Il est conseille de verifier aupres du vendeur la version exacte du vehicule.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [3] PRESENTATION GENERALE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  La Toyota Prius Plug-in Hybrid (PHV) est la version rechargeable sur prise
+  externe de la Prius classique. Elle represente le summum de la technologie
+  hybride Toyota de sa generation, en ajoutant a la Prius IV une batterie
+  lithium-ion de 8,8 kWh (double de la generation precedente) permettant de
+  rouler jusqu'a 50 km en tout-electrique, avant de basculer sur le mode
+  hybride conventionnel.
+
+  La version 2019 correspond au facelift de la Prius IV (XW50 Phase 2),
+  qui apporte 5 places (contre 4 pour la version pre-facelift), une
+  retouche esthetique interieure (accents noirs remplacant les blancs),
+  de nouveaux coloris et des jantes 17 pouces specifiques sur certaines
+  versions. La consommation theorique annoncee est de 1 L/100 km en cycle
+  NEDC — ce qui en fait l'une des voitures les plus economiques de son epoque.
+
+  Ce vehicule est particulierement adapte aux usages mixtes : trajets
+  quotidiens courts (<40 km) en tout-electrique, et longues distances
+  sans aucune contrainte d'autonomie grace au mode hybride automatique.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [4] GROUPE MOTOPROPULSEUR — HYBRID SYNERGY DRIVE (HSD)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Technologie               : Toyota Hybrid Synergy Drive (HSD) 3e generation
+  Systeme                   : 1 moteur thermique + 2 moteurs-generateurs electriques
+                              + batterie Li-ion + electronique de gestion HSD
+
+  --- MOTEUR THERMIQUE ---
+  Type                      : 4 cylindres en ligne — Cycle Atkinson
+  Cylindree                 : 1 798 cm3 (1,8 litres)
+  Puissance thermique       : 98 ch (72 kW) a 5 200 tr/min
+  Couple thermique          : 142 Nm a 3 600 tr/min
+  Taux de compression       : 13,0:1 (tres eleve — caracteristique cycle Atkinson)
+  Rendement thermique       : 40% — record mondial de rendement sur moteur de serie (2019)
+  Alimentation              : Injection indirecte — cycle Atkinson
+  Refroidissement           : Eau
+  Note                      : Le cycle Atkinson optimise le rendement thermique
+                              au detriment de la puissance brute — ideal en hybride
+
+  --- MOTEURS ELECTRIQUES ---
+  Moteur MG1                : Generateur-demarreur — permet le demarrage du thermique
+                              et assure la repartition de puissance via planétaire
+  Moteur MG2                : Moteur de propulsion + generateur de freinage regeneratif
+  Puissance EV combinee     : 92 ch (68 kW) en mode tout electrique
+  Vitesse max en mode EV    : 135 km/h (vitesse totalement electrique — record PHEV)
+  Type moteurs              : Moteurs synchrones a aimants permanents (PSM)
+
+  --- SYSTEME COMBINE ---
+  Puissance nette systeme   : 122 ch (90 kW) — valeur officielle homologuee Toyota
+  Boite de vitesses         : e-CVT — Variateur electronique de vitesses (Planetary Gear)
+                              pas de rapports classiques — variation continue electronique
+  Transmission              : Traction avant
+
+  --- BATTERIE ---
+  Type                      : Lithium-Ion (Li-ion)
+  Capacite brute            : 8,8 kWh
+  Capacite utile            : 6,8 kWh (77% utilisable)
+  Tension batterie          : 345,6 V
+  Technologie               : Cellules pouch format — haute densite energetique
+  Position                  : Sous le plancher du coffre arriere
+  Poids batterie            : 120 kg
+  Garantie batterie Toyota  : 5 ans / 100 000 km
+                              (extensible a 10 ans avec controle de sante hybride annuel)
+  Note                      : Batterie 2x plus grande que la gen precedente (4,4 kWh → 8,8 kWh)
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [5] RECHARGE — MODES ET TEMPS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Puissance de charge max.  : 3,3 kW (monophase — type AC uniquement)
+  Charge rapide DC          : NON disponible — charge AC uniquement
+  Connecteur                : Type 2 (standard europeen) — inclus dans la livraison
+
+  Temps de charge complets :
+    Prise domestique 230V / 2,3 kW   : environ 3 h 10 min
+    Borne 3,3 kW (puissance max)     : environ 2 h 30 min
+    Borne wallbox 3,7 kW             : environ 2 h 00 (limite a 3,3 kW)
+
+  Options de recharge incluses :
+    2 cables de recharge fournis de serie (prise secteur + Type 2)
+
+  Recharge via toit solaire :
+    Option toit photovoltaique disponible (certaines versions) :
+    apport solaire equivalent a environ 4-5 km/jour de charge supplementaire
+    (en conditions d'ensoleillement optimales — pays du sud de l'Europe)
+
+  Recharge en roulant :
+    Mode "Battery Charge" — recharge la batterie via le moteur thermique
+    (augmente la consommation essence — usage deconseille en usage normal)
+    Freinage regeneratif — recupere l'energie a chaque deceleration/freinage
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [6] AUTONOMIE & PERFORMANCES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Autonomie EV (NEDC)       : 63 km (tout electrique — cycle officiel)
+  Autonomie EV (WLTP)       : 50 km (cycle mixte) — 45 km (cycle combine)
+  Autonomie EV reelle       : 35 – 42 km selon style de conduite et temperature
+  Vitesse max en EV         : 135 km/h — maintien electrique jusqu'a 135 km/h
+  Autonomie totale NEDC     : Environ 1 000 km (batterie pleine + reservoir essence)
+  Reservoir essence         : 43 litres
+
+  0 a 100 km/h (systeme)   : 11,1 secondes
+  0 a 60 mph                : 10,5 secondes (estime)
+  Vitesse maximale          : 162 km/h (bridee electroniquement)
+  Vitesse max mode HV       : 180 km/h (mode hybride normal — selon sources)
+
+  Consommation theorique NEDC : 1,0 – 1,2 L/100 km (batterie pleine — cycle NEDC)
+  Consommation WLTP          : 1,0 – 1,5 L/100 km (cycle mixte batterie pleine)
+  Consommation batterie vide : 4,5 – 5,5 L/100 km (mode hybride normal)
+  Consommation essai reel    : 3,6 L/100 km (sur 500 km mixte — source : Moniteur Auto)
+  Emissions CO2 (NEDC)       : 22 g/km (officiel — avec batterie chargee)
+  Emissions CO2 (WLTP)       : 28 – 29 g/km (officiel)
+  Emissions CO2 (batterie vide): 90-100 g/km (mode hybride uniquement)
+  Norme antipollution       : Euro 6
+  Vignette CRIT'Air         : 1 (France — avantages zones ZFE)
+  Avantage fiscal           : Exoneration totale TVS en France (vehicule de societe)
+                              Eligible bonus ecologique a l'achat (en 2019)
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [7] MODES DE CONDUITE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Mode EV                   : Tout electrique — moteur thermique coupe
+                              Silencieux, zero emission locale
+                              Vitesse max : 135 km/h — Autonomie : 35-42 km reel
+  Mode EV City              : Electrique a puissance reduite pour conduite urbaine douce
+  Mode HV                   : Hybride normal — alternance electrique/thermique automatique
+                              basculement auto si batterie insuffisante ou demande elevee
+  Mode Battery Charge       : Recharge active de la batterie en roulant via le thermique
+                              (augmente la consommation — usage circonstanciel)
+  Mode Power                : Boost de puissance maximale — thermique + electrique en simultanee
+  Mode Eco                  : Optimisation consommation — limitation chauffage/clim/acceleration
+
+  Transition modes          : Passage automatique et imperceptible entre thermique et electrique
+                              Aucun a-coup — gestion electronique seamless (sans couture)
+  Note pilotage             : Le systeme HSD gere automatiquement la repartition d'energie —
+                              le conducteur n'a pas besoin d'intervenir manuellement
+                              sauf s'il souhaite forcer un mode specifique
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [8] CHASSIS, SUSPENSIONS & FREINS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Plateforme                : TNGA (Toyota New Global Architecture) — GA-C
+  Structure                 : Monocoque acier — rigidite en torsion renforcee de 60%
+                              vs generation precedente grace a la plateforme TNGA
+  Suspension avant          : Jambes de force MacPherson — ressorts helicoidaux
+  Suspension arriere        : Double triangles independants
+                              (progression vs poutre de torsion Prius III)
+                              Renforcee pour supporter le poids de la batterie PHEV
+  Direction                 : Assistee electriquement — a cremaillere
+  Diametre de braquage      : 10,2 m
+  Freins avant              : Disques ventiles — O 260 mm
+  Freins arriere            : Disques — O 259 mm
+  Freinage regeneratif      : Systeme de recuperation d'energie au freinage de serie
+                              (convertit l'energie cinetique en electricite)
+  ABS                       : De serie + EBD
+  ESP                       : VSC (Vehicle Stability Control) — Toyota de serie
+  Pneumatiques              : 195/65 R15 (serie) — 215/45 R17 (option 17 pouces)
+  Jantes                    : Alliage 15 pouces bi-ton (serie) — 17 pouces en option 2019
+  Garde au sol              : 135 mm
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [9] DIMENSIONS & POIDS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Longueur totale           : 4 645 mm (+ 165 mm vs Prius classique)
+  Largeur totale            : 1 760 mm (hors retroviseurs)
+  Hauteur                   : 1 470 mm
+  Empattement               : 2 700 mm
+  Voie avant                : 1 525 mm
+  Voie arriere              : 1 520 mm
+  Diametre de braquage      : 10,2 m
+  Poids a vide (DIN)        : 1 505 – 1 563 kg
+  Poids a vide (EU)         : 1 605 kg (+ 180 kg vs Prius hybride standard)
+  Exces de poids            : +180 kg du fait de la batterie Li-ion 8,8 kWh (120 kg)
+  PTAC                      : 1 990 kg
+  Volume coffre             : 360 litres (banquette en place)
+                              Note : reduit vs Prius classique (502 L) a cause batterie
+  Volume coffre max.        : environ 1 200 litres (banquette rabattue)
+  Nombre de places          : 5 (facelift 2019 — avant : 4 places uniquement)
+  Reservoir essence         : 43 litres
+  Coefficient Cx            : 0,25 (aérodynamisme classe mondiale)
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [10] DESIGN EXTERIEUR
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Carrosserie               : Berline compacte 5 portes — 5 places (facelift 2019)
+  Specificite PHV           : Distincte de la Prius classique par :
+                              Phares avant a 4 LED horizontaux (signature unique PHV)
+                              Feux arriere LED specifiques (s'etendant sur tout le hayon)
+                              Badges "Plug-in Hybrid" sur les ailes avant
+                              Trappe de recharge (cote conducteur — avant gauche)
+  Phares avant              : 4 LED en configuration horizontale — signature PHV
+  Antibrouillards           : LED — integres dans le bouclier avant
+  Feux arriere              : LED pleine largeur — etendus sur la totalite du hayon
+  Retroviseurs              : Electriques, chauffants, rabattables
+  Antenne                   : Antenne de toit requin (shark fin)
+  Vitres                    : Electriques 4 vitres
+  Cx                        : 0,25 — l'un des meilleurs du marche en 2019
+  Option toit solaire       : Toit photovoltaique disponible en option (certains marches)
+  Couleurs 2019             : Blanc nacre bi-ton, Noir magic, Gris platine,
+                              Bleu argent, Argent selenite, Nouveau : Noir metallise (2019)
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [11] INTERIEUR & FINITIONS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Tableau de bord           : Instrumentation centrale — ecran TFT 4,2 pouces x2
+                              (vitesse + infos hybride / multimedia / ADAS)
+  Ecran central             : Toyota Touch & Go Plus 2 — ecran tactile 8 pouces
+                              haute resolution
+  Commandes                 : Commandes vocales de serie
+  Specificite facelift 2019 : Accents noirs (vs blancs sur version pre-2019)
+                              Sellerie tissu updated — coutures specifiques
+  Sieges avant              : Chauffants — support lombaire electrique conducteur
+  Sieges arriere            : 3 places (facelift 2019 — 5e place installee)
+  Accoudoir avant           : Avec rangements integres
+  Accoudoir arriere         : Escamotable avec rangements
+  Retroviseur interieur     : Anti-eblouissement automatique (electrochrome)
+  Retroviseurs exterieurs   : Degivrants + rabattables electriquement
+  Fermeture                 : Smart Entry & Start — ouverture/demarrage sans cle
+                              (conducteur, passager et coffre)
+  Vitres                    : Electriques 4 vitres
+  Capteur de pluie          : De serie
+  Volant                    : Multifonctions — commandes audio, telephone,
+                              navigation et ordinateur de bord
+  Prise 12V                 : Avant + arriere de serie
+  Chargeur induction        : Chargeur Qi sans fil de serie (selon marche)
+  Coffre                    : 360 litres — trappe d'acces organiques sous le plancher
+                              (batterie logee sous le coffre — plancher plus haut)
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [12] TECHNOLOGIE & CONNECTIVITE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Systeme multimedia        : Toyota Touch & Go Plus 2
+  Ecran tactile             : 8 pouces haute resolution
+  Navigation GPS            : GPS integre avec cartographie 3D — 3 ans mises a jour
+  Bluetooth                 : Telephonie + streaming audio de serie
+  USB / AUX                 : Prise USB + prise auxiliaire de serie
+  Compatibilite             : iPod / smartphone
+  Audio                     : Radio DAB — 6 haut-parleurs
+  Camera de recul           : De serie — avec lignes de guidage dynamiques
+  Commande vocale           : Reconnaissance vocale de serie
+  Ordinateur de bord        : Double ecran TFT 4,2 pouces multifonctions
+  Climatisation             : Pompe a chaleur — automatique bizone
+                              avec detection de presence des passagers
+  Note pompe a chaleur      : Systeme unique — extrait chaleur de l'air exterieur
+                              pour chauffer l'habitacle (2x plus efficace que chauffage
+                              electrique direct — preserve l'autonomie electrique en hiver)
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [13] AIDES A LA CONDUITE & SECURITE ACTIVE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Toyota Safety Sense (TSS) : Pack securite complet de serie — comprend :
+  Pre-Collision System      : Detection pietons + cyclistes + voitures — freinage auto
+  Lane Departure Alert      : Alerte franchissement de voie
+  Automatic High Beam       : Gestion automatique pleins phares
+  Radar Cruise Control      : Regulateur de vitesse adaptatif avec radar
+  ABS / EBD                 : De serie — freinage optimise
+  VSC                       : Vehicle Stability Control (ESP Toyota)
+  Antipatinage              : Traction Control de serie
+  Freinage regeneratif      : Recuperation energie au freinage — contribue a l'efficacite
+  Airbags frontaux          : Conducteur et passager
+  Airbags lateraux          : Thorax conducteur et passager
+  Airbags rideaux           : Avant et arriere (tete)
+  Airbag genoux             : Conducteur
+  Surveillance pneus        : TPMS de serie
+  Camera de recul           : De serie
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [14] LISTE COMPLETE DES EQUIPEMENTS DE SERIE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  -- SECURITE ACTIVE (TOYOTA SAFETY SENSE) --
+  • Pre-Collision System — detection pietons/cyclistes + freinage autonome
+  • Radar Cruise Control — regulateur adaptatif avec suivi de distance
+  • Lane Departure Alert — alerte franchissement de voie
+  • Automatic High Beam — gestion automatique pleins phares
+  • ABS avec repartition electronique du freinage (EBD)
+  • VSC — Vehicle Stability Control (controle stabilite)
+  • Traction Control (antipatinage)
+  • Freinage regeneratif de serie
+  • Airbags frontaux conducteur et passager
+  • Airbags lateraux thorax
+  • Airbags rideaux tete avant et arriere
+  • Airbag genoux conducteur
+  • Surveillance pression pneus TPMS
+  • Camera de recul avec lignes de guidage
+
+  -- GROUPE MOTOPROPULSEUR PHEV --
+  • Moteur 1.8 L Cycle Atkinson 98 ch (rendement 40% record mondial)
+  • Batterie Li-ion 8,8 kWh (double generation precedente)
+  • 2 moteurs electriques synchrones a aimants permanents (PSM)
+  • Autonomie EV : 50 km (NEDC) / ~40 km (reel)
+  • Mode EV : vitesse max 135 km/h en tout electrique
+  • Boite e-CVT electronique (sans rapport, sans a-coup)
+  • 2 cables de recharge fournis (secteur + Type 2)
+  • Connecteur Type 2 de serie
+  • Toit photovoltaique en option
+
+  -- CONFORT & EQUIPEMENTS INTERIEURS --
+  • Sieges avant chauffants
+  • Support lombaire electrique (conducteur)
+  • Smart Entry & Start — ouverture et demarrage sans cle (3 points : portiere cv, pax, coffre)
+  • Climatisation automatique bizone avec pompe a chaleur
+  • Capteur de pluie (essuie-glaces automatiques)
+  • Vitres electriques 4 vitres
+  • Retroviseurs exterieurs electriques, chauffants, rabattables
+  • Retroviseur interieur anti-eblouissement automatique
+  • Accoudoir central avant avec rangements
+  • Accoudoir central arriere escamotable
+  • Chargeur de smartphone par induction Qi (selon version)
+  • Prises 12V avant et arriere
+  • 5 places (version facelift 2019)
+
+  -- TECHNOLOGIE & CONNECTIVITE --
+  • Ecran tactile 8 pouces Toyota Touch & Go Plus 2
+  • Navigation GPS avec cartographie 3D et 3 ans de mises a jour
+  • Bluetooth telephonie + audio
+  • Prise USB + prise auxiliaire
+  • Radio DAB (digital)
+  • 6 haut-parleurs
+  • Commandes vocales
+  • Camera de recul avec lignes de guidage
+  • Ordinateur de bord double ecran TFT 4,2 pouces
+  • Volant multifonctions (audio + telephone + navigation)
+
+  -- EXTERIEURS --
+  • Phares avant 4 LED (signature PHV)
+  • Antibrouillards LED
+  • Feux arriere LED pleine largeur
+  • Jantes alliage 15 pouces bi-ton (option 17 pouces)
+  • Antenne requin
+  • Trappe de recharge (gauche avant)
+  • Badges Plug-in Hybrid
+  • Cx 0,25 — aerodynamique exceptionnel
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [15] POINTS FORTS & POINTS DE VIGILANCE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Points forts              :
+  • Fiabilite Toyota legendaire — la Prius est la reference en matiere de
+    durabilite des groupes motopropulseurs hybrides (taxis Prius avec 500 000+ km)
+  • Moteur cycle Atkinson avec rendement 40% — record mondial en serie (2019)
+  • Batterie Li-ion avec garantie Toyota 5 ans / 100 000 km extensible a 10 ans
+  • Consommation tres faible en usage mixte urbain/route (<4 L/100 km en reel)
+  • Vignette CRIT'Air 1 — acces libre aux ZFE (Zones a Faible Emission)
+  • Freinage regeneratif — preserve les plaquettes (entretien reduit)
+  • Toyota Safety Sense complet de serie — l'un des meilleurs packs ADAS de 2019
+  • Facelift 2019 = 5 places (amelioration notable vs version 4 places pre-2019)
+  • Faible kilometrage : 59 000 km pour un vehicule de 2019
+
+  Points de vigilance       :
+  • Volume de coffre limite a 360 L (batterie sous le plancher)
+  • Pas de 3e place a l'arriere avant le facelift 2019 — verifier date precise
+  • Puissance de 122 ch (systeme) — vehicule oriente efficacite, pas performance
+  • Pas de charge rapide DC (3,3 kW max) — recharge lente en borne rapide
+  • Pompe a chaleur : verifier son bon fonctionnement (entretien specifique)
+  • Plancher coffre legerement plus haut (batterie) — seuil de coffre eleve
+  • Verifier historique de recharge (vehicule souvent ou rarement branche ?)
+  • Verifier etat batterie principale (test de capacite recommande a l'achat)
+  • Puissance annoncee (201 ch) ne correspond pas a ce modele — verifier avec vendeur
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [16] POSITIONNEMENT & CONCURRENTS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Ce vehicule               : Toyota Prius PHEV 2019 — 59 000 km — garantie 18 mois
+  Volkswagen Golf GTE 2019  : 245 ch — 8,7 kWh — cote 2025 : 18 000-25 000 EUR
+  Hyundai IONIQ PHEV 2019   : 141 ch — 8,9 kWh — cote 2025 : 12 000-18 000 EUR
+  KIA Niro PHEV 2019        : 141 ch — 8,9 kWh — cote 2025 : 14 000-20 000 EUR
+  Mercedes C350e 2019       : 286 ch — 6,2 kWh — cote 2025 : 20 000-30 000 EUR
+  Peugeot 308 SW PHEV 2019  : non disponible en 2019 (arrive en 2021)
+
+  Atout Prius PHV           : Autonomie EV de 50 km — record de son epoque.
+                              Vitesse electrique jusqu'a 135 km/h — unique segment.
+                              Fiabilite Toyota incomparable — valeur residuelle elevee.
+                              Kilometrage tres faible (59 000 km) pour une 2019.
+                              Vignette CRIT'Air 1 — atout en zones a restriction.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [17] HISTORIQUE & ADN PRIUS PLUG-IN HYBRID
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Toyota a lance la revolution hybride en 1997 avec la premiere Prius —
+  premiere voiture hybride produite en grande serie dans le monde. La Prius
+  Plug-in Hybrid (PHV) est apparue en 2012 avec la 3e generation avant d'etre
+  profondement modernisee en 2017 sur base de la Prius IV (XW50) avec la
+  plateforme TNGA.
+
+  Ce vehicule (2019) correspond au facelift de la generation XW50, qui apporte :
+  une 5e place arriere, une retouche esthetique interieure (accents noirs),
+  de nouveaux coloris et des jantes 17 pouces en option. La batterie de 8,8 kWh
+  est double de la version originale (4,4 kWh) et offre l'une des meilleures
+  autonomies electriques de sa categorie en 2019 (50 km NEDC).
+
+  Toyota a vendu 2 millions de vehicules hybrides en Europe en 2018.
+  La fiabilite des groupes motopropulseurs Toyota Hybrid Synergy Drive est
+  reconnue mondialement : les taxis Prius atteignent regulierement 400 000 a
+  500 000 km sans intervention majeure sur le groupe motopropulseur.
+  La garantie batterie Toyota (5 ans / 100 000 km, extensible a 10 ans)
+  est l'une des plus genereusets du secteur PHEV.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Sources : Toyota Motor Europe — Automobile-Propre.com — BreezCar.com
+  Moniteur Automobile — Wikipedia Prius — DiscoverEV.co.uk
+  UltimateSpecs.com — L'Argus.fr (cote occasion 2025)
+  Specifications officielles Prius IV PHV (ZVW52 — Phase 2 facelift 2019).
+================================================================================

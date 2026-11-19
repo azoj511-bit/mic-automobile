@@ -1,0 +1,153 @@
+================================================================================
+                    FICHE TECHNIQUE COMPLETE
+                    LAND ROVER RANGE ROVER EVOQUE P300e
+                    R-DYNAMIC SE (HYBRIDE RECHARGEABLE)
+================================================================================
+
+PRIX DE VENTE : 16.000 Euros
+GARANTIE : 24 MOIS
+ORIGINE : Importation Allemande
+
+================================================================================
+                    IDENTIFICATION DU VEHICULE
+================================================================================
+
+Marque                  : Land Rover
+Modele                  : Range Rover Evoque P300e R-Dynamic SE
+Generation              : L551
+Annee                   : 2021
+Kilometrage             : 25.000 km (Certifie)
+Carburant               : Essence (Hybride rechargeable PHEV)
+Boite de vitesses       : Automatique (8 rapports)
+Puissance systeme       : 309 CH
+
+================================================================================
+                    MOTORISATION
+================================================================================
+
+MOTEUR THERMIQUE :
+Code moteur             : Ingenium AJ20-P4 (1.5L 3 cylindres turbo)
+Type                    : 3 cylindres en ligne turbocompresse
+Cylindree               : 1.497 cm3 (1.5L)
+Puissance thermique     : 200 ch (147 kW)
+Couple thermique        : 280 Nm
+
+MOTEUR ELECTRIQUE :
+Puissance electrique    : 109 ch (80 kW)
+Couple electrique       : 260 Nm
+Position                : Essieu arriere
+
+SYSTEME COMBINE :
+Puissance systeme       : 309 ch (227 kW)
+Couple systeme          : 540 Nm
+
+BATTERIE :
+Capacite                : 15 kWh
+Autonomie electrique    : 55-62 km (WLTP)
+Temps de charge (7kW)   : ~2h
+Temps de charge (2,3kW) : ~6h30
+Type                    : Lithium-ion
+
+Norme antipollution     : Euro 6d
+Emission CO2            : 32-44 g/km (WLTP)
+
+================================================================================
+                    TRANSMISSION
+================================================================================
+
+Boite de vitesses       : Automatique ZF 8 rapports
+Transmission            : 4 roues motrices (AWD)
+                          Thermique = essieu avant
+                          Electrique = essieu arriere
+
+================================================================================
+                    PERFORMANCES
+================================================================================
+
+Vitesse max             : 213 km/h
+0-100 km/h              : 6,4 secondes
+Vitesse max electrique  : 135 km/h
+Consommation mixte WLTP : 1,4-1,9 L/100km (cycle PHEV)
+Consommation batterie vide : ~8,5-9,5 L/100km
+Capacite reservoir      : 57 litres
+
+================================================================================
+                    DIMENSIONS ET POIDS
+================================================================================
+
+Longueur                : 4.371 mm
+Largeur                 : 1.904 mm (retros replies)
+Hauteur                 : 1.649 mm
+Empattement             : 2.681 mm
+Garde au sol            : 212 mm
+Profondeur de gue       : 600 mm
+Coffre                  : 472 litres (1.156 litres banquette rabattue)
+Poids a vide            : 1.920-1.995 kg
+PTAC                    : 2.480 kg
+Capacite remorquage     : 1.600 kg
+
+================================================================================
+                    EQUIPEMENTS R-DYNAMIC SE
+================================================================================
+
+EXTERIEUR :
+- Kit carrosserie R-Dynamic (boucliers sport, calandre satin)
+- Jantes alliage 20" R-Dynamic
+- Phares LED Premium avec signature DRL
+- Feux arriere LED
+- Toit contrasten (option)
+- Hayon electrique mains libres
+
+INTERIEUR :
+- Pivi Pro avec double ecran (10" + 10")
+- Cockpit numerique 12,3"
+- Sellerie cuir graine Windsor (option)
+- Sieges chauffants avant
+- Volant cuir chauffe multifonctions
+- Climatisation automatique bi-zone
+- Meridian Sound System
+- Apple CarPlay / Android Auto sans fil
+- Navigation avec mises a jour OTA
+- Eclairage d'ambiance
+- Chargement sans fil
+- Demarrage sans cle
+
+TOUT-TERRAIN ET CONDUITE :
+- Terrain Response 2
+- ATPC (All-Terrain Progress Control)
+- Hill Descent Control
+- ClearSight Ground View (camera sous la voiture)
+
+SECURITE :
+- Emergency Braking
+- Lane Keep Assist
+- Driver Condition Monitor
+- Cruise Control adaptatif
+- Camera de recul
+- Capteurs de stationnement avant et arriere
+- Aide au stationnement
+- 6 airbags
+
+================================================================================
+                    ANALYSE DU MARCHE EUROPEEN
+================================================================================
+
+Prix du marche europeen (Evoque P300e R-Dynamic SE 2021, ~25.000 km) :
+- Fourchette constatee     : 38.000 - 46.000 EUR
+- Prix moyen               : ~41.000 EUR
+
+Le prix propose de 16.000 EUR est tres nettement inferieur
+au marche europeen.
+
+================================================================================
+                    CONDITIONS DE VENTE
+================================================================================
+
+- Garantie : 24 mois
+- Importation Allemande, garantie europeenne
+- Livraison a domicile sous 5 jours
+- Retractation 14 jours (Satisfait ou rembourse)
+- Paiement en mensualites possible (apport minimum 20%)
+- Reduction de 15% pour achat comptant
+
+================================================================================

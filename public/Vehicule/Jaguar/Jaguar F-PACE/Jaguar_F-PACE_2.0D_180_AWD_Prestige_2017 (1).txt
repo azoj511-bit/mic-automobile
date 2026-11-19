@@ -1,0 +1,510 @@
+================================================================================
+       FICHE VEHICULE — JAGUAR F-PACE 2.0D 180 AWD PRESTIGE (X761)
+       SUV Premium 5 portes · 180 ch · Automatique BVA8 · Diesel · 2017
+================================================================================
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [1] INFORMATIONS COMMERCIALES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Prix de vente             : 3 800 EUR (prix annonce)
+  Remise comptant (15%)     : 3 230 EUR si paiement comptant a la commande
+  Financement disponible    : Apport minimum 20% + reste en mensualites sans interet
+  Origine                   : Importation Allemagne — valable dans toute l'Europe
+  Annee                     : 2017
+  Kilometrage               : 106 700 km (certifie)
+  Carburant                 : Diesel
+  Boite de vitesses         : Automatique 8 rapports (BVA8)
+  Transmission              : AWD — 4x4 integrale permanente
+  Finition                  : Prestige (2e niveau gamme — au-dessus de Pure)
+  Garantie                  : 24 mois — Garantie europeenne
+  Entretien                 : OK (mentionne dans l'annonce — a verifier factures)
+  Puissance fiscale         : 10 ou 11 CV selon annee immatriculation
+  Prix neuf (2017)          : 55 475 EUR (Prestige 2.0D 180 AWD BVA8)
+  Cote marche europeen 2025 : 8 000 – 14 000 EUR (selon etat et historique)
+  Economie vs neuf          : -51 675 EUR (93% de moins que le prix neuf)
+
+  DECODAGE DU TITRE ANNONCE :
+    Prestige    = Finition Prestige Jaguar F-Pace
+    Meridien    = Systeme audio Meridian Premium (11 ou 12 haut-parleurs)
+    4x4         = Transmission integrale AWD
+    Pano        = Toit ouvrant panoramique
+    Keyless     = Acces et demarrage sans cle (Smart Entry & Drive)
+    Webasto     = Chauffage auxiliaire Webasto (chauffage stationnaire)
+    Xenon       = Phares au Xenon (bixenon)
+    Skin        = Sellerie cuir (Skin = cuir en allemand)
+    Crochet     = Crochet d'attelage
+    Croisiere   = Regulateur de vitesse
+    Cuir        = Confirme sellerie cuir
+    Isofix      = Points d'ancrage sieges enfants
+    ACC         = Adaptive Cruise Control (regulateur adaptatif radar)
+    Led         = Feux LED (feux de jour LED)
+    Camera recul= Camera de recul arriere
+    Navi        = Navigation GPS integree
+    DAB+        = Radio numerique DAB+ (Digital Audio Broadcasting)
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [2] PRESENTATION GENERALE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Le Jaguar F-Pace (X761) est le premier SUV de l'histoire de Jaguar, lance en
+  2016. Dessine par Ian Callum (le meme designer que la F-Type et la XE), il
+  a ete elu "Voiture Mondiale de l'Annee 2017" et "SUV de l'Annee 2017"
+  par le World Car Awards — la plus haute distinction de l'industrie automobile.
+
+  Il repose sur la plateforme iQ[Al] en aluminium de Jaguar (la meme que la XE),
+  ce qui lui confere un comportement dynamique exceptionnel pour un SUV,
+  une rigidite en torsion superieure a celle de la plupart de ses concurrents
+  acier, et un centre de gravite tres bas pour sa categorie (batterie/moteur
+  positionnes tres bas).
+
+  La version 2.0D 180 AWD Prestige (2017) est l'entree dans le diesel sur
+  base AWD. Le moteur Ingenium 2.0D (developpe en interne par JLR) developpe
+  180 ch et 430 Nm, associe a la boite ZF 8HP automatique de reference.
+  La finition Prestige inclut des equipements de confort substantiels vs la
+  finition Pure de base : audio Meridian, navigation GPS, cuir, capteurs,
+  eclairage xenon...
+
+  Ce vehicule specifique est particulierement bien equipe avec l'ACC radar,
+  le toit panoramique, le systeme Meridian, le chauffage stationnaire Webasto,
+  la navigation GPS, le DAB+, la camera de recul et le crochet d'attelage —
+  un ensemble peu frequent en finition Prestige standard.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [3] MOTORISATION — JAGUAR INGENIUM 2.0D 180
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Type de moteur            : 4 cylindres en ligne — Diesel turbocompresse
+  Designation JLR           : Ingenium 2.0D 180 — AJ200D
+  Cylindree                 : 1 999 cm3 (2,0 litres)
+  Alesage x Course          : 83,0 mm x 92,4 mm
+  Nombre de soupapes        : 16 (4 par cylindre)
+  Puissance maximale        : 180 ch (132 kW) a 4 000 tr/min
+  Couple maximum            : 430 Nm de 1 750 a 2 500 tr/min
+  Puissance specifique      : 90 ch/litre
+  Taux de compression       : 15,5:1
+  Alimentation              : Injection Common Rail haute pression
+  Suralimentation           : Turbocompresseur a geometrie variable (VGT)
+                              + echangeur thermique intercooler
+  Distribution              : DOHC — 16 soupapes
+  Materiau bloc              : Aluminium (leger — -80 kg vs fonte equivalent)
+  Systeme depollution       : FAP (Filtre a Particules) + EGR + catalyseur
+  Norme antipollution       : Euro 6
+  Stop & Start              : De serie
+  Carburant                 : Diesel (B7 / B10)
+  Reservoir                 : 60 litres
+  Vidange                   : Toutes les 21 000 km (huile JLR longue duree)
+
+  Note importante (meme moteur que Jaguar XE) :
+  Ce moteur Ingenium AJ200D equipe aussi la Jaguar XE 2017.
+  Les avis propriétaires signalent des problemes de turbo et de casse moteur
+  sur certains exemplaires a hauts kilométrages (>140 000 km).
+  A 106 700 km ce vehicule est dans la zone de risque moderee — voir section
+  Points de Vigilance en fin de fiche.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [4] TRANSMISSION & SYSTEME 4x4 AWD
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Type de boite             : Automatique 8 rapports — ZF 8HP
+  Fabricant                 : ZF Friedrichshafen (Allemagne) — reference mondiale
+  Palettes au volant        : Oui — en magnesium
+  Levier                    : JaguarDrive Selector retractable en console
+  Transmission              : AWD — All-Wheel Drive integrale permanente
+  Systeme AWD               : Haldex Gen 5 — coupleur electronique multi-plaques
+                              Repartition normale : 100% arriere (orientation propulsion)
+                              Transfert auto a l'avant : jusqu'a 50% en cas de perte grip
+  Differentiel arriere      : EBD — Electronic Brake Differential (simulation blocage)
+  Modes boite               : Auto / Sport / Hiver / Manuel (palettes)
+  Modes conduite            : Normal / Eco / Dynamic / Hiver
+  Crochet d'attelage        : De serie sur ce vehicule (mentionne dans l'annonce)
+  Capacite remorquage       : 2 400 kg (freine) — 750 kg (non freine)
+
+  Rapports (ZF 8HP indicatifs) :
+    1ere          : 4,71
+    2eme          : 3,14
+    3eme          : 2,10
+    4eme          : 1,67
+    5eme          : 1,29
+    6eme          : 1,00
+    7eme          : 0,84
+    8eme          : 0,67
+    Marche arriere : 3,30
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [5] CHASSIS, SUSPENSIONS & FREINS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Plateforme                : iQ[Al] — Architecture aluminium brevetee JLR
+                              (meme plateforme que Jaguar XE) adaptee SUV
+  Structure carrosserie     : 80% aluminium — partiellement acier sur les renforts
+  Suspension avant          : Double triangulation (double wishbone) en aluminium
+                              Superieure aux MacPherson des concurrents Germans
+  Suspension arriere        : Multibras integrale — 5 bras aluminium
+  Amortisseurs              : Hydrauliques standard (option amortisseurs adaptatifs ADS)
+  Barre anti-roulis         : Avant + arriere
+  Direction                 : Electromecanique — cremaillere — assistance variable
+  Diametre de braquage      : 11,6 m
+  Garde au sol              : 213 mm (standard) — 234 mm (max avec ADS + mode Hiver)
+  Freins avant              : Disques ventiles — O 325 mm + etriers 4 pistons
+  Freins arriere            : Disques ventiles — O 325 mm + etriers 2 pistons
+  Frein stationnement       : Electronique avec Auto-Hold
+  ABS                       : Multi-canal avec EBD
+  ESP                       : DSC — Dynamic Stability Control (Jaguar)
+  Pneumatiques serie        : 235/65 R17 (serie) — 235/55 R19 ou 255/50 R20 option
+  Jantes                    : Alliage 18 ou 19 pouces selon version
+  Capacites de franchissement :
+    Profondeur gue           : 500 mm
+    Angle d'attaque          : 25,0 degres
+    Angle de fuite           : 27,0 degres
+    Angle ventral            : 19,7 degres
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [6] PERFORMANCES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  0 a 100 km/h              : 8,7 secondes (AWD BVA8)
+  0 a 80 km/h               : environ 5,5 secondes
+  Quart de mile (400 m DA)  : environ 16,5 secondes
+  Reprise 80-120 km/h       : environ 7,2 secondes
+  Vitesse maximale          : 213 km/h
+  Rapport poids/puissance   : 10,2 kg/ch (98 ch/tonne)
+  Rapport couple/poids      : 233 Nm/tonne
+  Note                      : 430 Nm disponibles des 1 750 tr/min —
+                              reprises souples et lineaires des les bas regimes
+                              Malgre 1 845 kg, l'aluminium preserve l'agilite
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [7] CONSOMMATION & EMISSIONS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Consommation urbaine      : 7,3 L/100 km (NEDC)
+  Consommation extra-urb.   : 4,9 L/100 km (NEDC)
+  Consommation mixte NEDC   : 5,7 L/100 km
+  Consommation reelle est.  : 7,0 – 9,0 L/100 km (conduite normale)
+                              6,5 L/100 km autoroute stabilisee
+                              7,5 L/100 km route
+                              9,0 L/100 km conduite urbaine / sportive
+  Emissions CO2 (NEDC)      : 151 g/km
+  Norme antipollution       : Euro 6
+  Autonomie theorique       : environ 1 052 km (60 L / 5,7 L mixte NEDC)
+  Autonomie reelle          : environ 660 – 780 km (60 L / ~8 L reel)
+  Reservoir                 : 60 litres
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [8] DIMENSIONS & POIDS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Longueur totale           : 4 731 mm
+  Largeur totale            : 1 936 mm (hors retroviseurs)
+  Hauteur                   : 1 667 mm
+  Empattement               : 2 874 mm (2 874 mm — parmi les plus longs du segment)
+  Voie avant                : 1 641 mm
+  Voie arriere              : 1 654 mm
+  Porte-a-faux avant        : 834 mm
+  Porte-a-faux arriere      : 1 023 mm
+  Garde au sol              : 213 mm (standard) — 234 mm (max)
+  Poids a vide (DIN)        : 1 845 kg (AWD)
+  Poids a vide (UE)         : 1 920 kg
+  PTAC                      : 2 460 kg
+  PTRA                      : 4 860 kg
+  Charge utile              : 615 kg
+  Remorquage freine         : 2 400 kg (crochet inclus sur ce vehicule)
+  Remorquage non freine     : 750 kg
+  Volume coffre min.        : 650 litres (5 places — parmi les plus grands du segment)
+  Volume coffre max.        : environ 1 740 litres (siege arriere rabattu)
+  Nombre de places          : 5
+  Reservoir                 : 60 litres
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [9] DESIGN EXTERIEUR — SPECIFICITES F-PACE PRESTIGE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Style                     : Design Ian Callum — SUV Grand Tourisme
+                              Proportions evocantr la F-Type : capot long, silhouette basse
+                              Lignes de caisse tendues et musclees
+  Phares                    : Xenon bixenon (mention Xenon dans l'annonce)
+                              avec feux de jour LED (mention Led dans l'annonce)
+  Feux arriere              : LED signature Jaguar
+  Calandre                  : Double barre chromee — ecusson Jaguar central
+  Retroviseurs              : Electriques, chauffants, rabattables
+                              Clignotants integres
+  Toit ouvrant pano         : Grand toit panoramique (mention Pano) — ouvrant ou fixe
+                              selon version specifique
+  Hayon                     : Electrique de serie
+  Passages de roues         : Elargissements specifiques en plastique grise
+                              (caracteristique critiquee par certains — esthetique SUV)
+  Crochet d'attelage        : De serie sur ce vehicule (mentionne dans l'annonce)
+                              Capacite 2 400 kg
+  Seuils de porte           : Eclaires logo Jaguar
+  Couleurs disponibles      : Blanc Yulong, Noir Narvik, Gris Corris, Gris Eiger,
+                              Bleu Loire, Bleu Caesium, Rouge Firenze, Argent Indus
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [10] INTERIEUR & FINITIONS PRESTIGE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Sieges avant              : Cuir (Skin / Leder) — electriques conducteur
+                              Chauffants de serie
+  Sieges arriere            : Cuir assortis — banquette 3 places rabattable 60/40
+  Accoudoir avant           : Cuir avec doubles rangements
+  Accoudoir arriere         : Integre escamotable avec porte-gobelets
+  Volant                    : Cuir multifonctions — chauffant de serie
+  Tableau de bord           : Cuir gaine (partiel) — ecran InControl Touch 8 pouces
+  Instrumentation           : Cadrans analogiques + ecran TFT central
+  Console centrale          : JaguarDrive Selector retractable — frein de park electrique
+  Boiseries                 : Frene satiné ou aluminium brosse selon configuration
+  Garnitures                : Aluminium specifiques Prestige
+  Eclairage ambiance        : LED interieur multizone
+  Toit                      : Toit ouvrant panoramique electrique (Pano)
+  Fermeture                 : Smart Entry & Drive sans cle (Keyless)
+  Vitres                    : Electriques 4 vitres
+  Retroviseur int.          : Electrochrome (anti-eblouissement auto)
+  Isofix                    : Points d'ancrage sieges enfants (arriere — de serie)
+  Webasto                   : Chauffage stationnaire Webasto — chauffe l'habitacle
+                              moteur eteint (pratique en hiver — chauffage independant)
+                              Programmable via telecommande ou application
+  Coffre                    : 650 litres — le plus grand du segment a sa sortie
+                              Seuil de coffre a 733 mm du sol (acces facile)
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [11] TECHNOLOGIE & CONNECTIVITE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Systeme multimedia        : InControl Touch — ecran 8 pouces (version Prestige 2017)
+  Navigation GPS            : GPS integre (Navi) — cartographie europeenne
+  Radio                     : DAB+ (Digital Audio Broadcasting) de serie sur ce vehicule
+  Audio Meridian            : Systeme Meridian Premium — 11 haut-parleurs (serie Prestige)
+                              Total : 380 W — qualite audiophile britanique
+                              Option Meridian Surround : 380 W / 17 haut-parleurs
+  Bluetooth                 : Telephonie + streaming audio
+  USB / AUX                 : Prises USB + auxiliaire
+  Commande vocale           : InControl Voice de serie
+  Compatibilite             : MirrorLink — Apple CarPlay NON disponible sur millésime 2017
+                              (CarPlay arrive sur facelift 2019+)
+  Camera de recul           : De serie sur ce vehicule — (mentionne dans l'annonce)
+  Capteurs parking          : Avant + arriere
+  Application JLR           : Jaguar Remote — suivi vehicule a distance
+  ACC                       : Adaptive Cruise Control radar — de serie (mentionne annonce)
+                              Regulation automatique de distance
+  Webasto                   : Chauffage stationnaire — programmation horaire
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [12] AIDES A LA CONDUITE & SECURITE ACTIVE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  ABS                       : Multi-canal avec EBD + CBC (Corner Brake Control)
+  DSC                       : Dynamic Stability Control (Jaguar ESP)
+  Antipatinage              : Traction Control
+  Transmission AWD          : Haldex Gen 5 — distribution automatique
+  ACC                       : Adaptive Cruise Control radar — de serie sur ce vehicule
+  Lane departure            : Lane Departure Warning — alerte voie
+  Blind Spot                : Blind Spot Monitor (option ou de serie selon pack)
+  Camera de recul           : De serie avec lignes directrices
+  Capteurs parking          : Avant + arriere
+  Auto-Hold                 : Maintien frein a l'arret automatique
+  Frein park                : Electronique de serie
+  TPMS                      : Surveillance pression pneus
+  Airbags frontaux          : Conducteur + passager
+  Airbags lateraux          : Thorax avant
+  Airbags rideaux           : Tete avant + arriere
+  eCall                     : Appel d'urgence automatique
+  Hill Descent Control      : HDC — controle de descente de pente
+  Hill Start Assist         : Aide au demarrage en cote
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [13] MODES DE CONDUITE — JAGUARDRIVE CONTROL
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Mode Normal               : Usage quotidien — equilibre confort/efficacite
+  Mode Eco                  : Consommation minimale — Stop & Start max actif
+  Mode Dynamic              : Boite reactive — direction vive — suspension ferme (si ADS)
+                              Eclairage cockpit passe bleu → rouge
+  Mode Hiver                : AWD privilegié — demarrage en 2e rapport — DSC assoupli
+  Mode Tout Terrain         : Gestion AWD renforcee — Hill Descent Control active
+                              Aide aux manoeuvres en off-road leger
+  HDC                       : Hill Descent Control — controle vitesse descente pente
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [14] LISTE COMPLETE DES EQUIPEMENTS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  -- SECURITE & AIDES A LA CONDUITE --
+  • ABS avec EBD et Corner Brake Control
+  • DSC — Dynamic Stability Control (ESP)
+  • Traction Control
+  • AWD Haldex Gen 5 — integrale automatique
+  • Adaptive Cruise Control (ACC radar)
+  • Lane Departure Warning
+  • Camera de recul avec directives dynamiques
+  • Capteurs stationnement avant + arriere
+  • Hill Descent Control (HDC)
+  • Hill Start Assist
+  • Auto-Hold — maintien frein automatique
+  • Frein de stationnement electronique
+  • TPMS — pression pneus temps reel
+  • Airbags frontaux conducteur + passager
+  • Airbags lateraux thorax
+  • Airbags rideaux tete avant + arriere
+  • eCall — appel urgence automatique
+  • Stop & Start de serie
+  • Antidemarrage electronique
+
+  -- TRANSMISSION --
+  • AWD 4x4 integrale (All-Wheel Drive)
+  • BVA8 — Boite automatique 8 rapports ZF
+  • Palettes au volant magnesium
+  • JaguarDrive Selector retractable
+  • Crochet d'attelage 2 400 kg
+  • 5 modes de conduite (Normal / Eco / Dynamic / Hiver / TT)
+
+  -- CONFORT & EQUIPEMENTS INTERIEURS --
+  • Sieges avant chauffants cuir (Skin / Leder)
+  • Volant cuir multifonctions + chauffant
+  • Climatisation automatique bi-zone
+  • Toit ouvrant panoramique electrique (Pano)
+  • Smart Entry & Drive sans cle (Keyless)
+  • Vitres electriques 4 vitres
+  • Retroviseurs exterieurs electriques, chauffants, rabattables
+  • Retroviseur interieur electrochrome
+  • Accoudoir central avant cuir avec rangements
+  • Accoudoir arriere escamotable
+  • Isofix — points d'ancrage sieges enfants
+  • Eclairage ambiance LED interieur
+  • Webasto — chauffage stationnaire (programmable)
+  • Capteur de pluie — essuie-glaces auto
+  • Hayon electrique de serie
+  • Coffre 650 litres (plus grand SUV premium de son segment en 2016)
+  • Banquette arriere rabattable 60/40
+
+  -- TECHNOLOGIE & CONNECTIVITE --
+  • InControl Touch — ecran 8 pouces
+  • Navigation GPS integree (Navi)
+  • Radio DAB+ numerique
+  • Systeme Meridian Premium — 11 haut-parleurs
+  • Bluetooth telephonie + audio
+  • Prises USB + AUX
+  • Commande vocale InControl Voice
+  • Application Jaguar Remote
+  • Camera de recul
+  • Adaptive Cruise Control (ACC) radar
+  • Phares Xenon bixenon + feux de jour LED
+
+  -- WEBASTO (specifique ce vehicule) --
+  • Chauffage stationnaire Webasto — moteur a l'arret
+  • Prechauffage habitacle programmable (telecommande ou app)
+  • Dechargement de la batterie principale evite
+  • Idéal en hiver — pare-brise degivre avant le depart
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [15] POINTS DE VIGILANCE & FIABILITE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Points positifs           :
+  • Elu Voiture Mondiale de l'Annee 2017 + SUV de l'Annee 2017
+  • Chassis aluminium — comportement SUV le plus sportif de sa categorie
+  • Suspension double wishbone avant — superieure MacPherson
+  • Coffre 650 L — le plus grand du segment a son lancement
+  • AWD Haldex + BVA8 ZF — couple technique eprouve
+  • Garantie 24 mois incluse dans le prix
+  • Entretien OK mentionne + a verifier sur factures
+  • Webasto inclus — avantage hiver considerable
+  • ACC + camera recul + navigation + Meridian = vehicule bien equipe
+
+  Points de vigilance CRITIQUES :
+  ⚠️ MOTEUR INGENIUM AJ200D — POINT DE VIGILANCE MAJEUR
+    Signalement de casses turbo entre 140 000 et 160 000 km
+    (source : 3 avis proprietaires Caradisiac, confirme par garagistes JLR)
+    Ce vehicule est a 106 700 km — il approche de la zone a risque
+    IMPERATIF avant achat :
+    → Verifier l'historique d'entretien complet (factures huile + filtres)
+    → Scanner OBD — lire les codes d'erreur stockes
+    → Verifier absence de fumee bleue/noire au demarrage a froid
+    → Ecouter bruit de turbo (sifflement inhabituel)
+    → Verifier niveau d'huile (consommation = signe d'usure interne)
+    → Souscrire garantie mecanique etendue ou assurance panne
+    RECOMMANDE : Demander devis remplacement turbo preventif (<2 000 EUR)
+
+  ⚠️ DISTRIBUTION (chaine)
+    Signalement de problemes de chaine de distribution sur certains F-Pace
+    Attente pieces chez Jaguar pouvant aller jusqu'a 1 an (temoignage proprietaire)
+    Verifier bruits au demarrage a froid (claquement chaine)
+
+  Autres points de vigilance :
+  • Plastiques intérieurs imitation bois : qualite insuffisante pour
+    une Jaguar — critiquee majoritairement par les proprietaires
+  • Suspension ferme : peut etre inconfrotable sur mauvais revêtements
+    (commentaire recurrent dans les essais et avis)
+  • Electronique InControl 2017 : lenteur du systeme multimedia
+    Apple CarPlay absent (arrive sur facelift 2019+)
+  • SAV Jaguar : nombreux temoignages negatifs sur les delais de reparation
+    en concession — privilegier garage independant specialise JLR
+  • Kilometrage 106 700 km — verifier imperativement le carnet et les factures
+    promet dans l'annonce (entretien OK)
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [16] POSITIONNEMENT & CONCURRENTS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Ce vehicule               : 3 800 EUR — F-Pace Prestige 180 AWD 2017 — 106 700 km
+  BMW X3 F25 xDrive20d 2017 : cote 2025 : 12 000 – 20 000 EUR / plus fiable
+  Mercedes GLC 220d 4Matic  : cote 2025 : 14 000 – 22 000 EUR / electronique solide
+  Audi Q5 2.0 TDI 190 2017  : cote 2025 : 14 000 – 24 000 EUR / mecanique eprouvee
+  Volvo XC60 D4 AWD 2017    : cote 2025 : 10 000 – 18 000 EUR / fiabilite reconnue
+  Alfa Romeo Stelvio 2.2D   : cote 2025 : 12 000 – 20 000 EUR / comparable style
+
+  Specificite F-Pace        : Voiture mondiale de l'annee 2017 — prime design et
+                              comportement dynamic incomparable dans le segment.
+                              Chassis aluminium AWD — coffre 650 L record.
+                              Prix d'acquisition imbattable vs concurrents.
+                              Garantie 24 mois incluse — remise 15% comptant.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [17] HISTORIQUE & ADN JAGUAR F-PACE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Le Jaguar F-Pace est presente au Salon de Francfort en septembre 2015 et
+  commercialise en 2016. C'est le premier SUV de l'histoire de Jaguar —
+  une marque fondee en 1922, qui n'a produit que des berlines et sportives
+  pendant 94 ans. La decision de lancer un SUV a ete controversee en interne,
+  mais justifiee par la necessite de volumes de vente plus importants.
+
+  Le resultat est unanimement salue : le F-Pace remporte le titre de
+  Voiture Mondiale de l'Annee 2017 et le SUV de l'Annee 2017 lors des
+  World Car Awards — la plus haute distinction de l'industrie automobile
+  internationale. C'est la premiere fois qu'un SUV remporte le titre supreme
+  de Voiture de l'Annee Mondiale.
+
+  Son succes commercial est immediat : 15 000 commandes sont enregistrees
+  en 24 heures lors de l'ouverture des reservations en 2015 — un record pour
+  Jaguar. En quelques annees, le F-Pace represente plus de 50% des ventes
+  mondiales de la marque, transformant profondement le mix commercial de JLR.
+
+  La plateforme iQ[Al] en aluminium, developpee conjointement avec la Jaguar XE,
+  confere au F-Pace le meilleur comportement routier de sa categorie en 2017
+  selon la majorite des tests comparatifs. Cette architecture est le resultat
+  de 3 milliards de livres investis par JLR dans le programme aluminium.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Sources : Jaguar Land Rover — L'Argus.fr — Caradisiac.com (avis proprietaires)
+  ZePerfs.com — Fiche-technique-auto.net — La Centrale — Auto-Selection.com
+  World Car Awards 2017 — Specifications officielles F-Pace X761 (2017 EU).
+================================================================================

@@ -1,0 +1,522 @@
+================================================================================
+    FICHE VEHICULE — PORSCHE TAYCAN GTS SPORT TURISMO (9J1)
+    Break Electrique de Prestige · 598 ch (overboost) · 2022 · Electrique
+================================================================================
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [1] INFORMATIONS COMMERCIALES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Prix de vente             : 80 000 EUR (marche europeen — occasion)
+  Annee                     : 2022
+  Kilometrage               : 22 500 km (tres faible — quasi neuf)
+  Carburant                 : 100% Electrique
+  Boite de vitesses         : Automatique 2 rapports (PDK electrique — essieu arriere)
+  Transmission              : Propulsion arriere (RWD)
+  Finition                  : GTS Sport Turismo
+  Carrosserie               : Break 5 portes (Sport Turismo)
+  Prix neuf (2022)          : 136 619 EUR (France, tarif lancement)
+  Cote marche europeen 2025 : 75 000 – 105 000 EUR selon options et etat
+  Puissance fiscale         : 10 CV (France)
+  Economie a l'achat        : -56 619 EUR vs prix neuf (41% de remise)
+
+  OPTIONS IDENTIFIEES DANS LE TITRE :
+    PSP     = Porsche Sport Package (Pack Sport Chrono)
+    Pano    = Toit panoramique en verre fixe
+    ACC     = Adaptive Cruise Control (regulateur adaptatif)
+    HUD     = Head-Up Display (affichage tete haute)
+    Bose+++ = Systeme audio BOSE Surround Sound 14 hp / 710 W (ou Burmester)
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [2] PRESENTATION GENERALE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  La Porsche Taycan GTS Sport Turismo est l'une des propositions les plus
+  abouties du marche automobile electrique en 2022. Elle combine trois
+  dimensions rarement reunies : les performances d'une sportive Porsche
+  (0-100 km/h en 3,7 s), la polyvalence d'un break premium (coffre 446-1212 L)
+  et l'excellence technologique du groupe motopropulseur electrique Porsche
+  (architecture 800 V — recharge 270 kW en courant continu).
+
+  Le label GTS (Gran Turismo Sport) — appellation Porsche historique (Carrera GTS 1963)
+  — designe ici la version la plus sport de la gamme Taycan en dehors des
+  Turbo et Turbo S. Elle s'insere entre la Taycan 4S (571 ch) et la Taycan
+  Turbo (680 ch). Son moteur arriere est emprunte a la Taycan Turbo ; son
+  moteur avant provient de la Taycan 4S — combinaison unique de la gamme.
+
+  La carrosserie Sport Turismo (presentee en 2022) est la version "break de chasse"
+  de la Taycan, derivee du Cross Turismo mais sans les appendices SUV.
+  Elle est 20 mm plus basse que la Cross Turismo (pas de kit off-road),
+  garde au sol identique a la berline, lignes plus tendues et sportives.
+  Elle offre 45 mm de plus en hauteur interieure arriere vs la berline,
+  et un coffre plus genereux (446 L vs 407 L en berline).
+
+  Ce vehicule specifique est en propulsion arriere (RWD — pas de 4x4),
+  ce qui est la configuration la plus pure et la plus legere de la GTS.
+  22 500 km seulement sur une Porsche de 2022 — vehicule quasi neuf.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [3] GROUPE MOTOPROPULSEUR ELECTRIQUE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Architecture              : 2 moteurs electriques (avant + arriere)
+  Configuration ce vehicule : Propulsion arriere — RWD
+                              (moteur arriere uniquement — version la plus legere)
+
+  --- MOTEUR ARRIERE (principal) ---
+  Type                      : Moteur synchrone a excitation separee (PSM) — Porsche
+                              Origine : meme bloc que Taycan Turbo
+  Puissance moteur arriere  : 380 kW (517 ch) en usage normal
+  Puissance overboost       : 440 kW (598 ch) — disponible avec Pack Sport Chrono
+                              pendant quelques secondes (Launch Control)
+
+  --- MOTEUR AVANT ---
+  Note version RWD          : Ce vehicule est en propulsion arriere — moteur avant
+                              coupe / desactive en mode normal
+                              (contrairement aux versions 4S/GTS 4WD)
+  Avantage RWD              : Poids reduit vs AWD — comportement plus pur et sportif
+                              Consommation legererement amelioree en usage normal
+
+  --- PUISSANCE SYSTEME ---
+  Puissance nominale        : 380 kW / 517 ch (usage permanent)
+  Puissance overboost       : 440 kW / 598 ch (avec Pack Sport Chrono — PSP)
+  Couple maximum            : 640 Nm
+  Couple overboost          : 850 Nm (bref — Launch Control)
+  Type boite                : Automatique 2 rapports — PDK electrique (essieu arriere)
+                              1er rapport : demarrage et basses vitesses
+                              2eme rapport : hautes vitesses
+                              Passage imperceptible — aucun a-coup
+  Regeneration              : Puissance regenerative maximale 275 kW
+                              Mode "One Pedal Driving" (conduite pied levé)
+                              4 niveaux de regeneration (via palettes au volant)
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [4] BATTERIE & RECHARGE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Type batterie             : Lithium-Ion haute performance — 33 modules
+  Architecture tension      : 800 Volts (architecture haute tension Porsche)
+                              Permet la charge a 270 kW en DC — unique sur le marche
+  Capacite brute            : 93,4 kWh
+  Capacite nette utile      : 83,7 kWh (89,6% utilisable)
+  Poids batterie            : environ 630 kg
+  Technologie cellules      : Chimie optimisee (NMC — Nickel Manganese Cobalt)
+                              plus haute densité energetique vs generation precedente
+  Pompe a chaleur           : De serie — optimise la gestion energie de la climatisation
+                              preserve l'autonomie en hiver
+  Prechauffage batterie     : Automatique — preconditionne la batterie avant recharge
+                              sur borne rapide (pour maximiser la vitesse de charge)
+
+  --- PUISSANCES DE RECHARGE ---
+  Recharge DC rapide (max)  : 270 kW (architecture 800 V — bornes Ionity 350 kW)
+  Recharge DC standard      : 50 kW — 75 kW — 100 kW — 150 kW (compatible toutes bornes)
+  Recharge AC (onboard)     : 11 kW (de serie) — 22 kW (option +1 680 EUR)
+  Connecteur DC             : CCS2 (Combined Charging System — standard europeen)
+  Connecteur AC             : Type 2 (standard europeen)
+
+  --- TEMPS DE RECHARGE ---
+  5% → 80% (270 kW DC)      : environ 22 min 30 s (conditions optimales)
+  10% → 80% (270 kW DC)     : environ 22-23 minutes
+  0% → 100% (11 kW AC)      : environ 9 heures
+  0% → 100% (22 kW AC)      : environ 4 heures 30 min
+
+  Vitesse de charge notable : 260 kW de vitesse moyenne entre 10% et 80%
+                              = une des plus rapides de tous les VE en 2022
+  Recharge 1000 km          : 2 arrets seulement (≈ 37 min au total) a 120 km/h
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [5] AUTONOMIE & CONSOMMATION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Autonomie WLTP mixte      : 424 – 491 km (selon options et pneumatiques)
+  Autonomie version RWD     : 491 km WLTP — meilleure autonomie de la gamme GTS
+                              (RWD plus efficient qu'AWD en usage normal)
+  Autonomie reelle estimee  : 300 – 380 km (conduite normale mixte)
+                              250 – 270 km (conduite rapide / sportive)
+  Autonomie autoroute 130   : environ 320 – 360 km
+  Autonomie ville           : 400+ km possible (regeneration optimisee)
+
+  Consommation WLTP         : 21,0 – 24,1 kWh/100 km
+  Consommation reelle       : 22 – 28 kWh/100 km (conduite normale)
+                              30 – 35 kWh/100 km (conduite sportive/rapide)
+  Source essai              : 31,2 kWh/100 km releve en conduite soutenue
+                              (Les Voitures — essai 2022)
+  Emissions CO2             : 0 g/km (vehicule 100% electrique)
+  Vignette CRIT'Air         : CRIT'Air 0 — acces libre toutes zones (France)
+  Classe energetique        : A
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [6] PERFORMANCES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  0 a 100 km/h              : 3,7 secondes (avec Launch Control — PSP)
+  0 a 100 km/h (sans LC)    : 4,0 secondes
+  0 a 60 mph                : 3,5 secondes
+  0 a 200 km/h              : environ 12,0 secondes
+  Vitesse maximale          : 250 km/h (limitee electroniquement)
+  Quart de mile (400 m DA)  : environ 11,8 secondes
+  Reprise 80-120 km/h       : environ 2,8 secondes
+  Rapport poids/puissance   : 4,5 kg/ch (222 ch/tonne) — en puissance normale
+  Rapport poids/puissance   : 3,9 kg/ch (256 ch/tonne) — en overboost
+  Note                      : Couple instantane des le premier tour de roue —
+                              pas d'attente de montee en regime comme un thermique
+                              Acceleration lineaire, progressive et sans rupture
+  Comparaison               : 0-100 plus rapide qu'une Porsche 911 Carrera (5,0 s)
+                              comparable a une Porsche 911 Carrera S (4,0 s)
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [7] CHASSIS, SUSPENSIONS & FREINS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Plateforme                : J1 — plateforme dediee 100% electrique Porsche
+                              (concu exclusivement pour la Taycan et Audi e-tron GT)
+  Structure                 : Monocoque aluminium et acier — centre de gravite bas
+                              (batterie sous le plancher = CG tres bas)
+  Suspension avant          : Double triangles en aluminium
+  Suspension arriere        : Multibras en aluminium — 5 bras par cote
+  Amortisseurs              : PASM (Porsche Active Suspension Management) de serie
+                              Amortissement adaptatif continu — Normal / Sport / Sport+
+  Direction arriere         : Direction active 4 roues en option (differents angles
+                              selon vitesse — agilite en ville + stabilite autoroute)
+  Garde au sol              : 128 mm (Sport Turismo — 20 mm moins que Cross Turismo)
+  Reglage suspension GTS    : +20% de fermete vs Turbo/Turbo S (specifique GTS)
+                              Compromis dynamique/confort optimise GTS
+
+  Freins standard           : Avant : disques fonte ventiles O 360 mm + etriers 4 pistons
+                              Arriere : disques fonte ventiles O 358 mm + etriers 4 pistons
+  Freins ceramique PCCB     : Option — Avant O 420 mm + Arriere O 410 mm
+                              (Porsche Ceramic Composite Brake — -50% poids)
+  Freinage regeneratif      : 275 kW — freinage principal en conduite normale
+                              (les freins mecaniques interviennent peu = usure reduite)
+  ABS                       : Haute performance — multi-canal
+  ESP                       : Porsche Stability Management (PSM)
+
+  Pneumatiques (serie)      : 245/45 ZR 20 (avant) — 285/40 ZR 20 (arriere)
+  Pneumatiques option 21"   : 245/40 ZR 21 (av) — 285/35 ZR 21 (ar)
+  Jantes serie              : Alliage 20 pouces
+  Jantes option             : RS Spyder Design 21 pouces (specifiques GTS)
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [8] DIMENSIONS & POIDS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Longueur totale           : 4 963 mm
+  Largeur totale            : 1 966 mm (hors retroviseurs)
+  Hauteur                   : 1 392 mm
+  Empattement               : 2 900 mm
+  Voie avant                : 1 710 mm
+  Voie arriere              : 1 694 mm
+  Garde au sol              : 128 mm
+  Coefficient Cx            : 0,22 (tres performant pour un break)
+  Poids a vide (DIN)        : 2 310 kg (version RWD — plus legere qu'AWD)
+  PTAC                      : 2 875 kg
+  Charge utile              : 565 kg
+  Volume coffre min.        : 446 litres (hayon ferme)
+  Volume coffre max.        : 1 212 litres (sieges arriere rabattus)
+  Volume frunk (avant)      : 84 litres (coffre avant — sous capot avant)
+  Nombre de places          : 4 (2 avant + 2 arriere — banquette individuelle GTS)
+                              5 places possible avec option siege arriere central
+  Note                      : +45 mm de hauteur interieure arriere vs berline Taycan
+                              +39 L de volume coffre vs berline Taycan (407 L)
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [9] DESIGN EXTERIEUR — SPECIFICITES GTS SPORT TURISMO
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Style                     : Break de chasse sportif — ligne tendue et basse
+                              Derive du Cross Turismo sans accessoires SUV
+                              20 mm plus bas que la Cross Turismo
+  Signature GTS             : Traitement noir brillant sur : calandre, spoiler,
+                              diffuseur arriere, bas de caisse, inserts de portes
+                              Etriers de frein peints en rouge de serie (GTS)
+                              Badges GTS sur les flancs avant
+  Phares avant              : Phares 4 points LED Porsche — design specifique Taycan
+                              (Option HD Matrix LED a controle par camera)
+  Feux arriere              : LED — signature lumineuse 4 points — pleine largeur
+  Spoiler arriere           : Spoiler de toit actif — deploiement automatique
+  Boucliers                 : Traitement sport specifique GTS — noir brillant
+  Retroviseurs              : Electriques, chauffants, rabattables — option camera
+  Toit                      : Toit panoramique en verre fixe (Pano) — de serie sur ce vehicule
+  Hayon                     : Hayon electrique
+  Trappe de recharge        : Cote arriere droit
+  Cx                        : 0,22 — reference pour un break electrique
+  Jantes                    : RS Spyder Design 21 pouces (selon version)
+  Couleurs dispo            : Noir intense, Blanc carrara, Gris volcano,
+                              Rouge carmin, Bleu gentiane, Jaune racing,
+                              + 17 couleurs au catalogue Porsche Exclusive Manufaktur
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [10] INTERIEUR & FINITIONS GTS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Sièges avant              : Baquets sport GTS — Race-Tex noir (Alcantara-like)
+                              + cuir — logos GTS brodes — surpiquures specifiques
+  Option sieges             : Sieges sport adaptatifs — (ajustement lateral auto)
+  Sieges arriere            : 2 places individuelles (banquette GTS) — cuir/Race-Tex
+  Volant                    : GT Sport multifonctions — Race-Tex + cuir
+                              Palettes de regeneration (4 niveaux) + bouton Sport Chrono
+  Tableau de bord           : Instrumentation numerique courbe 16,8 pouces
+  Ecran central             : Ecran tactile PCM 10,9 pouces (Porsche Connect)
+  Ecran passager            : Ecran tactile 10,9 pouces (option — cote passager)
+  Ecran arriere             : Ecran 5,9 pouces (console arriere — selon options)
+  Head-Up Display           : HUD de serie sur ce vehicule (mention dans le titre)
+  Garnissages GTS           : Aluminium brosse noir anodise — specifique GTS
+                              (vs aluminium brosse standard sur 4S)
+  Eclairage ambiance        : LED multizone — 30 couleurs
+  Console centrale          : Console suspendue — pas de tunnel central (moteurs aux essieux)
+  Accoudoir                 : Avant + arriere
+  Frunk                     : 84 litres de rangement avant (sous le capot avant)
+  Coffre avant/arriere      : 84 L (frunk) + 446 L (coffre) = 530 L total mini
+                              + 1 212 L (coffre maxi, sieges rabattus)
+  Banquette arriere         : Rabattable 40/20/40 — augmentation coffre 446 → 1 212 L
+  Vitres                    : Electriques 4 vitres — occultant acoustique
+  Toit pano                 : Verre fixe non ouvrant — traitement thermique
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [11] TECHNOLOGIE & CONNECTIVITE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Systeme multimedia        : PCM 6.0 — Porsche Communication Management
+  Ecran central             : 10,9 pouces tactile haute resolution
+  Instrumentation           : Numerique courbe 16,8 pouces
+  Navigation GPS            : Integre — Porsche Connect avec trafic temps reel
+                              + planification d'itineraire avec arrets de recharge
+  Apple CarPlay             : De serie — sans fil
+  Android Auto              : De serie
+  Bluetooth                 : Multipoint
+  USB                       : 2 prises USB-C (avant) — 2 prises USB-C (arriere) option
+  Audio BOSE                : BOSE Surround Sound System — 14 haut-parleurs — 710 W
+  Audio Burmester           : Option — 21 haut-parleurs — 1 455 W (3D High-End)
+  Commande vocale           : Voice Pilot — Porsche Connect ("Hey Porsche")
+  Application               : My Porsche App — controle a distance
+                              (etat charge, preclimatisation, localisation, historique)
+  Wi-Fi hotspot             : Integre
+  Head-Up Display           : HUD de serie sur ce vehicule — vitesse, navigation,
+                              infos ADAS, rapport actif
+  OTA updates               : Mises a jour logicielles a distance (Over-The-Air)
+  Porsche Track Precision   : Application analyse donnees piste — de serie
+  Remote Services           : Deverrouillage a distance, preclimatisation programmable
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [12] AIDES A LA CONDUITE & SECURITE ACTIVE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  ABS                       : Haute performance — multi-canal avec EBD
+  PSM                       : Porsche Stability Management (ESP Porsche)
+  Antipatinage              : Traction Control — avec mode Off
+  InnoDrive                 : Regulateur de vitesse predictif (utilise GPS +
+                              cartographie pour anticiper virages et limitations)
+  ACC                       : Adaptive Cruise Control — de serie sur ce vehicule
+                              Avec Stop & Go — suivi de file
+  Maintien voie             : Lane Keeping Assist — de serie
+  Angle mort                : Blind Spot Monitoring — option/de serie selon pack
+  Surveillance trafic       : Rear Cross Traffic Alert
+  Freinage urgence          : Forward Collision Warning + freinage auto
+  Camera recul              : De serie — avec lignes dynamiques
+  Cameras peripheriques     : Option — vue a 360 degres
+  Airbags frontaux          : Conducteur et passager
+  Airbags lateraux          : Thorax avant
+  Airbags rideaux           : Tete — avant et arriere
+  Alarme                    : Volumetrique de serie
+  Antidemarrage             : Electronique + Porsche Entry & Drive (KESSY)
+  TPMS                      : Surveillance pression pneus temps reel
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [13] MODES DE CONDUITE & SYSTEMES PORSCHE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Pack Sport Chrono (PSP)   : De serie sur ce vehicule — permet :
+                              Launch Control (0-100 en 3,7 s)
+                              Push-to-Pass (overboost instantane 598 ch)
+                              Chronometrage sur piste integre
+
+  Modes de conduite         : Normal / Sport / Sport+ / Individual / Range
+    Normal                  : Usage quotidien — equilibre confort/efficacite
+    Sport                   : Suspension ferme — moteur reactif — regeneration active
+    Sport+                  : Maximum sportivite — suspension maximale — son sportif
+    Individual               : Personnalisation separee de chaque parametre
+    Range                   : Optimisation autonomie — vitesse limitee — regen max
+
+  PASM                      : Amortissement adaptatif continu — reglage en ms
+  Launch Control            : Procedure depart canon — 3,7 s au 0-100
+                              Armer via Sport+ + frein pied gauche + acc. pied droit
+  Push-to-Pass              : Bouton sur volant — overboost instantane +80 ch
+  One Pedal Driving         : Conduite pied leve — deceleration via regeneration
+                              4 niveaux via palettes au volant (Aucun / Min / Moy / Max)
+  Recuperation d'energie    : 275 kW en deceleration — alimente la batterie
+  Preclimatisation          : Programmable via app — habitacle pre-chauffe/refroidi
+                              avant le depart (preserves autonomie)
+  Porsche InnoDrive         : Pilotage automatique predicitf (GPS + carto)
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [14] LISTE COMPLETE DES EQUIPEMENTS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  -- SECURITE ACTIVE & AIDES A LA CONDUITE --
+  • ABS multi-canal avec EBD
+  • PSM — Porsche Stability Management
+  • Traction Control avec mode Off
+  • Adaptive Cruise Control (ACC) avec Stop & Go
+  • Lane Keeping Assist — maintien de voie actif
+  • Forward Collision Warning + freinage autonome d'urgence
+  • Blind Spot Monitoring — angles morts
+  • Rear Cross Traffic Alert
+  • Camera de recul avec lignes dynamiques
+  • Surveillance pression pneus TPMS
+  • Airbags frontaux conducteur et passager
+  • Airbags lateraux thorax avant
+  • Airbags rideaux tete avant et arriere
+  • Alarme volumetrique
+  • Antidemarrage electronique (KESSY)
+  • InnoDrive — regulateur predictif (GPS/cartographie)
+
+  -- MOTORISATION & CHARGE --
+  • 2 moteurs electriques — 380 kW / 517 ch (598 ch overboost)
+  • Architecture 800 V — recharge DC 270 kW
+  • Batterie Li-ion 93,4 kWh brut / 83,7 kWh utile
+  • Boite automatique 2 rapports PDK electrique
+  • Chargeur AC 11 kW de serie (22 kW en option)
+  • Connecteur CCS2 (DC) + Type 2 (AC)
+  • Pompe a chaleur de serie
+  • Prechauffage batterie automatique
+  • Recuperation d'energie 275 kW (4 niveaux palettes)
+  • One Pedal Driving
+
+  -- PACK SPORT CHRONO (PSP) — CE VEHICULE --
+  • Launch Control — 0-100 km/h en 3,7 s
+  • Push-to-Pass — overboost 598 ch instantane
+  • Chronometrage piste integre
+  • Mode Sport Plus actif
+
+  -- CONFORT & EQUIPEMENTS --
+  • Sieges baquets sport GTS Race-Tex — logo GTS brode
+  • Volant GT Sport cuir/Race-Tex — palettes regeneration
+  • Pack Sport Chrono (PSP) de serie
+  • Toit panoramique verre fixe (Pano)
+  • Head-Up Display (HUD)
+  • PASM — amortissement adaptatif de serie
+  • Fermeture centralisee sans cle (Porsche Entry & Drive)
+  • Vitres electriques 4 vitres
+  • Retroviseurs exterieurs electriques — chauffants — rabattables
+  • Eclairage d'ambiance LED multizone (30 couleurs)
+  • Coffre avant (frunk) 84 litres
+  • Hayon electrique
+  • Banquette arriere rabattable 40/20/40
+  • Preclimatisation programmable (via app)
+
+  -- TECHNOLOGIE & CONNECTIVITE --
+  • PCM 6.0 — ecran 10,9 pouces tactile
+  • Instrumentation numerique courbe 16,8 pouces
+  • Head-Up Display (HUD)
+  • Navigation GPS Porsche Connect — planification recharge
+  • Apple CarPlay sans fil
+  • Android Auto
+  • Bluetooth multipoint
+  • 2 prises USB-C avant + 2 arriere (option)
+  • Systeme BOSE 14 haut-parleurs 710 W
+  • Voice Pilot ("Hey Porsche")
+  • My Porsche App (iOS/Android)
+  • Wi-Fi hotspot
+  • OTA — mises a jour logiciel a distance
+  • Porsche Track Precision App
+  • Remote Services
+
+  -- SPECIFIQUE GTS SPORT TURISMO --
+  • Etriers de frein peints en rouge
+  • Traitement noir brillant (calandre, bas de caisse, diffuseur)
+  • Garnissages aluminium brosse noir anodise
+  • Badges GTS specifiques
+  • Suspension GTS +20% fermete vs Turbo/Turbo S
+  • Reglage direction 4 roues specifique GTS (option)
+  • RS Spyder Design 21 pouces (selon version)
+  • Coffre Sport Turismo 446-1212 L (+39 L vs berline)
+  • Frunk 84 L (coffre avant)
+  • +45 mm habitabilite tete arriere vs berline Taycan
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [15] AVANTAGES ELECTRIQUE AU QUOTIDIEN
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Couts carburant           : Environ 2,20 EUR/100 km en recharge domicile (0,18 EUR/kWh)
+                              vs environ 12-14 EUR/100 km pour un equivalent essence
+                              Economie : 70-75% sur le poste carburant
+  Couts entretien           : Tres reduits — pas de vidange, pas de distribution,
+                              pas de filtres moteur, plaquettes peu usees (regen)
+                              Entretien Porsche : tous les 2 ans ou 30 000 km
+  Frein a main              : Freinage regeneratif preserve les plaquettes
+                              duree de vie estimee 2 a 3x superieure au thermique
+  Vignette CRIT'Air         : CRIT'Air 0 — acces permanent toutes zones ZFE
+  Avantage fiscal           : TVS = 0 EUR (France) pour vehicule de societe
+                              Exoneration taxe CO2
+  Recharge a domicile       : Wallbox 11 kW : recharge complete en 7-9 heures (nuit)
+  Bornes rapides            : Ionity, Tesla Supercharger (adaptateur) — 270 kW DC
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [16] POSITIONNEMENT & CONCURRENTS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Ce vehicule               : 80 000 EUR — Taycan GTS Sport Turismo 2022 — 22 500 km
+  Porsche Taycan 4S 2022    : 571 ch — 118 000 EUR neuf — concurrence directe
+  Porsche Taycan Turbo 2022 : 680 ch — 157 000 EUR neuf
+  Audi e-tron GT RS 2022    : 598 ch — meme plateforme J1 — 148 000 EUR neuf
+  Tesla Model S Plaid 2022  : 1 020 ch — autonomie moindre — 130 000 EUR neuf
+  BMW i5 M60 2024           : 601 ch — arrivee apres ce vehicule — 125 000 EUR neuf
+  Mercedes EQS AMG 2022     : 761 ch — 155 000 EUR neuf — berline (pas de break)
+  Rimac Nevera 2022         : 1 914 ch — >2 000 000 EUR — hyper-sportive
+
+  Atout principal           : Prix 80 000 EUR pour un vehicule neuf a 136 619 EUR
+                              = economy de 56 619 EUR (41% en dessous du prix neuf)
+                              22 500 km seulement — quasi neuf
+                              Recharge DC 270 kW — la plus rapide de sa categorie
+                              Break 5 portes — polyvalence incomparable du segment
+                              Garantie Porsche — fiabilite reconnue de la plateforme J1
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [17] HISTORIQUE & ADN TAYCAN / GTS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  La Porsche Taycan est presentee en septembre 2019 — premiere voiture 100%
+  electrique de Porsche dans son histoire. Le nom "Taycan" signifie en
+  turcique : "ame d'un cheval jeune et ardent" — hommage au cheval cabrant
+  de l'ecusson Porsche.
+
+  La Taycan GTS est devoilee au Salon de Los Angeles en novembre 2021 en meme
+  temps que la carrosserie Sport Turismo — innovation de la gamme 2022.
+  Le GTS reprend l'appellation historique Porsche (Gran Turismo Sport), presente
+  depuis 1963 sur la 904 Carrera GTS, ensuite sur les 928 GTS, 944 GTS,
+  911 Carrera GTS et Panamera GTS.
+
+  La plateforme J1 (developpee conjointement par Porsche et Audi) est la
+  premiere architecture de vehicule electrique haute performance au monde
+  a embarquer l'architecture 800 Volts, permettant des vitesses de recharge
+  de 270 kW — soit 5x plus rapide que les vehicules 400 V de l'epoque.
+
+  En 2022, la Taycan GTS Sport Turismo est largement saluee par la presse
+  internationale comme le vehicule electrique le plus accompli du marche —
+  combinant performances, polyvalence de break, qualite Porsche et technologie
+  de recharge de pointe. Elle est finaliste du prix "Voiture de l'annee 2022".
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Sources : Porsche AG Newsroom — L'Argus.fr (fiche technique officielle)
+  L'Argus essai janvier 2022 — Les Voitures essai aout 2022
+  GuideAutoWeb essai decembre 2021 — EVKX.net — La Centrale
+  Specifications officielles Taycan GTS Sport Turismo 9J1 (MY2022 EU/FR).
+================================================================================

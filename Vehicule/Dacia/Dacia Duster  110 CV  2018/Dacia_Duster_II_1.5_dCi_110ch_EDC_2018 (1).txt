@@ -1,0 +1,502 @@
+================================================================================
+        FICHE VEHICULE — DACIA DUSTER II 1.5 dCi 110 EDC6 (HJD)
+        SUV Compact · 110 ch · Automatique EDC6 · Diesel · 2018
+================================================================================
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [1] INFORMATIONS COMMERCIALES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Prix de vente             : 2 500 EUR (marche europeen — occasion)
+  Origine                   : Importation Allemagne
+  Annee                     : 2018
+  Kilometrage               : 125 000 km
+  Carburant                 : Diesel
+  Boite de vitesses         : EDC6 — Double embrayage 6 rapports (automatique)
+  Transmission              : Traction avant (FWD) ou 4x4 selon version (a verifier)
+  Garantie                  : 24 mois chez le concessionnaire
+  Livraison                 : A domicile — delai 5 jours
+  Demarches                 : Toutes formalites d'importation prises en charge
+  Generation                : Duster II (HJD) — 2017-2022
+  Puissance fiscale         : 7 CV
+  Prix neuf (2018)          : 18 490 EUR (Confort EDC) — 21 490 EUR (Prestige EDC)
+  Cote marche europeen 2025 : 7 000 – 12 000 EUR (bon etat, 125 000 km)
+  Note prix                 : 2 500 EUR est sous la cote — justifie par le km
+
+  CLARIFICATION BOITE DE VITESSES :
+    En 2018, la seule boite "automatique" disponible sur le 1.5 dCi 110 ch
+    est la boite EDC6 (Efficient Dual Clutch — 6 rapports a double embrayage).
+    C'est une boite robotisee — pas un convertisseur de couple classique.
+    Doux en conduite normale, mais peut etre hachee en usage ville lent.
+    A ne PAS confondre avec une boite automatique torque converter.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [2] PRESENTATION GENERALE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Le Dacia Duster II (HJD) est la deuxieme generation du SUV qui a revolutionne
+  le marche europeen en 2010 en proposant un 4x4 accessible a moins de 15 000 EUR.
+  Lance en janvier 2018, il apporte une qualite de fabrication largement amelioree,
+  un design plus moderne et affute, une habitabilite accrue et de nouvelles
+  technologies (camera de recul, navigation, media-nav...) tout en conservant
+  le rapport qualite-prix imbattable qui a fait la reputation de Dacia.
+
+  Le moteur 1.5 dCi 110 ch est le K9K Evolution — un 4 cylindres diesel
+  developpe par Renault, monte sur une multitude de modeles du groupe
+  (Renault Kadjar, Captur, Megane, Nissan Qashqai, Juke...). Il est reconnu
+  comme l'un des moteurs diesel les plus fiables et les plus robustes de sa
+  generation, avec de nombreux exemplaires depassant 250 000 km sans intervention
+  majeure.
+
+  La version EDC6 (automatique) est disponible uniquement en traction avant
+  (4x2) sur la generation 2018 — combinaison qui convient parfaitement a
+  un usage familial et routier courant. Ce vehicule offre un rapport
+  qualite-prix/confort/fiabilite imbattable dans cette gamme de prix.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [3] MOTORISATION — 1.5 dCi K9K EVOLUTION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Type de moteur            : 4 cylindres en ligne — Diesel turbocompresse
+  Designation Renault       : K9K 636 / K9K 896 — 1.5 dCi Energy
+  Cylindree                 : 1 461 cm3 (1,461 litres — ramene a 1,5 L)
+  Alesage x Course          : 76,0 mm x 80,5 mm
+  Nombre de soupapes        : 16 (4 par cylindre)
+  Puissance maximale        : 110 ch (81 kW) a 4 000 tr/min
+  Couple maximum            : 260 Nm de 1 750 a 2 500 tr/min
+  Puissance specifique      : 75 ch/litre
+  Regime maximal            : 4 500 tr/min
+  Taux de compression       : 15,1:1
+  Alimentation              : Injection directe Common Rail — pression 1 800 bars
+  Suralimentation           : Turbocompresseur a geometrie variable (VGT)
+  Distribution              : SOHC — 16 soupapes (arbre a cames unique)
+  Refroidissement           : Eau
+  Systeme depollution       : FAP (Filtre a Particules Diesel) de serie + EGR
+  Stop & Start              : De serie (version EDC)
+  Norme antipollution       : Euro 6
+  Carburant                 : Diesel B7 minimum
+  Reservoir                 : 50 litres
+  Vidange                   : Tous les 20 000 km (huile 5W40 ACEA A3/B4)
+  Robustesse                : Moteur eprouve sur Renault/Dacia/Nissan depuis 2000
+                              Nombreux exemplaires a 250 000 km+ sans casse majeure
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [4] TRANSMISSION — EDC6 DOUBLE EMBRAYAGE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Type de boite             : EDC6 — Efficient Dual Clutch — 6 rapports
+  Principe                  : Double embrayage a sec — 2 embrayages independants
+                              Rapports impairs (1-3-5) sur un embrayage
+                              Rapports pairs (2-4-6) sur l'autre
+                              Pre-engagement du rapport suivant — passage instantane
+  Designation commerciale   : Automatique (commercialement) — robotisee (techniquement)
+  Comportement en ville     : Peut etre hachee a tres basse vitesse et en manoeuvre
+                              (limitation connue et acceptee de la DCT a sec)
+  Comportement route/autoroute : Tres doux et efficace — passages imperceptibles
+  Mode de commande          : Levier standard + mode sequentiel (+/-) en option
+  Transmission              : Traction avant (FWD) — version EDC = 4x2 uniquement
+  Note 4x4                  : La version 4x4 du Duster 1.5 dCi 110 est disponible
+                              uniquement avec boite manuelle 6 rapports en 2018
+
+  Rapports (EDC6 Getrag) :
+    1ere          : 3,727
+    2eme          : 2,050
+    3eme          : 1,350
+    4eme          : 0,970
+    5eme          : 0,780
+    6eme          : 0,620
+    Marche arriere : 3,545
+    Ratio pont    : 3,895
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [5] CHASSIS, SUSPENSIONS & FREINS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Plateforme                : CMF-B (Common Module Family B) — groupe Renault
+                              Derivee de la plateforme du Duster I (M0)
+                              adaptee et renforcee pour le Duster II
+  Structure                 : Monocoque acier
+  Suspension avant          : Jambes de force MacPherson — ressorts helicoidaux
+                              + barre anti-roulis avant
+  Suspension arriere        : Poutre de torsion (semi-independante)
+                              + ressorts helicoidaux
+                              Note : essieu arriere simple mais robuste et eprouve
+  Direction                 : Assistee electriquement — a cremaillere
+  Diametre de braquage      : 10,5 m (excellent pour un SUV — agilite en ville)
+  Garde au sol              : 210 mm — superieure a la plupart des SUV du segment
+                              (Qashqai : 180 mm / Captur : 165 mm)
+  Angle d'attaque           : 29,5 degres (version 4x2)
+  Angle de fuite            : 36,0 degres
+  Angle ventral             : 25,0 degres
+
+  Freins avant              : Disques ventiles — O 280 mm + etriers flottants
+  Freins arriere            : Tambours — O 203 mm (traction avant)
+                              Note : freins arriere a tambours normaux pour ce segment
+                              et ce niveau de puissance — maintenus moins souvent
+  Frein stationnement       : Manuel (levier a main)
+  ABS                       : Multi-canal avec EBD — de serie
+  ESP                       : Electronic Stability Control — de serie sur Duster II
+  Antipatinage              : ASR de serie
+
+  Pneumatiques              : 215/65 R17 (Confort/Prestige) — 215/60 R17 (Essentiel)
+                              ou 205/70 R15 (version de base)
+  Jantes                    : Alliage 16 ou 17 pouces selon finition
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [6] PERFORMANCES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  0 a 100 km/h              : 10,7 secondes (officiel Dacia — EDC)
+  0 a 100 km/h (BVM6)       : 11,1 secondes (manuelle — plus lente)
+  0 a 80 km/h               : environ 7,0 secondes
+  Quart de mile (400 m DA)  : environ 17,5 secondes
+  Reprise 80-120 km/h       : environ 9,5 secondes
+  Vitesse maximale          : 170 km/h
+  Rapport poids/puissance   : 12,3 kg/ch (81 ch/tonne)
+  Note                      : Performances orientees quotidien — pas sportif
+                              Couple de 260 Nm disponible tot = conduite souple
+                              EDC rend les acces autoroute plus aises que la BVM
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [7] CONSOMMATION & EMISSIONS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Consommation mixte WLTP   : 5,0 – 5,4 L/100 km
+  Consommation mixte NEDC   : 4,4 L/100 km (officiel)
+  Consommation urbaine      : 5,5 – 6,5 L/100 km (usage reel)
+  Consommation route        : 4,5 – 5,2 L/100 km (usage reel)
+  Consommation autoroute    : 5,5 – 6,5 L/100 km a 130 km/h
+  Consommation reelle moy.  : 5,0 – 6,0 L/100 km (avis proprietaires)
+  Emissions CO2 (NEDC)      : 115 g/km
+  Norme antipollution       : Euro 6
+  Vignette CRIT'Air         : CRIT'Air 2 (diesel Euro 6 — restrictions selon zones)
+  Autonomie theorique       : environ 1 136 km (50 L / 4,4 L NEDC)
+  Autonomie reelle          : environ 830 – 1 000 km (50 L / 5,5 L reel)
+  Note                      : L'une des meilleures consommations de sa categorie
+                              Temoignages : "moins de 5 L sur route"
+                              "a peine 5,5 en montagne" (avis Caradisiac)
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [8] DIMENSIONS & POIDS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Longueur totale           : 4 341 mm
+  Largeur totale            : 1 804 mm (hors retroviseurs) — 1 950 mm (avec retro)
+  Hauteur                   : 1 693 mm
+  Empattement               : 2 673 mm
+  Voie avant                : 1 522 mm
+  Voie arriere              : 1 521 mm
+  Porte-a-faux avant        : 883 mm
+  Porte-a-faux arriere      : 785 mm
+  Garde au sol              : 210 mm (4x2) — 215 mm (4x4)
+  Poids a vide (DIN)        : 1 355 kg (EDC 4x2)
+  Poids a vide (UE)         : 1 430 kg
+  PTAC                      : 1 895 kg
+  Remorquage freine         : 1 500 kg (avec crochet)
+  Remorquage non freine     : 650 kg
+  Volume coffre min.        : 445 litres (largement superieur au Duster I — 375 L)
+  Volume coffre max.        : 1 623 litres (sieges arriere rabattus)
+  Nombre de places          : 5
+  Reservoir                 : 50 litres
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [9] DESIGN EXTERIEUR — DUSTER II 2018
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Style                     : Largement retravaille vs Duster I
+                              Lignes plus angulaires et musclees — moins generiques
+                              Passage de roues elargis avec inserts noirs
+  Phares avant              : Full LED disponibles (selon finition) ou halogene serie
+  Feux de jour              : LED de serie sur les finitions superieures
+  Feux arriere              : LED (selon finition) — halogene sur base
+  Calandre                  : Nouvelle calandre avec logo Dacia central
+  Retroviseurs              : Electriques et chauffants (selon finition)
+  Passages de roues         : Elargissements plastique noirs — robustes
+  Garde au sol              : 210 mm visuellement perceptible — look SUV robuste
+  Couleurs 2018             : Blanc Glacier, Noir Etoile, Gris Comete,
+                              Bleu Iron, Orange Atacama, Rouge Valencia,
+                              Beige Dune (selon marche)
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [10] INTERIEUR & FINITIONS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Tableau de bord           : Nouveau design Duster II — plus moderne que le I
+                              Console centrale avec ecran multimedia integre
+  Ecran central             : Media Nav Evolution 7 pouces (Confort/Prestige)
+                              ou R&GO (support smartphone — base) selon finition
+  Sieges avant              : Tissu — confort correct — reglage manuel
+  Sieges arriere            : Banquette 3 places — espace correct pour 2 adultes
+                              3eme place centrale plus etroite
+  Volant                    : 3 branches — revetu tissu ou semi-cuir selon finition
+  Console centrale          : Commandes simples et lisibles — philosophie Dacia
+  Espace interieur          : Largement au-dessus de la moyenne du segment
+                              Hauteur interieure genereusse grace a 1 693 mm de hauteur
+  Coffre                    : 445 litres — le plus grand de sa categorie en 2018
+                              Plancher plat — banquette rabattable 2/3-1/3
+  Vitres                    : Electriques avant de serie
+                              Arriere electriques selon finition
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [11] TECHNOLOGIE & CONNECTIVITE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Systeme multimedia        : Media Nav Evolution — ecran 7 pouces
+  Navigation GPS            : Integree (Confort/Prestige) — cartes sur carte SD
+  Radio                     : FM + DAB selon version et marche
+  Bluetooth                 : Telephonie + streaming audio de serie (Confort+)
+  USB                       : 2 prises USB de serie
+  AUX                       : Prise auxiliaire de serie
+  Apple CarPlay             : NON — non disponible sur ce systeme
+                              (arrive sur Duster III 2024 / Media Nav Gen suivante)
+  Android Auto              : NON — meme raison
+  Camera de recul           : De serie sur finitions Confort et Prestige
+  Capteurs parking          : Arriere de serie (Prestige) — option (Confort)
+  Ordinateur de bord        : Simple — consommation + autonomie + temperature
+  Note technologie          : Dacia assume un positionnement simple et fonctionnel
+                              Media Nav solide et intuitif — sans fioritures inutiles
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [12] AIDES A LA CONDUITE & SECURITE ACTIVE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  ABS                       : Multi-canal avec EBD — de serie
+  ESP                       : Electronic Stability Control — de serie Duster II
+                              (absent sur le Duster I — grande amelioration !)
+  Antipatinage              : ASR de serie
+  Aide demarrage cote       : Hill Start Assist — de serie
+  Alerte franchissement     : Lane Departure Warning — option (Prestige+)
+  Camera de recul           : De serie Confort/Prestige — avec directives
+  Capteurs parking          : Arriere de serie (Prestige) — option Confort
+  Regulateur de vitesse     : De serie (Confort/Prestige)
+  Limiteur de vitesse       : De serie (Confort/Prestige)
+  TPMS                      : Surveillance pression pneus de serie
+  Airbags frontaux          : Conducteur + passager de serie
+  Airbags lateraux          : Thorax avant de serie
+  Airbags rideaux           : En option selon finition
+  Phares de jour LED        : Selon finition
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [13] EQUIPEMENTS DE SERIE — SELON FINITION 2018
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  -- TOUTES FINITIONS DE SERIE --
+  • ABS + EBD
+  • ESP — Electronic Stability Control (nouveaute Duster II)
+  • ASR — antipatinage
+  • Hill Start Assist
+  • Airbags frontaux conducteur + passager
+  • Airbags lateraux thorax
+  • TPMS — pression pneus
+  • Vitres electriques avant
+  • Boite EDC6 automatique
+  • Stop & Start (K9K 110 ch)
+  • FAP diesel
+
+  -- FINITION CONFORT (la plus courante en 2018) --
+  • Ecran Media Nav 7 pouces
+  • Navigation GPS sur carte SD
+  • Bluetooth + USB x2
+  • Camera de recul (avec lignes de guidage)
+  • Regulateur + limiteur de vitesse
+  • Climatisation manuelle
+  • Vitres electriques arriere
+  • Retroviseurs electriques et chauffants
+  • Jantes alliage 16 pouces
+  • Capteurs stationnement arriere (option souvent ajoutee)
+
+  -- FINITION PRESTIGE (sommet de gamme 2018) --
+    Tout le Confort + :
+  • Phares avant full LED
+  • Feux de jour LED
+  • Sieges tissu superior (motif specifique)
+  • Volant semi-cuir
+  • Boite EDC automatique incluse
+  • Camera 360° disponible en option
+  • Climatisation automatique (selon version/marche)
+  • Jantes alliage 17 pouces
+  • Lane Departure Warning (alerte voie)
+
+  Note                      : La finition exacte de ce vehicule n'est pas
+                              precisee dans l'annonce — a verifier avec le VIN
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [14] RAPPELS CONSTRUCTEUR — A VERIFIER
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  D'apres L'Argus et sources officielles, plusieurs campagnes de rappel
+  ont ete menees sur le Dacia Duster II entre 2018 et 2022 :
+
+  Rappel 1 — DIRECTION ASSISTEE :
+    Dysfonctionnement direction assistee electrique — reprogrammation necessaire
+    Vehicules concernes : Duster II produits entre 2017 et 2019
+    Action : reprogrammation calculateur direction — GRATUIT concessionnaire
+
+  Rappel 2 — BATTERIE :
+    Probleme batterie (decharge prematuree) — correction electrique
+    Vehicules concernes : certains Duster II
+    Action : remplacement ou recalibration — GRATUIT
+
+  Rappel 3 — FREINAGE :
+    Probleme detecte sur le systeme de freinage (capteur ABS ou servo)
+    Vehicules concernes : lots specifiques 2018-2019
+    Action : verification + remplacement piece si necessaire — GRATUIT
+
+  Rappel 4 — RESSORTS ARRIERE :
+    Ressorts arriere pouvant devenir bruyants — signalement Argus
+    Plus de 5 000 vehicules concernes
+    Action : remplacement ressorts — GRATUIT concessionnaire
+
+  IMPERATIF AVANT ACHAT :
+    → Verifier que tous les rappels ont ete effectues
+    → Demander le rapport de service via le numero VIN
+    → Un rappel non effectue = risque de refus de reparation en garantie
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [15] POINTS DE VIGILANCE & FIABILITE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Points positifs           :
+  • Moteur K9K 1.5 dCi — l'un des diesels les plus fiables du marche
+    Nombreux exemplaires a 200 000-300 000 km sans intervention moteur majeure
+  • Consommation excellente : <5,5 L/100 km sur route (avis proprietaires)
+  • ESP de serie (absent sur Duster I) — grande amelioration securite
+  • Coffre 445 L — le plus grand de sa categorie en 2018
+  • Garde au sol 210 mm — superieure au Qashqai (180 mm) et Captur (165 mm)
+  • Prix pieces Renault/Dacia — tres economiques vs premium
+  • Reseau Dacia/Renault — dense et accessible partout en Europe
+  • Garantie 24 mois — protection solide
+  • Livraison domicile en 5 jours
+
+  ⚠️ POINTS DE VIGILANCE :
+
+  BOITE EDC6 — LE POINT LE PLUS IMPORTANT
+    La boite EDC6 de Dacia/Renault est le point faible le plus signale
+    du Duster II par les proprietaires
+    Problemes signales :
+    → A-coups a basse vitesse en ville (normal et inherent a ce type de boite)
+    → Pannes plus serieuses sur certains exemplaires (Caradisiac — 2 pannes en 6 mois)
+    → Fourchette / actuateur embrayage : piece fragile sous certaines conditions
+    IMPERATIF avant achat :
+    → Tester specifiquement en circulation urbaine lente (parking, stop-and-go)
+    → Verifier douceur des passages en rouleaux (1-2-3)
+    → Demander si la boite a ete revisee ou si des codes d'erreur sont presents
+    → Scanner OBD — lire codes defauts boite
+    Cout revision embrayage EDC6 : 800 – 1 500 EUR
+    Cout remplacement boite EDC6 : 2 500 – 4 000 EUR
+
+  FAP DIESEL — CLASSIQUE A 125 000 km
+    FAP probablement a regenerer ou remplacement proche a ce kilometrage
+    Symptomes : message "FAP sature" — perte de puissance — augm. conso
+    IMPERATIF : parcours autoroutiers reguliers pour regeneration naturelle
+    Cout remplacement FAP : 600 – 1 200 EUR
+
+  CRIT'AIR 2 (diesel)
+    Restrictions dans certaines ZFE — verifier avant achat selon zone de residence
+    Paris intra-muros : interdit en semaine si mesures d'urgence pollution
+    Verifier la reglementation locale
+
+  COURROIE DE DISTRIBUTION
+    Remplacement prevu a 120 000 km ou 7 ans selon Renault
+    A 125 000 km ce remplacement est URGENT si non effectue
+    Cout courroie de distribution complete : 400 – 700 EUR
+    CRITIQUE : une courroie cassee = moteur detruit
+
+  FREINS ARRIERE A TAMBOURS
+    Nettoyage recommande tous les 60 000 km
+    A 125 000 km : verifier etat des machoires et cylindres de roue
+    Cout revision tambours : 200 – 400 EUR
+
+  BUDGET ENTRETIEN RECOMMANDE A L'ACHAT :
+    Courroie de distribution (si non faite) : 500 EUR — URGENTE
+    Vidange moteur + filtres complets : 200 EUR
+    Inspection generale + scanner OBD : 100 – 150 EUR
+    Freins arriere (verification) : 200 EUR
+    Total minimum recommande : 700 – 1 050 EUR
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [16] COUTS DE PROPRIETE — AVANTAGE DACIA
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Vidange moteur            : 60 – 80 EUR (huile + filtre generique)
+  Filtres air + habitacle   : 30 – 50 EUR
+  Plaquettes avant          : 80 – 120 EUR (prix pieces Dacia)
+  Pneus 215/65 R17          : 250 – 400 EUR (4 pneus milieu de gamme)
+  Courroie de distribution  : 400 – 700 EUR main d'oeuvre incluse
+  Courroie accessoires      : 80 – 150 EUR
+  Assurance annuelle        : 400 – 800 EUR (selon profil)
+  Carburant                 : 0,09 – 0,10 EUR/km (base 5,5 L/100 km a 1,75 EUR)
+  Comparaison cout/100 km   : env. 3x moins cher a entretenir qu'une Porsche,
+                              2x moins cher qu'une Audi Q5 ou BMW X3
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [17] POSITIONNEMENT & CONCURRENTS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Ce vehicule               : 2 500 EUR — Duster II dCi 110 EDC 2018 — 125 000 km
+  Nissan Qashqai dCi 110 2018: meme moteur K9K — cote 2025 : 9 000-16 000 EUR
+  Renault Kadjar dCi 110 2018: meme moteur K9K — cote 2025 : 7 000-14 000 EUR
+  Hyundai Tucson 1.7 CRDi 2018: cote 2025 : 9 000-16 000 EUR
+  Peugeot 2008 1.6 BlueHDi  : cote 2025 : 5 000-10 000 EUR
+  Skoda Karoq 1.6 TDI 2018  : cote 2025 : 10 000-18 000 EUR
+
+  Specificite Duster II     : Garde au sol 210 mm — superieure a TOUS ses concurrents
+                              Coffre 445 L — le plus grand de sa categorie
+                              Cout entretien le plus bas du segment
+                              Motorisation K9K — la plus eprouvee et robuste
+                              Prix d'acquisition imbattable vs cote marche
+                              Garantie 24 mois — meilleure que la plupart des offres
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [18] HISTORIQUE & ADN DACIA DUSTER
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Dacia (Uzina de Autoturisme Pitesti) est fondee en 1966 en Roumanie et
+  rachetee par Renault en 1999 pour un franc symbolique. Renault y applique
+  sa strategie "voiture low-cost" en utilisant des pieces fiables et eprouvees
+  du groupe, simplifiees et assemblees a faible cout dans l'usine de Mioveni.
+
+  Le premier Duster est lance en mars 2010 et revolutionne le marche europeen :
+  un SUV 4x4 accessible pour 11 000 EUR au moment ou les concurrents coutent
+  25 000 EUR ou plus. Il devient rapidement le SUV le plus vendu en Roumanie,
+  au Maroc, en Algerie et dans de nombreux marches emergents. En France, il
+  entre rapidement dans le top 10 des ventes toutes categories.
+
+  Le Duster II (2018) apporte une qualite percue largement amelioree, un design
+  plus affute, des equipements modernes (ESP, camera de recul, navigation)
+  et une securite accrue — sans sacrifier la robustesse et le rapport
+  qualite-prix qui ont fait son succes. Plus de 2 millions d'exemplaires
+  de toutes generations de Duster ont ete vendus dans le monde.
+
+  Le moteur K9K 1.5 dCi est produit depuis 2000 dans l'usine de Cacia
+  (Caen, France). Il equipe plus de 60 modeles differents du groupe Renault-
+  Nissan-Mitsubishi. C'est l'un des moteurs diesel les plus produits d'Europe —
+  plus de 10 millions d'unites fabriquees. Sa longevite et sa robustesse
+  sont legendaires — il a ete nomme plusieurs fois au "International Engine of
+  the Year" dans les annees 2000-2010.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Sources : Dacia / Renault Group — L'Argus.fr (rappels officiels)
+  Caradisiac.com (avis proprietaires) — ZePerfs.com — La Centrale
+  Fiches-auto.fr — Auto-Selection.com
+  Specifications officielles Dacia Duster II HJD 1.5 dCi 110 EDC6 (2017-2022 EU).
+================================================================================

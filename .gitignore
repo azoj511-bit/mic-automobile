@@ -28,3 +28,6 @@ dist-ssr/
 
 # Temporary files
 cahier_des_charges_extracted.txt
+__pycache__/
+*.pyc
+

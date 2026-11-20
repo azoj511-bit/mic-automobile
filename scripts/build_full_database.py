@@ -248,9 +248,8 @@ def build():
                 if v_match:
                     vmax_val = int(v_match.group(1))
                     
-            # Build image URLs
             # Web path format: /Vehicule/<brand_dir>/<model_dir>/<file>
-            img_urls = [f"/Vehicule/{urllib_quote(brand_dir)}/{urllib_quote(model_dir)}/{f}" for f in img_files]
+            img_urls = [f"/Vehicule/{brand_dir}/{model_dir}/{f}" for f in img_files]
             
             # Vehicle ID
             clean_slug = re.sub(r'[^a-zA-Z0-9]+', '-', f"{display_brand}-{model_dir}".lower()).strip('-')
